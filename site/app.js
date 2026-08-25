@@ -213,7 +213,7 @@ function renderReviewers(data) {
       .map(([name, langs]) => [name, langs.total ?? Object.values(langs).reduce((a, b) => a + b, 0)])
       .sort((a, b) => b[1] - a[1]);
     for (const [name, total] of entries) {
-      tbody.innerHTML += `<tr><td>${name}</td><td>${fmt(total)}</td></tr>`;
+      tbody.innerHTML += `<tr><td><a href="https://github.com/${name}" target="_blank">${name}</a></td><td>${fmt(total)}</td></tr>`;
     }
   }
 
