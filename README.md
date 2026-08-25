@@ -90,6 +90,20 @@ pixi run python update_stats.py
 
 This generates all JSON files in the `stats/` directory.
 
+### Automated Updates with GitHub Actions
+
+The repository includes a scheduled GitHub Actions workflow (`.github/workflows/update-stats.yml`) that runs daily at 06:00 UTC. The workflow:
+
+1. Checks out the repository
+2. Sets up the Pixi environment (with caching)
+3. Runs `fetch_cursor_json.py` to update GraphQL cursors
+4. Runs `update_pr.py` to fetch new and updated PRs
+5. Runs `update_stats.py` to recompute all statistics
+6. Commits and pushes any changes back to the repository
+
+You can also trigger the workflow manually from the **Actions** tab in GitHub.
+
+> **Note:** The workflow requires a `GH_API_TOKEN` repository secret. Create one in your repository settings under **Settings → Secrets and variables → Actions** with a [GitHub personal access token](https://github.com/settings/tokens) that has `repo` scope.
 
 ## Statistics Overview
 
