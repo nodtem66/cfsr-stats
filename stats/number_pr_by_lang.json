@@ -1,31 +1,39 @@
 {
-  "perl": {
-    "total": 48,
-    "closed": 32
+  "rust": {
+    "total": 428,
+    "closed": 366
   },
   "julia": {
     "total": 8,
     "closed": 3
   },
-  "ruby": {
-    "total": 25,
-    "closed": 22
-  },
-  "python": {
-    "total": 7060,
-    "closed": 6285
-  },
   "c-cpp": {
     "total": 894,
     "closed": 727
+  },
+  "java": {
+    "total": 58,
+    "closed": 37
   },
   "go": {
     "total": 196,
     "closed": 174
   },
+  "perl": {
+    "total": 48,
+    "closed": 32
+  },
+  "ruby": {
+    "total": 25,
+    "closed": 22
+  },
   "python-c": {
     "total": 617,
     "closed": 484
+  },
+  "python": {
+    "total": 7060,
+    "closed": 6285
   },
   "nodejs": {
     "total": 129,
@@ -34,13 +42,5 @@
   "R": {
     "total": 769,
     "closed": 693
-  },
-  "java": {
-    "total": 58,
-    "closed": 37
-  },
-  "rust": {
-    "total": 428,
-    "closed": 366
   }
 }
