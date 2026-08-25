@@ -1,74 +1,74 @@
 {
   "2015": {
-    "submission": 39,
-    "submission_rate": 0.3305084745762712,
     "acceptance": 35,
-    "acceptance_rate": 0.2966101694915254
+    "acceptance_rate": 0.2966101694915254,
+    "submission": 39,
+    "submission_rate": 0.3305084745762712
   },
   "2016": {
-    "submission": 1934,
-    "submission_rate": 5.357340720221607,
     "acceptance": 1608,
-    "acceptance_rate": 4.454293628808864
+    "acceptance_rate": 4.454293628808864,
+    "submission": 1934,
+    "submission_rate": 5.357340720221607
   },
   "2017": {
-    "submission": 2367,
-    "submission_rate": 6.502747252747253,
     "acceptance": 1828,
-    "acceptance_rate": 5.021978021978022
+    "acceptance_rate": 5.021978021978022,
+    "submission": 2367,
+    "submission_rate": 6.502747252747253
   },
   "2018": {
-    "submission": 2583,
-    "submission_rate": 7.096153846153846,
     "acceptance": 2029,
-    "acceptance_rate": 5.574175824175824
+    "acceptance_rate": 5.574175824175824,
+    "submission": 2583,
+    "submission_rate": 7.096153846153846
   },
   "2019": {
-    "submission": 2948,
-    "submission_rate": 8.098901098901099,
     "acceptance": 2424,
-    "acceptance_rate": 6.65934065934066
+    "acceptance_rate": 6.65934065934066,
+    "submission": 2948,
+    "submission_rate": 8.098901098901099
   },
   "2020": {
-    "submission": 2987,
-    "submission_rate": 8.206043956043956,
     "acceptance": 2471,
-    "acceptance_rate": 6.788461538461538
+    "acceptance_rate": 6.788461538461538,
+    "submission": 2987,
+    "submission_rate": 8.206043956043956
   },
   "2021": {
-    "submission": 3750,
-    "submission_rate": 10.330578512396695,
     "acceptance": 2955,
-    "acceptance_rate": 8.140495867768594
+    "acceptance_rate": 8.140495867768594,
+    "submission": 3750,
+    "submission_rate": 10.330578512396695
   },
   "2022": {
-    "submission": 4168,
-    "submission_rate": 11.45054945054945,
     "acceptance": 3198,
-    "acceptance_rate": 8.785714285714286
+    "acceptance_rate": 8.785714285714286,
+    "submission": 4168,
+    "submission_rate": 11.45054945054945
   },
   "2023": {
-    "submission": 3167,
-    "submission_rate": 8.70054945054945,
     "acceptance": 2391,
-    "acceptance_rate": 6.568681318681318
+    "acceptance_rate": 6.568681318681318,
+    "submission": 3167,
+    "submission_rate": 8.70054945054945
   },
   "2024": {
-    "submission": 3751,
-    "submission_rate": 10.276712328767124,
     "acceptance": 2873,
-    "acceptance_rate": 7.8712328767123285
+    "acceptance_rate": 7.8712328767123285,
+    "submission": 3751,
+    "submission_rate": 10.276712328767124
   },
   "2025": {
-    "submission": 3001,
-    "submission_rate": 8.244505494505495,
     "acceptance": 2288,
-    "acceptance_rate": 6.285714285714286
+    "acceptance_rate": 6.285714285714286,
+    "submission": 3001,
+    "submission_rate": 8.244505494505495
   },
   "2026": {
-    "submission": 2774,
-    "submission_rate": 11.754237288135593,
     "acceptance": 1723,
-    "acceptance_rate": 7.3008474576271185
+    "acceptance_rate": 7.3008474576271185,
+    "submission": 2774,
+    "submission_rate": 11.754237288135593
   }
 }
