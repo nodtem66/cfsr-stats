@@ -35,7 +35,7 @@ def number_pr_by_lang(df: pd.DataFrame, langs: Iterable) -> dict:
     return count
 
 def time_to_merge(df: pd.DataFrame, langs: Iterable) -> dict:
-    ttm: dict[str,float] = {}
+    ttm = {}
     duration = df['merged_at'] - df['created_at']
     for lang in langs:
         mask = df["labels"].str.contains(lang).dropna()
@@ -82,7 +82,7 @@ def top_reviewer(df: pd.DataFrame, langs: Iterable) -> dict:
 
 def save_to_json(data: dict, path: str):
     with open(path, "w") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, sort_keys=True)
 
 if __name__ == "__main__":
     df = pd.read_csv(config.CSV_FILE, index_col="number", na_filter=False)
