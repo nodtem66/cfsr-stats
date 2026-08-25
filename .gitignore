@@ -1,0 +1,20 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# python
+__pycache__/
+
+# vscode
+.vscode/
+
+# env
+.env
+.env.*
+
+# result
+*.jsonl.zstd
+
+# dev folder
+images/
+notebook/

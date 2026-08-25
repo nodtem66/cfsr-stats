@@ -1,0 +1,46 @@
+{
+  "perl": {
+    "total": 48,
+    "closed": 32
+  },
+  "julia": {
+    "total": 8,
+    "closed": 3
+  },
+  "ruby": {
+    "total": 25,
+    "closed": 22
+  },
+  "python": {
+    "total": 7060,
+    "closed": 6285
+  },
+  "c-cpp": {
+    "total": 894,
+    "closed": 727
+  },
+  "go": {
+    "total": 196,
+    "closed": 174
+  },
+  "python-c": {
+    "total": 617,
+    "closed": 484
+  },
+  "nodejs": {
+    "total": 129,
+    "closed": 62
+  },
+  "R": {
+    "total": 769,
+    "closed": 693
+  },
+  "java": {
+    "total": 58,
+    "closed": 37
+  },
+  "rust": {
+    "total": 428,
+    "closed": 366
+  }
+}
