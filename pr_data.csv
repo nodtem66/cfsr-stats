@@ -32141,7 +32141,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33294,Add recipe for agent-memory-guard (OWASP AI agent memory security tool),vgudur-dev,False,,,,2026-05-11 02:14:17+00:00,
 33295,Add zsh-jupyter-kernel v3.5.1,eunos-1128,True,review-requested;python,pavelzw,2026-07-07 06:32:47+00:00,2026-05-11 03:56:33+00:00,2026-07-07 06:32:47+00:00
 33296,Add isaaclab kit-less recipe,jeongseok-meta,False,,,,2026-05-11 04:42:55+00:00,2026-05-11 14:55:43+00:00
-33297,Add filament,jeongseok-meta,False,review-requested;c-cpp,,,2026-05-11 08:27:36+00:00,
+33297,Add filament,jeongseok-meta,False,review-requested;c-cpp,carterbox,2026-08-25 23:38:27+00:00,2026-05-11 08:27:36+00:00,2026-08-25 23:38:27+00:00
 33298,add peaks-arpes recipe,phrgab,True,staged-recipes;review-requested;python,ocefpaf,2026-05-11 20:18:02+00:00,2026-05-11 14:27:13+00:00,2026-05-11 20:18:02+00:00
 33299,Adding GeoST,Erik-Geo,True,review-requested;python,ocefpaf,2026-05-12 13:22:34+00:00,2026-05-11 14:47:45+00:00,2026-05-12 13:22:34+00:00
 33300,Add nrgljubljana,rokzitko,True,review-requested;c-cpp,traversaro,2026-08-18 17:57:27+00:00,2026-05-11 15:09:29+00:00,2026-08-18 17:57:27+00:00
@@ -33468,3 +33468,6 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34630,Adding brand-yml,schloerke,False,review-requested;python,,,2026-08-25 15:50:33+00:00,
 34631,Add gamma lake,timkpaine,False,review-requested;python,ocefpaf,2026-08-25 18:00:16+00:00,2026-08-25 16:20:06+00:00,2026-08-25 18:00:16+00:00
 34632,add spaday-dagre and spaday-studio,timkpaine,False,review-requested;python,,,2026-08-25 16:56:31+00:00,
+34633,Adding pytensor-ml,jessegrabowski,False,review-requested;python,,,2026-08-25 22:33:15+00:00,
+34634,Add QEMU system mode,MementoRC,False,,,,2026-08-25 23:08:28+00:00,
+34635,Add pptxgenjs-plus Build PowerPoint presentations with JavaScript.,rxm7706,False,nodejs;review-requested,,,2026-08-26 00:17:24+00:00,
