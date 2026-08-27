@@ -32780,7 +32780,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33936,Add opik — Comet LLM evaluation/observability SDK,rxm7706,False,,,,2026-06-26 23:09:16+00:00,2026-06-26 23:46:47+00:00
 33937,Adding opik,rxm7706,False,review-requested;python,,,2026-06-27 00:13:17+00:00,
 33938,Adding trustcall,rxm7706,False,review-requested;python,,,2026-06-27 00:29:52+00:00,
-33939,Adding langchain-graph-retriever,rxm7706,False,review-requested;python,,,2026-06-27 00:34:34+00:00,
+33939,Adding langchain-graph-retriever,rxm7706,False,review-requested;python,isuruf,2026-08-27 18:33:47+00:00,2026-06-27 00:34:34+00:00,2026-08-27 18:33:47+00:00
 33940,Adding langchain-google-vertexai,rxm7706,False,review-requested;python,,,2026-06-27 06:34:10+00:00,
 33941,Adding langchain-sambanova,rxm7706,False,review-requested;python,,,2026-06-27 06:43:05+00:00,
 33942,Add firecrawl-py,rxm7706,False,review-requested;python,,,2026-06-27 11:52:04+00:00,
@@ -33318,7 +33318,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34478,adding tuxguitar recipe,travishathaway,False,,,,2026-08-10 09:37:31+00:00,
 34479,Add recipe for slackeventsapi 3.0.3,m0nonoke,True,review-requested;python,ocefpaf,2026-08-10 14:35:29+00:00,2026-08-10 09:47:55+00:00,2026-08-10 14:35:29+00:00
 34480,Add metriplane,Miko997,True,review-requested;python,ocefpaf,2026-08-10 14:40:37+00:00,2026-08-10 10:11:58+00:00,2026-08-10 14:40:37+00:00
-34481,Add snapshot 0.1.2,m0nonoke,False,review-requested;python,,,2026-08-10 10:25:58+00:00,
+34481,Add snapshot 0.1.2,m0nonoke,False,review-requested;python,ocefpaf,2026-08-27 19:47:32+00:00,2026-08-10 10:25:58+00:00,2026-08-27 19:47:32+00:00
 34482,Fix rerenders in `triangular`,jaimergp,True,maintenance,jaimergp,2026-08-10 12:05:26+00:00,2026-08-10 11:25:35+00:00,2026-08-10 12:05:26+00:00
 34483,Fix tonio temporarily,jaimergp,True,maintenance,jaimergp,2026-08-10 12:09:11+00:00,2026-08-10 12:03:59+00:00,2026-08-10 12:09:11+00:00
 34484,Add prothon,ainaadekunle,False,review-requested;python,,,2026-08-10 14:03:28+00:00,
@@ -33487,10 +33487,13 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34649,Add xacrodoc,Tobias-Fischer,True,review-requested;python,traversaro,2026-08-26 22:37:10+00:00,2026-08-26 21:14:37+00:00,2026-08-26 22:37:10+00:00
 34650,Adding pyradiosky,bhazelton,True,review-requested;python,ocefpaf,2026-08-27 09:57:02+00:00,2026-08-26 23:28:26+00:00,2026-08-27 09:57:02+00:00
 34651,Add pdf-inspector,XhstormR,True,review-requested;rust,Hofer-Julian,2026-08-27 06:47:22+00:00,2026-08-27 04:19:16+00:00,2026-08-27 06:47:22+00:00
-34652,Add `jupyter-live-content`,dlqqq,False,,,,2026-08-27 05:20:40+00:00,
+34652,Add `jupyter-live-content`,dlqqq,False,,isuruf,2026-08-27 18:34:12+00:00,2026-08-27 05:20:40+00:00,2026-08-27 18:34:12+00:00
 34653,Add topo-tools,maxmalynowsky,False,,,,2026-08-27 06:33:21+00:00,
-34654,Adding opendal,Xuanwo,False,,,,2026-08-27 07:30:02+00:00,
+34654,Adding opendal,Xuanwo,False,review-requested;rust,,,2026-08-27 07:30:02+00:00,
 34655,Add dynaref,StefGre,False,,,,2026-08-27 12:23:43+00:00,
 34656,Add asyn,anderslindho,False,review-requested;c-cpp,,,2026-08-27 13:57:26+00:00,
 34657,Add grpc-requests 0.1.21,m0nonoke,False,review-requested;python,eunos-1128,2026-08-27 15:24:29+00:00,2026-08-27 14:07:09+00:00,2026-08-27 15:24:29+00:00
 34658,Add pyFCS to conda-forge,harripd,False,,,,2026-08-27 14:10:34+00:00,
+34659,Add tomviz-pipeline,psavery,False,review-requested;python,,,2026-08-27 18:34:01+00:00,
+34660,add esi-shakelib,ocefpaf,False,,,,2026-08-27 19:22:38+00:00,
+34661,Add quadrants,jeongseok-meta,False,,,,2026-08-27 20:28:32+00:00,

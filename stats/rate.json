@@ -1,74 +1,74 @@
 {
   "2015": {
     "acceptance": 35,
-    "acceptance_rate": 0.2966101694915254,
+    "acceptance_rate": 0.3,
     "submission": 39,
-    "submission_rate": 0.3305084745762712
+    "submission_rate": 0.33
   },
   "2016": {
     "acceptance": 1608,
-    "acceptance_rate": 4.454293628808864,
+    "acceptance_rate": 4.45,
     "submission": 1934,
-    "submission_rate": 5.357340720221607
+    "submission_rate": 5.36
   },
   "2017": {
     "acceptance": 1828,
-    "acceptance_rate": 5.021978021978022,
+    "acceptance_rate": 5.02,
     "submission": 2367,
-    "submission_rate": 6.502747252747253
+    "submission_rate": 6.5
   },
   "2018": {
     "acceptance": 2029,
-    "acceptance_rate": 5.574175824175824,
+    "acceptance_rate": 5.57,
     "submission": 2583,
-    "submission_rate": 7.096153846153846
+    "submission_rate": 7.1
   },
   "2019": {
     "acceptance": 2424,
-    "acceptance_rate": 6.65934065934066,
+    "acceptance_rate": 6.66,
     "submission": 2948,
-    "submission_rate": 8.098901098901099
+    "submission_rate": 8.1
   },
   "2020": {
     "acceptance": 2471,
-    "acceptance_rate": 6.788461538461538,
+    "acceptance_rate": 6.79,
     "submission": 2987,
-    "submission_rate": 8.206043956043956
+    "submission_rate": 8.21
   },
   "2021": {
     "acceptance": 2955,
-    "acceptance_rate": 8.140495867768594,
+    "acceptance_rate": 8.14,
     "submission": 3750,
-    "submission_rate": 10.330578512396695
+    "submission_rate": 10.33
   },
   "2022": {
     "acceptance": 3198,
-    "acceptance_rate": 8.785714285714286,
+    "acceptance_rate": 8.79,
     "submission": 4168,
-    "submission_rate": 11.45054945054945
+    "submission_rate": 11.45
   },
   "2023": {
     "acceptance": 2391,
-    "acceptance_rate": 6.568681318681318,
+    "acceptance_rate": 6.57,
     "submission": 3167,
-    "submission_rate": 8.70054945054945
+    "submission_rate": 8.7
   },
   "2024": {
     "acceptance": 2873,
-    "acceptance_rate": 7.8712328767123285,
+    "acceptance_rate": 7.87,
     "submission": 3751,
-    "submission_rate": 10.276712328767124
+    "submission_rate": 10.28
   },
   "2025": {
     "acceptance": 2288,
-    "acceptance_rate": 6.285714285714286,
+    "acceptance_rate": 6.29,
     "submission": 3001,
-    "submission_rate": 8.244505494505495
+    "submission_rate": 8.24
   },
   "2026": {
     "acceptance": 1736,
-    "acceptance_rate": 7.294117647058823,
-    "submission": 2800,
-    "submission_rate": 11.764705882352942
+    "acceptance_rate": 7.29,
+    "submission": 2803,
+    "submission_rate": 11.78
   }
 }

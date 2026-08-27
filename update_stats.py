@@ -41,9 +41,9 @@ def time_to_merge(df: pd.DataFrame, langs: Iterable) -> dict:
         mask = df["labels"].str.contains(lang).dropna()
         ds = duration[mask].dropna().dt.total_seconds() / SECONDS_IN_DAY
         ttm[lang] = {
-            "min": ds.min(),
-            "median": ds.median(),
-            "p95": ds.quantile(0.95)
+            "min": round(ds.min(), config.FORMAT_DECIMAL_POINT),
+            "median": round(ds.median(), config.FORMAT_DECIMAL_POINT),
+            "p95": round(ds.quantile(0.95), config.FORMAT_DECIMAL_POINT)
         }
     return ttm
 
@@ -58,9 +58,9 @@ def submission_and_acceptance_rate(df: pd.DataFrame) -> dict:
         duration = _df["created_at"].max() - _df["created_at"].min()
         rate[year] = {
             "submission": total_prs,
-            "submission_rate": total_prs / duration.days,
+            "submission_rate": round(total_prs / duration.days, config.FORMAT_DECIMAL_POINT),
             "acceptance": closed_prs,
-            "acceptance_rate": closed_prs / duration.days
+            "acceptance_rate": round(closed_prs / duration.days, config.FORMAT_DECIMAL_POINT)
         }
     return rate
 

@@ -29,7 +29,7 @@
   },
   "python": {
     "closed": 6292,
-    "total": 7072
+    "total": 7073
   },
   "python-c": {
     "closed": 484,
@@ -41,6 +41,6 @@
   },
   "rust": {
     "closed": 367,
-    "total": 429
+    "total": 430
   }
 }
