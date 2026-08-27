@@ -32758,7 +32758,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33914,Add google-cloud-vectorsearch,rxm7706,True,review-requested;python,ocefpaf,2026-06-26 10:00:35+00:00,2026-06-26 04:00:10+00:00,2026-06-26 10:00:35+00:00
 33915,Add google-cloud-modelarmor,rxm7706,False,review-requested;python,,,2026-06-26 04:03:17+00:00,
 33916,Create recipe.yaml for SambaNova package,rxm7706,True,review-requested;python,ocefpaf,2026-06-26 10:01:53+00:00,2026-06-26 04:07:22+00:00,2026-06-26 10:01:53+00:00
-33917,Create recipe.yaml for langchain-litellm package,rxm7706,False,review-requested;python,,,2026-06-26 04:12:45+00:00,
+33917,Create recipe.yaml for langchain-litellm package,rxm7706,False,review-requested;python,eunos-1128,2026-08-27 16:38:34+00:00,2026-06-26 04:12:45+00:00,2026-08-27 16:38:34+00:00
 33918,Create recipe.yaml for mypy-boto3-bedrock-runtime,rxm7706,True,review-requested;python,matthewfeickert,2026-06-26 06:28:32+00:00,2026-06-26 04:15:02+00:00,2026-06-26 06:28:32+00:00
 33919,Adding smokeping_prober,pavelzw,True,review-requested;go,xhochy,2026-06-26 07:51:59+00:00,2026-06-26 07:26:53+00:00,2026-06-26 07:51:59+00:00
 33920,add pywebview,jaromieee,False,review-requested;python,,,2026-06-26 08:18:57+00:00,
@@ -32791,10 +32791,10 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33947,Add cleanlab-tlm,rxm7706,True,review-requested;python,matthewfeickert,2026-06-30 21:51:23+00:00,2026-06-27 11:53:48+00:00,2026-06-30 21:51:23+00:00
 33948,Add scrapegraph-py,rxm7706,False,review-requested;python,,,2026-06-27 11:53:51+00:00,
 33949,Add composio-langchain,rxm7706,False,review-requested;python,,,2026-06-27 11:53:54+00:00,
-33950,Add langchain-cohere,rxm7706,False,review-requested;python,,,2026-06-27 11:53:58+00:00,
+33950,Add langchain-cohere,rxm7706,False,review-requested;python,eunos-1128,2026-08-27 16:43:01+00:00,2026-06-27 11:53:58+00:00,2026-08-27 16:43:02+00:00
 33951,Add mem0ai,rxm7706,False,staged-recipes;review-requested;python,pavelzw,2026-08-27 08:39:49+00:00,2026-06-27 11:54:01+00:00,2026-08-27 08:39:49+00:00
 33952,Add langchain-google-calendar-tools,rxm7706,False,staged-recipes;review-requested;python,eunos-1128,2026-08-27 12:00:51+00:00,2026-06-27 11:54:04+00:00,2026-08-27 12:00:51+00:00
-33953,Add metal-sdk,rxm7706,False,review-requested;python,,,2026-06-27 11:54:07+00:00,
+33953,Add metal-sdk,rxm7706,False,review-requested;python,eunos-1128,2026-08-27 16:13:46+00:00,2026-06-27 11:54:07+00:00,2026-08-27 16:13:46+00:00
 33954,Add langchain-nvidia-ai-endpoints,rxm7706,False,staged-recipes;review-requested;python,eunos-1128,2026-08-27 09:35:11+00:00,2026-06-27 11:54:10+00:00,2026-08-27 09:35:12+00:00
 33955,Add langchain-pinecone,rxm7706,False,review-requested;python,,,2026-06-27 11:54:13+00:00,
 33956,Add langchain-weaviate,rxm7706,False,review-requested;python,,,2026-06-27 11:54:16+00:00,2026-07-03 11:52:00+00:00
@@ -33282,7 +33282,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34441,Feature/recipe strawberry sqlalchemy mapper,m0nonoke,True,review-requested;python,matthewfeickert,2026-08-06 20:20:31+00:00,2026-08-06 11:48:30+00:00,2026-08-06 20:20:31+00:00
 34442,Add litterbox,salim-b,False,,,,2026-08-06 12:33:59+00:00,2026-08-06 12:34:48+00:00
 34443,feat: add `litterbox`,salim-b,True,review-requested;rust,pavelzw,2026-08-06 15:10:41+00:00,2026-08-06 12:35:05+00:00,2026-08-06 15:10:41+00:00
-34444,Add polyxios,skoudoro,False,review-requested;python-c,,,2026-08-06 13:45:01+00:00,
+34444,Add polyxios,skoudoro,False,review-requested;python-c,eunos-1128,2026-08-27 15:33:36+00:00,2026-08-06 13:45:01+00:00,2026-08-27 15:33:36+00:00
 34445,[meta] update v1 example readme,bollwyvl,True,maintenance;staged-recipes;review-requested,carterbox,2026-08-06 18:42:15+00:00,2026-08-06 14:01:29+00:00,2026-08-06 18:42:15+00:00
 34446,add arabic-reshaper,bollwyvl,True,review-requested;python,ocefpaf,2026-08-06 15:20:18+00:00,2026-08-06 14:28:20+00:00,2026-08-06 15:20:18+00:00
 34447,Adding nanover-server,Ragzouken,False,staged-recipes;review-requested;python,,,2026-08-06 14:55:28+00:00,
@@ -33444,10 +33444,10 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34606,Add ponys-ai-resources 0.3.0,wujoe132,False,review-requested;python,,,2026-08-22 09:45:32+00:00,
 34607,Add conda-sboms,jezdez,True,review-requested;python,jezdez,2026-08-22 12:52:08+00:00,2026-08-22 10:10:44+00:00,2026-08-22 12:52:08+00:00
 34608,Add DotMatch,dnncha,False,,,,2026-08-22 10:27:55+00:00,
-34609,Add pdcursesmod - ncurses library for win32 console,nodtem66,False,review-requested;c-cpp,,,2026-08-22 22:28:21+00:00,
+34609,Add pdcursesmod - ncurses library for win32 console,nodtem66,False,review-requested;c-cpp,,,2026-08-22 22:28:21+00:00,2026-08-27 15:31:51+00:00
 34610,Add paneru,XhstormR,False,review-requested;rust,eunos-1128,2026-08-27 02:39:27+00:00,2026-08-23 04:48:53+00:00,2026-08-27 02:39:27+00:00
 34611,add nxsconfigserver,jkotan,True,,wolfv,2026-08-25 09:06:32+00:00,2026-08-23 07:46:42+00:00,2026-08-25 09:06:32+00:00
-34612,add pushtodisplay 0.1.14,sourceshipper,False,nodejs;review-requested,,,2026-08-23 07:47:45+00:00,
+34612,add pushtodisplay 0.1.14,sourceshipper,False,nodejs;review-requested,eunos-1128,2026-08-27 16:18:32+00:00,2026-08-23 07:47:45+00:00,2026-08-27 16:18:32+00:00
 34613,Add staged recipe for rpcgen,anderslindho,False,review-requested;c-cpp,,,2026-08-24 08:08:15+00:00,
 34614,add nxswriter,jkotan,False,,wolfv,2026-08-26 09:35:06+00:00,2026-08-24 08:16:36+00:00,2026-08-26 09:35:06+00:00
 34615,Adding pgadmin4,millsks,False,review-requested;python,,,2026-08-24 12:01:45+00:00,
@@ -33492,5 +33492,5 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34654,Adding opendal,Xuanwo,False,,,,2026-08-27 07:30:02+00:00,
 34655,Add dynaref,StefGre,False,,,,2026-08-27 12:23:43+00:00,
 34656,Add asyn,anderslindho,False,review-requested;c-cpp,,,2026-08-27 13:57:26+00:00,
-34657,Add grpc-requests 0.1.21,m0nonoke,False,review-requested;python,,,2026-08-27 14:07:09+00:00,
+34657,Add grpc-requests 0.1.21,m0nonoke,False,review-requested;python,eunos-1128,2026-08-27 15:24:29+00:00,2026-08-27 14:07:09+00:00,2026-08-27 15:24:29+00:00
 34658,Add pyFCS to conda-forge,harripd,False,,,,2026-08-27 14:10:34+00:00,
