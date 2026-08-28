@@ -32781,7 +32781,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33937,Adding opik,rxm7706,False,review-requested;python,,,2026-06-27 00:13:17+00:00,
 33938,Adding trustcall,rxm7706,False,review-requested;python,,,2026-06-27 00:29:52+00:00,
 33939,Adding langchain-graph-retriever,rxm7706,False,review-requested;python,isuruf,2026-08-27 18:33:47+00:00,2026-06-27 00:34:34+00:00,2026-08-27 18:33:47+00:00
-33940,Adding langchain-google-vertexai,rxm7706,False,review-requested;python,,,2026-06-27 06:34:10+00:00,
+33940,Adding langchain-google-vertexai,rxm7706,False,review-requested;python,,,2026-06-27 06:34:10+00:00,2026-08-27 22:50:23+00:00
 33941,Adding langchain-sambanova,rxm7706,False,review-requested;python,,,2026-06-27 06:43:05+00:00,
 33942,Add firecrawl-py,rxm7706,False,review-requested;python,,,2026-06-27 11:52:04+00:00,
 33943,Add astrapy,rxm7706,True,review-requested;python,ocefpaf,2026-06-29 12:32:23+00:00,2026-06-27 11:53:35+00:00,2026-06-29 12:32:23+00:00
@@ -33451,7 +33451,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34613,Add staged recipe for rpcgen,anderslindho,False,review-requested;c-cpp,,,2026-08-24 08:08:15+00:00,
 34614,add nxswriter,jkotan,False,,wolfv,2026-08-26 09:35:06+00:00,2026-08-24 08:16:36+00:00,2026-08-26 09:35:06+00:00
 34615,Adding pgadmin4,millsks,False,review-requested;python,,,2026-08-24 12:01:45+00:00,
-34616,Adding liquilens-evidence 0.14.0,beepboop2025,False,review-requested;python,,,2026-08-24 12:11:45+00:00,
+34616,Adding liquilens-evidence 0.14.0,beepboop2025,False,review-requested;python,eunos-1128,2026-08-28 06:33:40+00:00,2026-08-24 12:11:45+00:00,2026-08-28 06:33:40+00:00
 34617,add pyrage-stubs,pavelzw,True,review-requested;python,ocefpaf,2026-08-24 15:44:42+00:00,2026-08-24 14:16:08+00:00,2026-08-24 15:44:42+00:00
 34618,Adding sage-data-elliptic-curves,cxzhong,False,review-requested;python,,,2026-08-24 16:33:37+00:00,
 34619,Adding sage-data-polytopes,cxzhong,False,Awaiting author contribution;python,matthewfeickert,2026-08-26 07:49:14+00:00,2026-08-24 16:33:42+00:00,2026-08-26 07:49:14+00:00
@@ -33480,7 +33480,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34642,Adding datamaite,mikemazara,False,,,,2026-08-26 16:39:24+00:00,
 34643,add sardana-nxsrecorder recipe,jkotan,True,,wolfv,2026-08-27 08:45:51+00:00,2026-08-26 16:43:04+00:00,2026-08-27 08:45:51+00:00
 34644,Add extra-streamlit-components,EllaBootQC,True,review-requested;python,xhochy,2026-08-27 07:15:40+00:00,2026-08-26 17:02:00+00:00,2026-08-27 07:15:40+00:00
-34645,Add streamlit-authenticator,EllaBootQC,False,,,,2026-08-26 17:03:49+00:00,
+34645,Add streamlit-authenticator,EllaBootQC,False,,pavelzw,2026-08-27 20:50:53+00:00,2026-08-26 17:03:49+00:00,2026-08-27 20:50:54+00:00
 34646,add nxstaurusgui recipe,jkotan,True,,wolfv,2026-08-27 08:42:09+00:00,2026-08-26 17:39:46+00:00,2026-08-27 08:42:09+00:00
 34647,add nxsblisswriter recipe,jkotan,True,,wolfv,2026-08-27 10:20:49+00:00,2026-08-26 18:07:54+00:00,2026-08-27 10:20:49+00:00
 34648,add fioblisswriter recipe,jkotan,True,,wolfv,2026-08-27 10:20:21+00:00,2026-08-26 18:51:09+00:00,2026-08-27 10:20:21+00:00
@@ -33497,3 +33497,6 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34659,Add tomviz-pipeline,psavery,False,review-requested;python,,,2026-08-27 18:34:01+00:00,
 34660,add esi-shakelib,ocefpaf,False,,,,2026-08-27 19:22:38+00:00,
 34661,Add quadrants,jeongseok-meta,False,,,,2026-08-27 20:28:32+00:00,
+34662,Adding sarkit-processing,pressler-vsc,True,review-requested;python,ocefpaf,2026-08-27 22:59:17+00:00,2026-08-27 22:50:13+00:00,2026-08-27 22:59:17+00:00
+34663,Add cloudsmith-cli 1.26.0,BartoszBlizniak,False,,,,2026-08-28 08:31:15+00:00,
+34664,Create meta.yaml,AtharvaTilewale,False,,,,2026-08-28 08:49:06+00:00,
