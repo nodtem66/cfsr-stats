@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cfsr-stats"
+version = "0.1.0"
+description = "conda-forge/staged-recipes Review Statistics"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.13"
+authors = [
+    { name = "Jirawat Iamsamang" },
+]
+dependencies = [
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "pandas>=3.0.5",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter",
+    "notebook",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

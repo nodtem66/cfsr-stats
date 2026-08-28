@@ -1,9 +1,7 @@
-"""
-Run this script once for creating pr_data.csv
-"""
+"""Fetch all PR data and create pr_data.csv (entry point)."""
 
-import config
-from pull_request import PullRequest, fetch_pr
+from cfsr_stats import config
+from cfsr_stats.pull_request import PullRequest, fetch_pr
 
 if __name__ == "__main__":
     config.print_config()

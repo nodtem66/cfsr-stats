@@ -1,12 +1,9 @@
-"""
-Run this script for adding new PRs and updating opened to pr_data.csv
-"""
-import sys
+"""Update PR data incrementally (entry point)."""
 
 import pandas as pd
 
-import config
-from pull_request import fetch_pr_as_dataframe
+from cfsr_stats import config
+from cfsr_stats.pull_request import fetch_pr_as_dataframe
 
 if __name__ == "__main__":
     config.print_config()
@@ -14,9 +11,9 @@ if __name__ == "__main__":
 
     # Load cursor database
     cursors = config.load_cursor_json()
-    
+
     if len(cursors) == 0:
-        print("No cursors found in cursor.json.\nPlease run fetch_cursor.py to fetch the cursors first.")
+        print("No cursors found in cursor.json.\nPlease run fetch_cursors to fetch the cursors first.")
         sys.exit(0)
 
     last_pr = max(cursors.keys())
@@ -33,8 +30,8 @@ if __name__ == "__main__":
         print(f"Missing {n_missing} PRs")
         new_df = fetch_pr_as_dataframe(limit=n_missing)
         df = df.combine_first(new_df)
+
     # Update merged only previous 1000 PRs
     new_df = fetch_pr_as_dataframe(limit=1000, sort_by="UPDATED_AT")
     df = df.combine_first(new_df)
     df.to_csv(config.CSV_FILE)
-          

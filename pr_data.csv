@@ -33362,7 +33362,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34523,add pyprms 0.9.10,jmccreight,True,review-requested;python,ocefpaf,2026-08-13 20:11:47+00:00,2026-08-13 18:47:06+00:00,2026-08-13 20:11:47+00:00
 34524,Added fasttransport as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-08-20 18:12:06+00:00,2026-08-13 20:41:50+00:00,2026-08-20 18:12:06+00:00
 34525,Add officework,awoni,False,review-requested;python-c,,,2026-08-13 22:46:17+00:00,
-34526,Add r-sepkoski,matthewfeickert,False,R;review-requested,,,2026-08-14 01:53:40+00:00,
+34526,Add r-sepkoski,matthewfeickert,False,R;review-requested,dbast,2026-08-28 19:12:14+00:00,2026-08-14 01:53:40+00:00,2026-08-28 19:12:14+00:00
 34527,Add practrand and testu01,mikemhenry,False,,,,2026-08-14 05:25:33+00:00,
 34528,add jsonschema-markdown,bollwyvl,True,,ocefpaf,2026-08-15 12:33:28+00:00,2026-08-14 14:26:40+00:00,2026-08-15 12:33:28+00:00
 34529,Adding speedups,wolph,False,,,,2026-08-14 16:08:00+00:00,
@@ -33496,7 +33496,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34658,Add pyFCS to conda-forge,harripd,False,,,,2026-08-27 14:10:34+00:00,
 34659,Add tomviz-pipeline,psavery,False,review-requested;python,,,2026-08-27 18:34:01+00:00,
 34660,add esi-shakelib,ocefpaf,False,review-requested;python,eunos-1128,2026-08-28 15:21:37+00:00,2026-08-27 19:22:38+00:00,2026-08-28 15:21:37+00:00
-34661,Add quadrants,jeongseok-meta,False,,,,2026-08-27 20:28:32+00:00,
+34661,Add quadrants,jeongseok-meta,False,review-requested;python-c,,,2026-08-27 20:28:32+00:00,
 34662,Adding sarkit-processing,pressler-vsc,True,review-requested;python,ocefpaf,2026-08-27 22:59:17+00:00,2026-08-27 22:50:13+00:00,2026-08-27 22:59:17+00:00
 34663,Add cloudsmith-cli 1.26.0,BartoszBlizniak,False,review-requested;python,eunos-1128,2026-08-28 15:09:03+00:00,2026-08-28 08:31:15+00:00,2026-08-28 15:09:03+00:00
 34664,Create meta.yaml,AtharvaTilewale,False,review-requested;python,ocefpaf,2026-08-28 13:07:50+00:00,2026-08-28 08:49:06+00:00,2026-08-28 13:07:50+00:00

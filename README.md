@@ -61,7 +61,7 @@ Understanding the dynamics of this review process is important for several reaso
 #### 1. Fetch cursors (initial setup)
 
 ```bash
-pixi run python fetch_cursor_json.py
+pixi run python scripts/fetch_cursors.py
 ```
 
 This populates `cursor.json` with GraphQL cursors for all PRs.
@@ -69,7 +69,7 @@ This populates `cursor.json` with GraphQL cursors for all PRs.
 #### 2. Fetch all PR data
 
 ```bash
-pixi run python fetch_all_pr.py
+pixi run python scripts/fetch_all_pr.py
 ```
 
 This creates `pr_data.csv` with metadata for every PR.
@@ -77,7 +77,7 @@ This creates `pr_data.csv` with metadata for every PR.
 #### 3. Update PR data (daily)
 
 ```bash
-pixi run python update_pr.py
+pixi run python scripts/update_pr.py
 ```
 
 This incrementally adds new PRs and updates the status of recently opened ones.
@@ -85,7 +85,7 @@ This incrementally adds new PRs and updates the status of recently opened ones.
 #### 4. Compute statistics
 
 ```bash
-pixi run python update_stats.py
+pixi run python scripts/update_stats.py
 ```
 
 This generates all JSON files in the `stats/` directory.
@@ -96,9 +96,9 @@ The repository includes a scheduled GitHub Actions workflow (`.github/workflows/
 
 1. Checks out the repository
 2. Sets up the Pixi environment (with caching)
-3. Runs `fetch_cursor_json.py` to update GraphQL cursors
-4. Runs `update_pr.py` to fetch new and updated PRs
-5. Runs `update_stats.py` to recompute all statistics
+3. Runs `scripts/fetch_cursors.py` to update GraphQL cursors
+4. Runs `scripts/update_pr.py` to fetch new and updated PRs
+5. Runs `scripts/update_stats.py` to recompute all statistics
 6. Commits and pushes any changes back to the repository
 
 You can also trigger the workflow manually from the **Actions** tab in GitHub.

@@ -1,3 +1,4 @@
+"""Pull Request data model and GitHub GraphQL fetching logic."""
 import traceback
 from datetime import datetime
 
@@ -5,14 +6,13 @@ import pandas as pd
 import requests
 from pydantic import BaseModel
 
-import config
-from simple_progressbar import print_progress
+from cfsr_stats.config import GRAPHQL_URL, headers
+from cfsr_stats.simple_progressbar import print_progress
 
 # Github GraphQL limit 100 nodes per request
 PR_PER_REQUEST = 100
 
-# Dataclass for JSON
-# Derived from https://docs.github.com/en/graphql/reference/pulls#object-pullrequest
+
 class PullRequest(BaseModel):
     number: int
     title: str
@@ -40,21 +40,24 @@ class PullRequest(BaseModel):
 
     @staticmethod
     def fields() -> list[str]:
-        return ["number", "title", "author", "merged" , "labels", "merged_by", "merged_at", "created_at", "closed_at"]
+        return ["number", "title", "author", "merged", "labels", "merged_by", "merged_at", "created_at", "closed_at"]
 
     def to_csv(self) -> str:
-        return f"{self.number},{self.title.replace(",", "")},{self.author},{self.merged},{';'.join(self.labels)},{self.merged_by},{self.merged_at},{self.created_at},{self.closed_at}\n"
+        return f"{self.number},{self.title.replace(',', '')},{self.author},{self.merged},{';'.join(self.labels)},{self.merged_by},{self.merged_at},{self.created_at},{self.closed_at}\n"
 
     def to_list(self) -> list:
         return [self.number, self.title.replace(",", ""), self.author, self.merged, ';'.join(self.labels), self.merged_by, self.merged_at, self.created_at, self.closed_at]
+
 
 def get_user_login(node: dict) -> str | None:
     if node and node["login"]:
         return node["login"]
     return None
 
+
 class FetchPRsError(Exception):
     pass
+
 
 def fetch_prs_graphql(after: str | None = None, sort_by: str = "CREATED_AT"):
     query = f"""
@@ -86,17 +89,18 @@ def fetch_prs_graphql(after: str | None = None, sort_by: str = "CREATED_AT"):
       }}
     }}
     """
-    
+
     payload = {
         "query": query,
-        "variables": { "after": after }
+        "variables": {"after": after}
     }
-    
-    response = requests.post(config.GRAPHQL_URL, json=payload, headers=config.headers)
+
+    response = requests.post(GRAPHQL_URL, json=payload, headers=headers)
     response.raise_for_status()
     return response.json()
 
-def fetch_pr(cursor: str | None = None, limit:int | None = None, sort_by: str = "CREATED_AT") -> list[PullRequest]:
+
+def fetch_pr(cursor: str | None = None, limit: int | None = None, sort_by: str = "CREATED_AT") -> list[PullRequest]:
     pr_list = []
     count = 0
     _cursor = cursor
@@ -125,7 +129,8 @@ def fetch_pr(cursor: str | None = None, limit:int | None = None, sort_by: str = 
             traceback.print_exception(type(e), e, e.__traceback__)
     return pr_list
 
-def fetch_pr_as_dataframe(cursor: str | None = None, limit:int | None = None, sort_by: str = "CREATED_AT") -> pd.DataFrame:
+
+def fetch_pr_as_dataframe(cursor: str | None = None, limit: int | None = None, sort_by: str = "CREATED_AT") -> pd.DataFrame:
     _prs = fetch_pr(cursor, limit, sort_by)
-    _data =  [pr.to_list() for pr in _prs]
+    _data = [pr.to_list() for pr in _prs]
     return pd.DataFrame(_data, columns=PullRequest.fields()).set_index("number")

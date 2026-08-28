@@ -25,17 +25,17 @@ jobs:
           cache: true
 
       - name: Fetch GraphQL cursors
-        run: pixi run python fetch_cursor_json.py
+        run: pixi run python scripts/fetch_cursors.py
         env:
           GITHUB_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
 
       - name: Update PR data
-        run: pixi run python update_pr.py
+        run: pixi run python scripts/update_pr.py
         env:
           GITHUB_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
 
       - name: Compute statistics
-        run: pixi run python update_stats.py
+        run: pixi run python scripts/update_stats.py
         env:
           GITHUB_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
 

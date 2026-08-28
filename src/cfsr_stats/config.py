@@ -1,3 +1,4 @@
+"""Configuration for cfsr_stats."""
 import json
 import os
 import sys
@@ -48,6 +49,7 @@ except ValueError:
     print(f"Error: FORMAT_DECIMAL_POINT must be an integer, got '{_FORMAT_DECIMAL_POINT}'")
     sys.exit(1)
 
+
 def print_config():
     print(
         f"Cursor file: {CURSOR_FILE}\n"
@@ -55,6 +57,7 @@ def print_config():
         f"GraphQL URL: {GRAPHQL_URL}\n"
         f"GitHub API Token: **********{GITHUB_API_TOKEN[-4:]}" if GITHUB_API_TOKEN else "GitHub API Token: Not Set"
     )
+
 
 def print_rate_limit():
     response = requests.get(API_URL + "/rate_limit", headers=headers)
@@ -66,11 +69,12 @@ def print_rate_limit():
     limit = graphql["limit"]
     print(f"GitHub GraphQL Rate Limit remaining: {remaining}/{limit}")
 
+
 def load_cursor_json() -> dict[int, str]:
     cursors: dict[int, str] = {}
     try:
         with open(CURSOR_FILE, "r", encoding="utf-8") as f:
-            cursors = { int(k): str(v) for k,v in json.load(f).items() }
+            cursors = {int(k): str(v) for k, v in json.load(f).items()}
     except FileNotFoundError:
         print(f"Error file not found: {CURSOR_FILE}")
     except json.JSONDecodeError as e:
