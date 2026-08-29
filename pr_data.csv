@@ -32733,7 +32733,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33889,Add Lomond,rxm7706,True,review-requested;python,ocefpaf,2026-06-29 12:37:52+00:00,2026-06-25 04:07:24+00:00,2026-06-29 12:37:53+00:00
 33890,Create recipe.yaml for apify-shared package,rxm7706,False,review-requested;python,,,2026-06-25 04:14:56+00:00,
 33891,Add recipe.yaml for vlmrun-hub package,rxm7706,True,review-requested;python,ocefpaf,2026-06-25 11:21:07+00:00,2026-06-25 04:20:40+00:00,2026-06-25 11:21:07+00:00
-33892,Create recipe.yaml for milvus-lite package,rxm7706,False,review-requested;python,,,2026-06-25 04:26:16+00:00,
+33892,Create recipe.yaml for milvus-lite package,rxm7706,False,review-requested;python,isuruf,2026-08-28 23:23:02+00:00,2026-06-25 04:26:16+00:00,2026-08-28 23:23:02+00:00
 33893,Create recipe.yaml for Couchbase Python SDK,rxm7706,False,review-requested;c-cpp,,,2026-06-25 04:31:31+00:00,
 33894,Create recipe.yaml for langchain-milvus package,rxm7706,False,review-requested;python,eunos-1128,2026-08-27 12:10:10+00:00,2026-06-25 04:34:41+00:00,2026-08-27 12:10:10+00:00
 33895,Create recipe.yaml for pksuid package,rxm7706,False,review-requested;python,,,2026-06-25 04:39:03+00:00,
@@ -33212,7 +33212,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34370,Add mcp-grafana recipe,xhochy,True,,pavelzw,2026-07-31 12:49:59+00:00,2026-07-31 12:37:44+00:00,2026-07-31 12:49:59+00:00
 34371,Add pykale,jan-janssen,True,staged-recipes;review-requested;python,ocefpaf,2026-07-31 15:45:34+00:00,2026-07-31 14:34:22+00:00,2026-07-31 15:45:34+00:00
 34372,add sqlalchemy adapter and pycasbin,ocefpaf,True,review-requested;python,isuruf,2026-07-31 19:29:25+00:00,2026-07-31 14:52:11+00:00,2026-07-31 19:29:25+00:00
-34373,feat: add tensorrt 11,wep21,False,review-requested;c-cpp,,,2026-07-31 16:11:14+00:00,
+34373,feat: add tensorrt 11,wep21,False,review-requested;c-cpp,carterbox,2026-08-28 22:37:28+00:00,2026-07-31 16:11:14+00:00,2026-08-28 22:37:29+00:00
 34375,Add libgphoto2 2.5.34,baradejoo,True,review-requested;c-cpp,wolfv,2026-08-02 19:47:53+00:00,2026-07-31 18:27:19+00:00,2026-08-02 19:47:53+00:00
 34376,Add riftco-transformer 0.2.0,quangng2000,False,review-requested;python-c,,,2026-07-31 20:00:59+00:00,
 34377,Add megnet-neuro,jstout211,False,review-requested;python,,,2026-07-31 20:58:11+00:00,
@@ -33471,7 +33471,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34633,Adding pytensor-ml,jessegrabowski,False,review-requested;python,ocefpaf,2026-08-26 20:15:53+00:00,2026-08-25 22:33:15+00:00,2026-08-26 20:15:53+00:00
 34634,Add QEMU system mode,MementoRC,False,,,,2026-08-25 23:08:28+00:00,
 34635,Add pptxgenjs-plus Build PowerPoint presentations with JavaScript.,rxm7706,False,nodejs;review-requested,,,2026-08-26 00:17:24+00:00,
-34636,add tclean,ddahawkins-TUDelft,False,review-requested;python,,,2026-08-26 08:05:25+00:00,
+34636,add tclean,ddahawkins-TUDelft,False,review-requested;python,synapticarbors,2026-08-28 23:44:49+00:00,2026-08-26 08:05:25+00:00,2026-08-28 23:44:49+00:00
 34637,Caf.van,MattBuckley-TfN,True,review-requested;python,ocefpaf,2026-08-27 09:55:37+00:00,2026-08-26 09:23:03+00:00,2026-08-27 09:55:37+00:00
 34638,Add `sphinx-typst-math`,munechika-koyo,True,review-requested;python,ocefpaf,2026-08-26 14:04:17+00:00,2026-08-26 09:31:27+00:00,2026-08-26 14:04:17+00:00
 34639,add oac,ocefpaf,True,review-requested;python,isuruf,2026-08-26 14:42:33+00:00,2026-08-26 10:15:16+00:00,2026-08-26 14:42:33+00:00
@@ -33504,3 +33504,5 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34666,Add calc,anderslindho,False,,,,2026-08-28 13:00:55+00:00,
 34667,Adding GONNECT,timoverlaan,False,review-requested;python,,,2026-08-28 15:40:55+00:00,
 34668,add zapros and pywhatwgurl dep,synapticarbors,True,review-requested;python,ocefpaf,2026-08-28 17:12:42+00:00,2026-08-28 16:54:30+00:00,2026-08-28 17:12:42+00:00
+34669,feat: add mihomo recipe,trim21,False,review-requested;go,,,2026-08-28 20:20:56+00:00,
+34670,Add cbaseline,LudgerHentschel,True,review-requested;python,synapticarbors,2026-08-28 23:34:06+00:00,2026-08-28 23:03:58+00:00,2026-08-28 23:34:06+00:00

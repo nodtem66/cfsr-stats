@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 3,
     "perl": 0,
-    "python": 40,
+    "python": 41,
     "python-c": 1,
     "ruby": 0,
     "rust": 2,
-    "total": 51
+    "total": 52
   },
   "matthewfeickert": {
     "R": 0,
@@ -77,11 +77,11 @@
     "julia": 0,
     "nodejs": 2,
     "perl": 0,
-    "python": 530,
+    "python": 529,
     "python-c": 13,
     "ruby": 1,
     "rust": 9,
-    "total": 587
+    "total": 586
   },
   "pavelzw": {
     "R": 0,
