@@ -1,4 +1,5 @@
 """Update PR data incrementally (entry point)."""
+import sys
 
 import pandas as pd
 
@@ -32,6 +33,11 @@ if __name__ == "__main__":
         df = df.combine_first(new_df)
 
     # Update merged only previous 1000 PRs
-    new_df = fetch_pr_as_dataframe(limit=1000, sort_by="UPDATED_AT")
-    df = df.combine_first(new_df)
+    new_df = fetch_pr_as_dataframe(limit=100, sort_by="UPDATED_AT")
+
+    # Convert NaT/NaN to None to avoid dtype conflicts with string columns
+    new_df = new_df.astype({"merged_at": "str", "closed_at": "str", "created_at": "str"})
+    new_df.fillna("", inplace=True)
+
+    df.update(new_df)
     df.to_csv(config.CSV_FILE)
