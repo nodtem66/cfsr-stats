@@ -28,11 +28,11 @@
     "total": 48
   },
   "python": {
-    "closed": 5948,
-    "total": 6570
+    "closed": 5952,
+    "total": 6575
   },
   "python-c": {
-    "closed": 495,
+    "closed": 496,
     "total": 619
   },
   "ruby": {
@@ -41,6 +41,6 @@
   },
   "rust": {
     "closed": 375,
-    "total": 430
+    "total": 432
   }
 }
