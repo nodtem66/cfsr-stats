@@ -30,16 +30,16 @@
   "eunos-1128": {
     "R": 0,
     "c-cpp": 1,
-    "go": 1,
+    "go": 2,
     "java": 0,
     "julia": 0,
-    "nodejs": 1,
+    "nodejs": 3,
     "perl": 0,
-    "python": 45,
+    "python": 48,
     "python-c": 11,
     "ruby": 0,
     "rust": 10,
-    "total": 64
+    "total": 70
   },
   "isuruf": {
     "R": 1,
@@ -77,11 +77,11 @@
     "julia": 0,
     "nodejs": 2,
     "perl": 0,
-    "python": 515,
+    "python": 513,
     "python-c": 13,
     "ruby": 1,
     "rust": 8,
-    "total": 568
+    "total": 566
   },
   "pavelzw": {
     "R": 0,
@@ -89,13 +89,13 @@
     "go": 26,
     "java": 0,
     "julia": 0,
-    "nodejs": 2,
+    "nodejs": 4,
     "perl": 0,
     "python": 25,
     "python-c": 2,
     "ruby": 0,
-    "rust": 66,
-    "total": 154
+    "rust": 67,
+    "total": 157
   },
   "traversaro": {
     "R": 2,
@@ -136,7 +136,7 @@
     "python": 6,
     "python-c": 2,
     "ruby": 0,
-    "rust": 7,
-    "total": 24
+    "rust": 6,
+    "total": 23
   }
 }
