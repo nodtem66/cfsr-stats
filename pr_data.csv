@@ -32706,7 +32706,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33862,Add ibm-watsonx-orchestrate-clients,rxm7706,True,review-requested;python,ocefpaf,2026-06-24 10:59:03+00:00,2026-06-24 10:37:14+00:00,2026-06-24 10:59:03+00:00
 33863,Add bqplot-linlog,astrofrog,True,review-requested;python,ocefpaf,2026-06-24 11:57:34+00:00,2026-06-24 10:58:29+00:00,2026-06-24 11:57:34+00:00
 33864,Add cargo-mutants recipe,ytausch,True,review-requested;rust,pavelzw,2026-06-24 15:13:25+00:00,2026-06-24 13:36:04+00:00,2026-06-24 15:13:25+00:00
-33865,"""Add pyreml as a new package""",Almarch,False,review-requested;python,,,2026-06-24 14:25:20+00:00,
+33865,"""Add pyreml as a new package""",Almarch,True,review-requested;python,eunos-1128,2026-09-05 21:22:32+00:00,2026-06-24 14:25:20+00:00,2026-09-05 21:22:33+00:00
 33866,Add python-substrait-protobuf python-substrait-extensions and python-substrait-antlr,nielspardon,True,review-requested;go;python,ocefpaf,2026-07-17 13:02:42+00:00,2026-06-24 16:29:13+00:00,2026-07-17 13:02:42+00:00
 33867,Add cargo-binstall recipe,chawyehsu,True,review-requested;rust,pavelzw,2026-06-25 07:55:29+00:00,2026-06-24 16:34:55+00:00,2026-06-25 07:55:29+00:00
 33868,Add inspect-ai recipe,maxvolk,False,review-requested;python,,,2026-06-24 16:42:03+00:00,2026-08-26 16:18:22+00:00
@@ -33110,7 +33110,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34268,Add noarch Python package nmlform,ken-lauer,True,review-requested;python,matthewfeickert,2026-07-22 16:54:21+00:00,2026-07-21 22:13:41+00:00,2026-07-22 16:54:21+00:00
 34269,Add metricflow recipe,zaneselvans,True,review-requested;python,matthewfeickert,2026-07-22 07:35:25+00:00,2026-07-21 22:28:16+00:00,2026-07-22 07:35:25+00:00
 34270,Adding NLR-reVRt,castelao,False,,,,2026-07-22 00:42:05+00:00,
-34271,Add brighteyes-mcs-reader,mattia-donato,False,review-requested;python,,,2026-07-22 07:41:21+00:00,
+34271,Add brighteyes-mcs-reader,mattia-donato,True,review-requested;python,eunos-1128,2026-09-05 21:23:22+00:00,2026-07-22 07:41:21+00:00,2026-09-05 21:23:22+00:00
 34272,Add recipe for libstatgrab,embray,True,Awaiting author contribution;staged-recipes;c-cpp,traversaro,2026-08-23 07:57:58+00:00,2026-07-22 07:49:48+00:00,2026-08-23 07:57:58+00:00
 34273,Adding moonshine (and libevdev),tdejager,True,,Hofer-Julian,2026-07-23 04:30:02+00:00,2026-07-22 12:21:53+00:00,2026-07-23 04:30:02+00:00
 34274,Adding recipe for `rtfunicode`,athompson673,True,review-requested;python,matthewfeickert,2026-07-24 21:10:14+00:00,2026-07-22 13:02:19+00:00,2026-07-24 21:10:15+00:00
@@ -33569,7 +33569,9 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34731,Adding zxing cpp package replacing wrongly named python version,TomNysWF,False,,,,2026-09-04 13:37:26+00:00,2026-09-04 14:24:06+00:00
 34732,Add dpnp,antonwolfy,False,,,,2026-09-04 15:28:21+00:00,
 34733,Added conda recipe for v3.0.0,sujitmandal,False,,,,2026-09-04 18:29:13+00:00,2026-09-04 18:49:28+00:00
-34734,Add bsuite 0.3.6,jeongseok-meta,False,review-requested;python,,,2026-09-04 22:32:05+00:00,
+34734,Add bsuite 0.3.6,jeongseok-meta,True,review-requested;python,ocefpaf,2026-09-05 12:48:54+00:00,2026-09-04 22:32:05+00:00,2026-09-05 12:48:54+00:00
 34735,Add the PaddockTS ecosystem (troi-core five data stores paddocktimeseries),thestochasticman,False,,,,2026-09-05 02:07:06+00:00,
 34736,Added conda recipe for v3.0.0 ,sujitmandal,False,,,,2026-09-05 04:28:15+00:00,2026-09-05 04:45:07+00:00
 34737,Added conda recipe for v3.0.0,sujitmandal,False,,,,2026-09-05 04:51:54+00:00,2026-09-05 06:07:18+00:00
+34738,Add adbcbridge (ADBC driver over ODBC),singhpratech,False,,,,2026-09-05 22:29:32+00:00,
+34739,Add clickdc and pyfzf,chrisburr,False,review-requested;python,,,2026-09-06 06:42:24+00:00,
