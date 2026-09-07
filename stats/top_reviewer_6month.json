@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 3,
     "perl": 0,
-    "python": 57,
+    "python": 59,
     "python-c": 11,
     "ruby": 0,
     "rust": 10,
-    "total": 80
+    "total": 82
   },
   "isuruf": {
     "R": 1,
@@ -91,11 +91,11 @@
     "julia": 0,
     "nodejs": 2,
     "perl": 0,
-    "python": 505,
+    "python": 499,
     "python-c": 13,
     "ruby": 1,
     "rust": 8,
-    "total": 559
+    "total": 552
   },
   "pavelzw": {
     "R": 0,

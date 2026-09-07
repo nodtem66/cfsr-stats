@@ -9,7 +9,7 @@
   },
   "go": {
     "closed": 176,
-    "total": 199
+    "total": 200
   },
   "java": {
     "closed": 37,
@@ -28,8 +28,8 @@
     "total": 48
   },
   "python": {
-    "closed": 6000,
-    "total": 6599
+    "closed": 6003,
+    "total": 6602
   },
   "python-c": {
     "closed": 500,
