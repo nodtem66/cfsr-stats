@@ -5,11 +5,11 @@
   },
   "c-cpp": {
     "closed": 737,
-    "total": 898
+    "total": 899
   },
   "go": {
     "closed": 176,
-    "total": 200
+    "total": 202
   },
   "java": {
     "closed": 37,
@@ -28,12 +28,12 @@
     "total": 48
   },
   "python": {
-    "closed": 6003,
-    "total": 6602
+    "closed": 6008,
+    "total": 6610
   },
   "python-c": {
     "closed": 500,
-    "total": 627
+    "total": 628
   },
   "ruby": {
     "closed": 22,
