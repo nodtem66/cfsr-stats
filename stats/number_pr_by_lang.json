@@ -4,8 +4,8 @@
     "total": 769
   },
   "c-cpp": {
-    "closed": 737,
-    "total": 899
+    "closed": 739,
+    "total": 901
   },
   "go": {
     "closed": 176,
@@ -21,26 +21,26 @@
   },
   "nodejs": {
     "closed": 67,
-    "total": 132
+    "total": 133
   },
   "perl": {
     "closed": 32,
     "total": 48
   },
   "python": {
-    "closed": 6008,
-    "total": 6610
+    "closed": 6013,
+    "total": 6619
   },
   "python-c": {
-    "closed": 500,
-    "total": 628
+    "closed": 501,
+    "total": 631
   },
   "ruby": {
     "closed": 22,
     "total": 25
   },
   "rust": {
-    "closed": 381,
-    "total": 437
+    "closed": 382,
+    "total": 439
   }
 }
