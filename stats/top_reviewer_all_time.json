@@ -91,11 +91,11 @@
     "julia": 2,
     "nodejs": 6,
     "perl": 3,
-    "python": 3542,
+    "python": 3543,
     "python-c": 97,
     "ruby": 17,
     "rust": 53,
-    "total": 7280
+    "total": 7281
   },
   "scopatz": {
     "R": 0,
@@ -119,11 +119,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 508,
+    "python": 509,
     "python-c": 10,
     "ruby": 0,
     "rust": 34,
-    "total": 1654
+    "total": 1655
   },
   "xhochy": {
     "R": 88,
