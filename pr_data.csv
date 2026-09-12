@@ -31442,7 +31442,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 32569,Adding pyafv,wwang721,True,review-requested;python;python-c,ocefpaf,2026-03-13 11:01:45+00:00,2026-03-12 14:18:33+00:00,2026-03-13 11:01:45+00:00
 32570,Adding the Parameter ESTimation (PEST) model parameter optimization suite,timcera,False,staged-recipes;review-requested,,,2026-03-12 16:01:08+00:00,
 32571,Add bffile recipe,psobolewskiPhD,True,review-requested;python,ocefpaf,2026-03-12 18:16:35+00:00,2026-03-12 17:43:40+00:00,2026-03-12 18:16:35+00:00
-32572,Add chiltepin recipe,christopherwharrop-noaa,False,review-requested;python,,,2026-03-12 18:41:20+00:00,
+32572,Add chiltepin recipe,christopherwharrop-noaa,False,review-requested;python,,,2026-03-12 18:41:20+00:00,2026-09-11 13:44:10+00:00
 32573,Add gest-api recipe,jlnav,True,review-requested;python,ocefpaf,2026-03-13 13:26:50+00:00,2026-03-12 19:11:48+00:00,2026-03-13 13:26:50+00:00
 32574,Add heapx,mukherjee08,False,review-requested;python-c,,,2026-03-13 04:41:35+00:00,
 32575,Adding pyosmium,travishathaway,True,review-requested;python-c,traversaro,2026-03-24 21:49:38+00:00,2026-03-13 08:03:14+00:00,2026-03-24 21:49:38+00:00
@@ -32628,7 +32628,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33784,Adding daaf-plot,aFarchi,False,review-requested;python,,,2026-06-19 13:37:21+00:00,
 33785,Add livekit-local-inference recipe,xhochy,True,,pavelzw,2026-06-30 13:23:40+00:00,2026-06-19 13:59:54+00:00,2026-06-30 13:23:40+00:00
 33786,Add recipe for coreai-opt,xhochy,True,,pavelzw,2026-06-29 10:53:10+00:00,2026-06-19 14:03:11+00:00,2026-06-29 10:53:10+00:00
-33787,Add TeMFpy,attila-i-szabo,False,review-requested;python,,,2026-06-19 14:05:36+00:00,
+33787,Add TeMFpy,attila-i-szabo,True,review-requested;python,eunos-1128,2026-09-11 18:32:06+00:00,2026-06-19 14:05:36+00:00,2026-09-11 18:32:06+00:00
 33788,Add kernels and kernels-data,baszalmstra,False,,,,2026-06-19 15:16:33+00:00,
 33789,Add spring2 recipe,thisisamirv,False,,,,2026-06-19 15:23:10+00:00,2026-06-19 19:13:39+00:00
 33790,Add recipe for libserial-cpp package,traversaro,True,staged-recipes;review-requested;c-cpp,ocefpaf,2026-06-22 14:51:26+00:00,2026-06-19 15:26:57+00:00,2026-06-22 14:51:26+00:00
@@ -33145,7 +33145,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34303,Add py-lets-be-rational,killua156,True,review-requested;python,isuruf,2026-07-29 00:31:58+00:00,2026-07-24 20:37:26+00:00,2026-07-29 00:31:58+00:00
 34304,Add pixi-mise recipe for conda-forge,amirhosseindavoody,True,review-requested;rust,pavelzw,2026-07-25 06:21:11+00:00,2026-07-24 22:52:36+00:00,2026-07-25 06:21:11+00:00
 34305,Add r-artool v0.11.2,gallardoalba,False,R;review-requested,,,2026-07-25 21:34:40+00:00,
-34306,Add straindesign,VonAlphaBisZulu,False,review-requested;python,,,2026-07-26 02:10:45+00:00,
+34306,Add straindesign-cobra,VonAlphaBisZulu,True,review-requested;python,eunos-1128,2026-09-11 17:22:07+00:00,2026-07-26 02:10:45+00:00,2026-09-11 17:22:07+00:00
 34307,Add isschecker,xylar,True,review-requested;python,ocefpaf,2026-07-26 20:52:36+00:00,2026-07-26 11:05:29+00:00,2026-07-26 20:52:36+00:00
 34308,Add voiage 2.1.0,edithatogo,False,staged-recipes;review-requested;python-c;rust,,,2026-07-26 11:47:07+00:00,
 34309,Add nep 3.0.0,captainkirk99,False,,,,2026-07-26 13:53:31+00:00,
@@ -33626,8 +33626,8 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34790,Adding codeburn,ManuelLerchner,False,,,,2026-09-09 17:19:40+00:00,
 34791,polyxml: add version 0.1.0,nth-bailey,False,,,,2026-09-09 20:09:03+00:00,
 34792,Add liquibase,dhirschfeld,True,review-requested;java,wolfv,2026-09-10 11:38:42+00:00,2026-09-09 23:27:43+00:00,2026-09-10 11:38:42+00:00
-34793,Add vamp-plugin-sdk recipe,Yash990-bit,False,staged-recipes;review-requested;c-cpp,,,2026-09-10 09:33:10+00:00,
-34794,Adding resvg-py,ewels,False,review-requested;python-c,,,2026-09-10 10:06:28+00:00,
+34793,Add vamp-plugin-sdk recipe,Yash990-bit,True,staged-recipes;review-requested;c-cpp,eunos-1128,2026-09-11 16:41:23+00:00,2026-09-10 09:33:10+00:00,2026-09-11 16:41:23+00:00
+34794,Adding resvg-py,ewels,False,review-requested;python-c;rust,,,2026-09-10 10:06:28+00:00,
 34795,Add scientificfitting 0.2.0,Amin-El-Sayed,True,review-requested;python,eunos-1128,2026-09-11 09:07:17+00:00,2026-09-10 10:15:40+00:00,2026-09-11 09:07:17+00:00
 34796,Add intel-sde,wolfv,False,,,,2026-09-10 10:51:33+00:00,
 34797,Add typer-static-completion,pavelzw,True,review-requested;python,ocefpaf,2026-09-10 13:19:59+00:00,2026-09-10 12:05:45+00:00,2026-09-10 13:19:59+00:00
@@ -33639,6 +33639,18 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34803,Nvidia Cutlass DSL v4.7.0,billysuh7,False,,,,2026-09-10 18:58:20+00:00,
 34804,Add natten,hmaarrfk,False,,,,2026-09-10 22:11:21+00:00,
 34805,Add ddsim,andre-merzky,False,,,,2026-09-10 22:24:36+00:00,
-34806,Add cdp-use recipe,SatyamKumarCS,False,,,,2026-09-10 23:36:06+00:00,
+34806,Add cdp-use recipe,SatyamKumarCS,True,,ocefpaf,2026-09-11 14:25:55+00:00,2026-09-10 23:36:06+00:00,2026-09-11 14:25:55+00:00
 34807,Add colm-openbench 3.0.1,zhongwangwei,False,review-requested;python,,,2026-09-11 06:21:05+00:00,
 34808,Adding palace,benvial,False,review-requested;c-cpp,,,2026-09-11 10:02:35+00:00,
+34809,Add wisprflow-sdk recipe,Yash990-bit,False,staged-recipes;review-requested;python,,,2026-09-11 10:44:18+00:00,
+34810,Add spacr,EinarOlafsson,False,,,,2026-09-11 12:41:53+00:00,
+34811,Add ancestree,Sendrowski,False,review-requested;python,,,2026-09-11 12:42:14+00:00,
+34812,Adding atomworks package and dependencies,Emrys-Merlin,False,,,,2026-09-11 14:00:05+00:00,
+34813,Add ffjet,dpesce,True,review-requested;python,ocefpaf,2026-09-11 15:18:38+00:00,2026-09-11 14:19:57+00:00,2026-09-11 15:18:38+00:00
+34814,Add new-fave package and its dependencies: aligned-textgrid fasttrackpy fave-measurement-point fave-recode  praat-parselmouth,IvoLeist,False,,,,2026-09-11 14:39:14+00:00,
+34815,Create a recipe for Jumble,lguez,False,staged-recipes;review-requested,,,2026-09-11 15:33:47+00:00,
+34816,Linter: check no extra files outside recipes/*/ unless labeled as mai…,Yash990-bit,True,maintenance,carterbox,2026-09-11 17:52:33+00:00,2026-09-11 16:18:09+00:00,2026-09-11 17:52:33+00:00
+34817,Add spaday design systems,timkpaine,False,,,,2026-09-11 16:21:37+00:00,
+34818,Sync swap file setup with conda-smithy,carterbox,True,maintenance,carterbox,2026-09-11 17:36:52+00:00,2026-09-11 17:14:36+00:00,2026-09-11 17:36:52+00:00
+34819,Add esgcet recipe,sashakames,False,,,,2026-09-11 18:35:19+00:00,2026-09-11 22:24:01+00:00
+34820,Added recipes for pywavefront embreex hothouse & canopy_factory,langmm,False,,,,2026-09-11 23:46:36+00:00,
