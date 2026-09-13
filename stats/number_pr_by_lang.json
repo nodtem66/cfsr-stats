@@ -5,7 +5,7 @@
   },
   "c-cpp": {
     "closed": 740,
-    "total": 905
+    "total": 907
   },
   "go": {
     "closed": 177,
@@ -28,11 +28,11 @@
     "total": 48
   },
   "python": {
-    "closed": 6033,
-    "total": 6637
+    "closed": 6044,
+    "total": 6643
   },
   "python-c": {
-    "closed": 501,
+    "closed": 504,
     "total": 632
   },
   "ruby": {
@@ -40,7 +40,7 @@
     "total": 25
   },
   "rust": {
-    "closed": 383,
-    "total": 443
+    "closed": 392,
+    "total": 451
   }
 }
