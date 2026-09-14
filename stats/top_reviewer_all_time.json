@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 63,
+    "python": 64,
     "python-c": 16,
     "ruby": 2,
     "rust": 7,
-    "total": 1574
+    "total": 1575
   },
   "dopplershift": {
     "R": 0,
@@ -91,11 +91,11 @@
     "julia": 2,
     "nodejs": 6,
     "perl": 3,
-    "python": 3545,
+    "python": 3548,
     "python-c": 97,
     "ruby": 17,
     "rust": 54,
-    "total": 7284
+    "total": 7287
   },
   "scopatz": {
     "R": 0,

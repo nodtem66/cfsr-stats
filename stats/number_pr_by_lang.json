@@ -4,7 +4,7 @@
     "total": 769
   },
   "c-cpp": {
-    "closed": 740,
+    "closed": 742,
     "total": 907
   },
   "go": {
@@ -28,11 +28,11 @@
     "total": 48
   },
   "python": {
-    "closed": 6044,
-    "total": 6643
+    "closed": 6050,
+    "total": 6647
   },
   "python-c": {
-    "closed": 504,
+    "closed": 505,
     "total": 632
   },
   "ruby": {

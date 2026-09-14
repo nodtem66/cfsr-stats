@@ -31006,7 +31006,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 32121,Add usql,VasanthakumarV,False,,,,2026-02-05 22:19:57+00:00,2026-02-05 22:57:09+00:00
 32122,Added apify_fingerprint_datapoints as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-02-05 22:56:43+00:00,2026-02-05 22:51:44+00:00,2026-02-05 22:56:44+00:00
 32123,Add `openff-packmol`,mattwthompson,False,review-requested;python,,,2026-02-05 22:55:16+00:00,2026-03-23 19:06:30+00:00
-32124,add recipe for finch-tensor,lucascolley,False,Awaiting author contribution;python-c,,,2026-02-05 22:55:35+00:00,
+32124,add recipe for finch-tensor,lucascolley,True,review-requested;python-c,traversaro,2026-09-13 17:42:17+00:00,2026-02-05 22:55:35+00:00,2026-09-13 17:42:17+00:00
 32125,Add chatom symphony-bdk-python,timkpaine,True,review-requested;python,ocefpaf,2026-02-09 10:59:49+00:00,2026-02-06 00:11:25+00:00,2026-02-09 10:59:49+00:00
 32126,add recipe for scip,swenger,False,,,,2026-02-06 08:36:27+00:00,2026-02-06 09:56:34+00:00
 32127,add nfty,pavelzw,True,review-requested;go,xhochy,2026-02-08 06:55:20+00:00,2026-02-06 08:36:44+00:00,2026-02-08 06:55:20+00:00
@@ -32736,7 +32736,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33892,Create recipe.yaml for milvus-lite package,rxm7706,True,staged-recipes;review-requested;python,isuruf,2026-08-28 23:23:02+00:00,2026-06-25 04:26:16+00:00,2026-08-28 23:23:02+00:00
 33893,Create recipe.yaml for Couchbase Python SDK,rxm7706,True,review-requested;python-c,eunos-1128,2026-09-08 22:42:56+00:00,2026-06-25 04:31:31+00:00,2026-09-08 22:42:56+00:00
 33894,Create recipe.yaml for langchain-milvus package,rxm7706,True,staged-recipes;review-requested;python,eunos-1128,2026-08-27 12:10:10+00:00,2026-06-25 04:34:41+00:00,2026-08-27 12:10:10+00:00
-33895,Create recipe.yaml for pksuid package,rxm7706,False,review-requested;python,,,2026-06-25 04:39:03+00:00,
+33895,Create recipe.yaml for pksuid package,rxm7706,True,review-requested;python,ocefpaf,2026-09-14 10:40:20+00:00,2026-06-25 04:39:03+00:00,2026-09-14 10:40:20+00:00
 33896,Create recipe.yaml for ddgs package,rxm7706,True,review-requested;python,ocefpaf,2026-06-25 11:33:22+00:00,2026-06-25 04:41:37+00:00,2026-06-25 11:33:22+00:00
 33897,Create recipe.yaml for impit package,rxm7706,False,,,,2026-06-25 04:56:44+00:00,
 33898,Create recipe.yaml for dydantic package,rxm7706,True,review-requested;python,ocefpaf,2026-06-25 11:36:32+00:00,2026-06-25 05:43:29+00:00,2026-06-25 11:36:33+00:00
@@ -33010,7 +33010,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34168,Add imdtrack,syedhamidali,True,staged-recipes;review-requested;python,ocefpaf,2026-07-17 12:02:42+00:00,2026-07-11 22:27:20+00:00,2026-07-17 12:02:42+00:00
 34169,Add agnoctl package,rxm7706,True,review-requested;python,eunos-1128,2026-08-27 09:30:45+00:00,2026-07-12 00:26:51+00:00,2026-08-27 09:30:45+00:00
 34170,Add esm-tracker recipe,matthew7mendoza,False,,,,2026-07-12 01:42:36+00:00,
-34171,Add package cvise,user202729,False,review-requested;c-cpp;python,,,2026-07-12 04:59:52+00:00,
+34171,Add package cvise,user202729,True,review-requested;c-cpp;python,eunos-1128,2026-09-13 12:14:14+00:00,2026-07-12 04:59:52+00:00,2026-09-13 12:14:15+00:00
 34172,Add git-include,Flova,False,review-requested;rust,,,2026-07-12 07:36:10+00:00,
 34173,add gdalxarray,ocefpaf,True,review-requested;python,isuruf,2026-07-14 14:52:21+00:00,2026-07-12 11:57:09+00:00,2026-07-14 14:52:21+00:00
 34174,Add  bmad-loop package,rxm7706,False,staged-recipes;review-requested;python,,,2026-07-12 14:51:36+00:00,
@@ -33638,7 +33638,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34802,Add azure-functions-core-tools v4.14.0,eunos-1128,False,staged-recipes;review-requested,,,2026-09-10 14:25:29+00:00,
 34803,Nvidia Cutlass DSL v4.7.0,billysuh7,False,,,,2026-09-10 18:58:20+00:00,
 34804,Add natten,hmaarrfk,False,,,,2026-09-10 22:11:21+00:00,
-34805,Add ddsim,andre-merzky,False,,,,2026-09-10 22:24:36+00:00,
+34805,Add ddsim,andre-merzky,True,review-requested;python,eunos-1128,2026-09-14 10:10:04+00:00,2026-09-10 22:24:36+00:00,2026-09-14 10:10:04+00:00
 34806,Add cdp-use recipe,SatyamKumarCS,True,,ocefpaf,2026-09-11 14:25:55+00:00,2026-09-10 23:36:06+00:00,2026-09-11 14:25:55+00:00
 34807,Add colm-openbench 3.0.1,zhongwangwei,False,review-requested;python,,,2026-09-11 06:21:05+00:00,
 34808,Adding palace,benvial,False,review-requested;c-cpp,,,2026-09-11 10:02:35+00:00,
@@ -33648,7 +33648,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34812,Adding atomworks package and dependencies,Emrys-Merlin,False,,,,2026-09-11 14:00:05+00:00,
 34813,Add ffjet,dpesce,True,review-requested;python,ocefpaf,2026-09-11 15:18:38+00:00,2026-09-11 14:19:57+00:00,2026-09-11 15:18:38+00:00
 34814,Add new-fave package and its dependencies: aligned-textgrid fasttrackpy fave-measurement-point fave-recode  praat-parselmouth,IvoLeist,True,,bgruening,2026-09-12 11:29:12+00:00,2026-09-11 14:39:14+00:00,2026-09-12 11:29:12+00:00
-34815,Create a recipe for Jumble,lguez,False,staged-recipes;review-requested;c-cpp,,,2026-09-11 15:33:47+00:00,
+34815,Add Jumble,lguez,True,staged-recipes;review-requested;c-cpp,eunos-1128,2026-09-14 10:07:08+00:00,2026-09-11 15:33:47+00:00,2026-09-14 10:07:08+00:00
 34816,Linter: check no extra files outside recipes/*/ unless labeled as mai…,Yash990-bit,True,maintenance,carterbox,2026-09-11 17:52:33+00:00,2026-09-11 16:18:09+00:00,2026-09-11 17:52:33+00:00
 34817,Add spaday design systems,timkpaine,False,,,,2026-09-11 16:21:37+00:00,
 34818,Sync swap file setup with conda-smithy,carterbox,True,maintenance,carterbox,2026-09-11 17:36:52+00:00,2026-09-11 17:14:36+00:00,2026-09-11 17:36:52+00:00
@@ -33662,9 +33662,15 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34826,Adding tuxedo,pavelzw,True,review-requested;rust,xhochy,2026-09-12 18:40:16+00:00,2026-09-12 14:10:56+00:00,2026-09-12 18:40:16+00:00
 34827,Add amtool,wolfv,False,,,,2026-09-12 16:39:45+00:00,
 34828,Add pyhelpers recipe,mikeqfu,True,review-requested;python,eunos-1128,2026-09-13 08:25:59+00:00,2026-09-12 17:05:23+00:00,2026-09-13 08:26:00+00:00
-34829,Add pyrcs recipe,mikeqfu,False,review-requested;python,,,2026-09-12 19:08:39+00:00,
+34829,Add pyrcs recipe,mikeqfu,True,review-requested;python,ocefpaf,2026-09-14 10:40:56+00:00,2026-09-12 19:08:39+00:00,2026-09-14 10:40:56+00:00
 34830,Add nfit,pmneves7,False,,,,2026-09-12 19:37:05+00:00,
-34831,Adding fluidtop,pavelzw,False,review-requested;python,,,2026-09-12 22:14:14+00:00,
+34831,Adding fluidtop,pavelzw,True,review-requested;python,ocefpaf,2026-09-14 11:42:52+00:00,2026-09-12 22:14:14+00:00,2026-09-14 11:42:52+00:00
 34832,Adding all-smi,pavelzw,True,review-requested;rust,xhochy,2026-09-13 05:11:16+00:00,2026-09-12 23:16:00+00:00,2026-09-13 05:11:16+00:00
 34833,Add skgrad,LudgerHentschel,False,,,,2026-09-12 23:36:33+00:00,
 34834,feat: add tera-cli (`tera`),salim-b,False,review-requested;rust,,,2026-09-13 01:22:07+00:00,
+34835,Add recipe for hs-connectors,xhochy,True,review-requested;python,chrisburr,2026-09-13 19:31:47+00:00,2026-09-13 11:57:19+00:00,2026-09-13 19:31:47+00:00
+34836,Add new recipe for ethos_data package,julian-belina,False,review-requested;python,,,2026-09-13 12:58:10+00:00,
+34837,Adding shinyreact,schloerke,False,review-requested;python,,,2026-09-13 16:26:46+00:00,
+34838,Add libausaxs and pyausaxs,backmari,False,,,,2026-09-14 02:17:06+00:00,
+34839,Silo,rxm7706,False,,,,2026-09-14 02:49:40+00:00,
+34840,Add mcat,Skardyy,False,,,,2026-09-14 10:19:45+00:00,
