@@ -4,12 +4,12 @@
     "total": 769
   },
   "c-cpp": {
-    "closed": 743,
-    "total": 909
+    "closed": 745,
+    "total": 910
   },
   "go": {
-    "closed": 177,
-    "total": 203
+    "closed": 178,
+    "total": 206
   },
   "java": {
     "closed": 38,
@@ -28,8 +28,8 @@
     "total": 48
   },
   "python": {
-    "closed": 6057,
-    "total": 6658
+    "closed": 6067,
+    "total": 6665
   },
   "python-c": {
     "closed": 505,
@@ -40,7 +40,7 @@
     "total": 25
   },
   "rust": {
-    "closed": 393,
-    "total": 452
+    "closed": 395,
+    "total": 454
   }
 }
