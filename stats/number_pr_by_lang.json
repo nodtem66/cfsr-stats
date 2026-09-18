@@ -5,10 +5,10 @@
   },
   "c-cpp": {
     "closed": 745,
-    "total": 910
+    "total": 912
   },
   "go": {
-    "closed": 178,
+    "closed": 179,
     "total": 206
   },
   "java": {
@@ -20,7 +20,7 @@
     "total": 8
   },
   "nodejs": {
-    "closed": 68,
+    "closed": 70,
     "total": 134
   },
   "perl": {
@@ -28,19 +28,19 @@
     "total": 48
   },
   "python": {
-    "closed": 6067,
-    "total": 6665
+    "closed": 6074,
+    "total": 6669
   },
   "python-c": {
-    "closed": 505,
-    "total": 635
+    "closed": 506,
+    "total": 636
   },
   "ruby": {
     "closed": 22,
     "total": 25
   },
   "rust": {
-    "closed": 395,
-    "total": 454
+    "closed": 398,
+    "total": 456
   }
 }
