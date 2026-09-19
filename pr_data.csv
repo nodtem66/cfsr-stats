@@ -24958,7 +24958,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 25910,Add recipe for gz-sim-yarp-plugins package,xela-95,True,staged-recipes;review-requested;c-cpp,xhochy,2024-04-09 12:59:05+00:00,2024-03-29 12:07:02+00:00,2024-04-09 12:59:05+00:00
 25911,Uploading the dynamic_graphs_with_pygame lirbary from pypi to conda forge,ChrisBotos,False,,,,2024-03-29 12:35:24+00:00,2024-06-20 10:57:14+00:00
 25912,Add pymupdf-fonts,jan-janssen,True,staged-recipes;review-requested;python,ocefpaf,2024-03-29 13:42:52+00:00,2024-03-29 13:24:31+00:00,2024-03-29 13:42:52+00:00
-25913,Add roctracer for ROCm,zklaus,False,stale,,,2024-03-29 15:38:06+00:00,
+25913,Add roctracer for ROCm,zklaus,False,stale,,,2024-03-29 15:38:06+00:00,2026-09-18 14:15:05+00:00
 25914,feat: Add make-it-sync,matthewfeickert,True,review-requested;python,ocefpaf,2024-04-29 04:10:10+00:00,2024-03-29 20:39:41+00:00,2024-04-29 04:10:10+00:00
 25915,Add opentelemetry-propagator-gcp,rxm7706,True,review-requested;python,ocefpaf,2024-04-01 17:12:47+00:00,2024-03-30 11:20:35+00:00,2024-04-01 17:12:47+00:00
 25916,Opentelemetry exporter gcp trace,rxm7706,True,review-requested;python,ocefpaf,2024-04-01 17:10:52+00:00,2024-03-30 11:26:39+00:00,2024-04-01 17:10:52+00:00
@@ -28225,7 +28225,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 29272,Add styro,gerlero,True,review-requested;python,chrisburr,2025-02-26 14:07:38+00:00,2025-02-25 16:35:05+00:00,2025-02-26 14:07:38+00:00
 29273,Adding rainfrog ,eunos-1128,True,R;review-requested;rust,xhochy,2025-03-16 08:20:35+00:00,2025-02-25 16:58:27+00:00,2025-03-16 08:20:35+00:00
 29274,Adding  `scikit-package`,bobleesj,True,review-requested;python,ocefpaf,2025-03-07 16:35:26+00:00,2025-02-25 18:01:32+00:00,2025-03-07 16:35:26+00:00
-29275,Adding a TAK server and its support packages,phreed,False,staged-recipes;review-requested;python,,,2025-02-25 18:16:53+00:00,
+29275,Adding a TAK server and its support packages,phreed,False,staged-recipes;review-requested;python,,,2025-02-25 18:16:53+00:00,2026-09-18 16:10:26+00:00
 29276,add psims pymzml pyteomics python-idzip,hadim,True,review-requested;python,chrisburr,2025-02-26 14:05:00+00:00,2025-02-25 19:43:17+00:00,2025-02-26 14:05:00+00:00
 29277,add ms_peak_picker,hadim,True,review-requested;python;python-c,jaimergp,2025-02-28 13:08:59+00:00,2025-02-25 20:12:32+00:00,2025-02-28 13:08:59+00:00
 29278,add ms_deisotope,hadim,True,review-requested;python;python-c,ocefpaf,2025-03-03 17:49:07+00:00,2025-02-25 20:34:44+00:00,2025-03-03 17:49:07+00:00
@@ -28377,7 +28377,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 29427,add kotlin-debug-adapter,danielnachun,True,staged-recipes;review-requested;java,ocefpaf,2025-03-17 16:04:00+00:00,2025-03-16 18:28:26+00:00,2025-03-17 16:04:00+00:00
 29428,add capacitor-cli civet preconstruct semantic-release,danielnachun,True,nodejs;staged-recipes;review-requested,ocefpaf,2025-03-17 16:07:14+00:00,2025-03-16 18:29:03+00:00,2025-03-17 16:07:14+00:00
 29429,add purescript-language-server purs-backend-erl purs-backend-es purs-tidy,danielnachun,True,nodejs;staged-recipes;review-requested,xhochy,2025-03-17 16:13:42+00:00,2025-03-16 18:29:39+00:00,2025-03-17 16:13:42+00:00
-29430,Add `imas-data-dictionary`,munechika-koyo,False,staged-recipes;review-requested;python,,,2025-03-16 23:03:11+00:00,
+29430,Add `imas-data-dictionary`,munechika-koyo,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 09:08:34+00:00,2025-03-16 23:03:11+00:00,2026-09-19 09:08:34+00:00
 29431,Add recipy clinCNV,khaled196,False,R;review-requested,,,2025-03-17 09:04:22+00:00,2025-04-01 12:46:00+00:00
 29432,add (python-)blockbuster,bollwyvl,True,review-requested;python,ocefpaf,2025-03-17 16:16:49+00:00,2025-03-17 12:49:04+00:00,2025-03-17 16:16:49+00:00
 29433,add dtrx ffi-navigator multicor_fa neovim-remote parq2csv,danielnachun,True,staged-recipes;review-requested;python,ocefpaf,2025-03-17 19:47:17+00:00,2025-03-17 18:18:15+00:00,2025-03-17 19:47:17+00:00
@@ -30101,7 +30101,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 31202,Add nvMolKit,scal444,True,staged-recipes;review-requested;python;python-c,jakirkham,2025-10-24 22:58:57+00:00,2025-10-09 16:46:26+00:00,2025-10-24 22:58:57+00:00
 31203,Add ARGscape 0.3.0,chris-a-talbot,False,,,,2025-10-09 17:23:03+00:00,2025-10-14 19:19:32+00:00
 31204,Add recipe for Skala,awvwgk,False,,,,2025-10-09 18:31:31+00:00,2025-10-30 13:50:55+00:00
-31205,Initial recipe for openshift-installer,phreed,False,staged-recipes;review-requested,,,2025-10-09 21:57:01+00:00,
+31205,Initial recipe for openshift-installer,phreed,False,staged-recipes;review-requested,,,2025-10-09 21:57:01+00:00,2026-09-18 16:09:52+00:00
 31206,Add recipe for muscle,Thomas1664,False,staged-recipes;review-requested;c-cpp,,,2025-10-10 08:10:11+00:00,2025-10-15 15:18:25+00:00
 31207,Adding recipe for dansy.,adshimpi,False,stale,,,2025-10-10 14:27:55+00:00,
 31208,add erddapcfg,ocefpaf,True,review-requested;python,isuruf,2025-10-10 22:28:35+00:00,2025-10-10 21:41:46+00:00,2025-10-10 22:28:35+00:00
@@ -32948,7 +32948,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34105,TOE for trade-off quantification between two traits,LiuShang-777,False,,,,2026-07-07 18:14:10+00:00,
 34106,Add ad recipe,killua156,True,review-requested;python,ocefpaf,2026-07-08 10:17:47+00:00,2026-07-07 19:16:37+00:00,2026-07-08 10:17:47+00:00
 34107,Add sohviewer,omid-earthscope,True,review-requested;python,ocefpaf,2026-07-08 09:59:39+00:00,2026-07-07 21:17:40+00:00,2026-07-08 09:59:39+00:00
-34108,Added the bitwarden secrets manager `bws cli`,phreed,False,,,,2026-07-07 21:27:41+00:00,
+34108,Added the bitwarden secrets manager `bws cli`,phreed,False,review-requested;rust,,,2026-07-07 21:27:41+00:00,
 34109,Add dlnr-lite,swahtz,False,,,,2026-07-07 23:30:25+00:00,2026-07-08 00:28:16+00:00
 34110,Add dlnr-lite,swahtz,True,review-requested;python,ocefpaf,2026-07-11 11:32:15+00:00,2026-07-08 00:29:34+00:00,2026-07-11 11:32:15+00:00
 34111,feat: add `aube`,salim-b,True,review-requested;rust,pavelzw,2026-07-08 09:11:52+00:00,2026-07-08 01:07:20+00:00,2026-07-08 09:11:52+00:00
@@ -33592,7 +33592,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34754,Adding torchdr,huguesva,False,review-requested;python,,,2026-09-07 18:13:59+00:00,
 34755,Adding xberg,MannXo,False,review-requested;python-c,,,2026-09-07 18:25:28+00:00,
 34756,Add promtool,trim21,False,review-requested;go,,,2026-09-08 04:40:29+00:00,
-34757,Add r-icio,SebKrantz,False,,,,2026-09-08 05:40:29+00:00,
+34757,Add r-icio,SebKrantz,True,,mfansler,2026-09-18 13:02:47+00:00,2026-09-08 05:40:29+00:00,2026-09-18 13:02:47+00:00
 34758,Adding parallelbrot,prathamhole14,False,review-requested;python-c,,,2026-09-08 05:42:19+00:00,
 34759,Add lucent-pack,IsabelParedes,True,review-requested;python,SylvainCorlay,2026-09-08 11:18:44+00:00,2026-09-08 08:59:59+00:00,2026-09-08 11:18:44+00:00
 34760,Add recipe for rubberband 4.0.0,Yash990-bit,True,review-requested;c-cpp,eunos-1128,2026-09-09 07:38:49+00:00,2026-09-08 11:03:33+00:00,2026-09-09 07:38:49+00:00
@@ -33602,7 +33602,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34764,Add open62541pp recipe,TomNysWF,True,review-requested;c-cpp,traversaro,2026-09-09 10:02:29+00:00,2026-09-08 16:03:03+00:00,2026-09-09 10:02:29+00:00
 34765,Add sphinxcontrib-rust and sphinx-rustdocgen recipes,timkpaine,True,review-requested;python;rust,eunos-1128,2026-09-18 04:27:47+00:00,2026-09-08 16:42:41+00:00,2026-09-18 04:27:47+00:00
 34766,Add pyvista-validation,user27182,True,review-requested;python,eunos-1128,2026-09-17 02:59:44+00:00,2026-09-08 16:56:46+00:00,2026-09-17 02:59:44+00:00
-34767,Adding pylast python-mpd2 reflink and soco,HeavyTony2,False,review-requested;python;python-c,,,2026-09-08 17:01:37+00:00,
+34767,Adding pylast python-mpd2 reflink and soco,HeavyTony2,True,review-requested;python;python-c,ocefpaf,2026-09-18 11:55:42+00:00,2026-09-08 17:01:37+00:00,2026-09-18 11:55:42+00:00
 34768,Add tgrep,XhstormR,True,review-requested;rust,eunos-1128,2026-09-17 06:03:05+00:00,2026-09-08 17:27:18+00:00,2026-09-17 06:03:06+00:00
 34769,Add shar-production-manifest-gate,Ares3333333,False,,,,2026-09-08 17:38:44+00:00,
 34770,Adding Package: httpx2-kerberos ,achapkowski,True,staged-recipes;review-requested;python,eunos-1128,2026-09-14 15:54:25+00:00,2026-09-08 18:26:06+00:00,2026-09-14 15:54:25+00:00
@@ -33644,7 +33644,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34808,Adding palace,benvial,False,review-requested;c-cpp,,,2026-09-11 10:02:35+00:00,
 34809,Add wisprflow-sdk recipe,Yash990-bit,True,staged-recipes;review-requested;python,eunos-1128,2026-09-12 14:08:30+00:00,2026-09-11 10:44:18+00:00,2026-09-12 14:08:30+00:00
 34810,Add spacr,EinarOlafsson,False,,,,2026-09-11 12:41:53+00:00,
-34811,Add ancestree,Sendrowski,False,review-requested;python,,,2026-09-11 12:42:14+00:00,
+34811,Add ancestree,Sendrowski,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 09:34:12+00:00,2026-09-11 12:42:14+00:00,2026-09-19 09:34:12+00:00
 34812,Adding atomworks package and dependencies,Emrys-Merlin,False,,,,2026-09-11 14:00:05+00:00,
 34813,Add ffjet,dpesce,True,review-requested;python,ocefpaf,2026-09-11 15:18:38+00:00,2026-09-11 14:19:57+00:00,2026-09-11 15:18:38+00:00
 34814,Add new-fave package and its dependencies: aligned-textgrid fasttrackpy fave-measurement-point fave-recode  praat-parselmouth,IvoLeist,True,,bgruening,2026-09-12 11:29:12+00:00,2026-09-11 14:39:14+00:00,2026-09-12 11:29:12+00:00
@@ -33694,7 +33694,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34858,Adding esg-publisher (esgcet) and its dependencies,cofinoa,True,review-requested;python,ocefpaf,2026-09-16 17:36:41+00:00,2026-09-16 12:20:35+00:00,2026-09-16 17:36:41+00:00
 34859,Adding hol-guard,kantorcodes,True,review-requested;python,eunos-1128,2026-09-17 06:33:41+00:00,2026-09-16 13:40:34+00:00,2026-09-17 06:33:41+00:00
 34860,new recipe for s1ifr,agrouaze,True,review-requested;python,ocefpaf,2026-09-17 13:26:04+00:00,2026-09-16 15:05:00+00:00,2026-09-17 13:26:04+00:00
-34861,add recipe : ov - a CLI pager,sabarish-vm,False,staged-recipes;review-requested;go,,,2026-09-16 16:33:18+00:00,
+34861,add recipe : ov - a CLI pager,sabarish-vm,True,staged-recipes;review-requested;go,eunos-1128,2026-09-18 11:03:38+00:00,2026-09-16 16:33:18+00:00,2026-09-18 11:03:38+00:00
 34862,Add ESGF Download (`esgpull`),cofinoa,True,review-requested;python,ocefpaf,2026-09-16 18:43:31+00:00,2026-09-16 18:11:44+00:00,2026-09-16 18:43:31+00:00
 34863,Adding mecatl,keponk,True,review-requested;go,eunos-1128,2026-09-17 10:38:58+00:00,2026-09-16 18:22:38+00:00,2026-09-17 10:38:58+00:00
 34864,Add cypari,killua156,False,,,,2026-09-16 19:55:20+00:00,
@@ -33705,13 +33705,20 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34869,Add Apprentice,matthewfeickert,True,review-requested;python,chrisburr,2026-09-17 17:52:36+00:00,2026-09-17 04:30:26+00:00,2026-09-17 17:52:36+00:00
 34870,Add okf-agent-memory,lsetiawan,True,review-requested;go,eunos-1128,2026-09-18 04:16:21+00:00,2026-09-17 04:55:06+00:00,2026-09-18 04:16:21+00:00
 34871,Add streamlit-pdf,FlorianFlatscher,True,review-requested;python,pavelzw,2026-09-17 14:43:18+00:00,2026-09-17 14:22:40+00:00,2026-09-17 14:43:18+00:00
-34872,Add OCaml base libraries,ManuelLerchner,False,,,,2026-09-17 15:26:54+00:00,
+34872,Add OCaml base libraries,ManuelLerchner,False,review-requested;c-cpp,,,2026-09-17 15:26:54+00:00,
 34873,Add fxrays,killua156,False,review-requested;python-c,,,2026-09-17 16:22:34+00:00,
 34874,Add flightgear-python,killua156,True,review-requested;python,ocefpaf,2026-09-17 17:20:03+00:00,2026-09-17 16:56:25+00:00,2026-09-17 17:20:03+00:00
 34875,Adding sagemath-mcp,csteinlxbp,False,review-requested;python,,,2026-09-17 18:39:12+00:00,
-34876,add exorcist package recipe,atravitz,False,,,,2026-09-17 19:05:11+00:00,
+34876,add exorcist package recipe,atravitz,False,review-requested;python,,,2026-09-17 19:05:11+00:00,
 34877,Add authencoding,killua156,False,,,,2026-09-17 19:54:07+00:00,
-34878,feat: Add recipe for aviary-models,AntObi,False,review-requested;python,,,2026-09-17 21:14:35+00:00,
-34879,Adding the Bitwarden CLI,phreed,False,,,,2026-09-18 00:29:51+00:00,
-34880,Add grads,RogierFloors,False,,,,2026-09-18 07:00:38+00:00,
+34878,feat: Add recipe for aviary-models,AntObi,True,review-requested;python,ocefpaf,2026-09-18 14:20:13+00:00,2026-09-17 21:14:35+00:00,2026-09-18 14:20:13+00:00
+34879,Adding the Bitwarden CLI,phreed,False,nodejs;review-requested,,,2026-09-18 00:29:51+00:00,
+34880,Add grads,RogierFloors,False,review-requested;c-cpp,,,2026-09-18 07:00:38+00:00,
 34881,Add ten TaN-MM-Org research packages (labplan vacspin sqzcomb cavsqueeze ramansep sparq-triage absnoise hamop kpenvelope fabtwin),Tanvir-Mahmud-Mahim,False,,,,2026-09-18 09:19:01+00:00,
+34882,Add bgen-limix recipe,jpfeuffer,False,,,,2026-09-18 12:39:47+00:00,
+34883,Added flet-platform-assets as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-09-18 13:32:04+00:00,2026-09-18 13:14:18+00:00,2026-09-18 13:32:04+00:00
+34884,add PyCrystalField recipe,Skovrup1,False,review-requested;python,,,2026-09-18 14:23:54+00:00,
+34885,Add StepUp Namespace packages and dependencies,tovrstra,False,,,,2026-09-18 17:56:20+00:00,
+34886,Add interfacemethod,jan-janssen,False,staged-recipes;review-requested;python,,,2026-09-18 19:04:06+00:00,
+34887,Add graphed graphed-executors graphed-histogram,lgray,False,review-requested;python;rust,,,2026-09-18 22:13:15+00:00,
+34888,add recipe for pixi-sbom,millsks,False,review-requested;rust,,,2026-09-18 23:33:45+00:00,
