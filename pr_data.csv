@@ -32304,7 +32304,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33460,Add gempakio recipe,nawendt,True,review-requested;python,ocefpaf,2026-05-25 11:37:54+00:00,2026-05-25 04:38:45+00:00,2026-05-25 11:37:54+00:00
 33461,Add openpkflow 2.7.0,priyamthakar,False,review-requested;python,,,2026-05-25 06:36:52+00:00,
 33462,Add glassbox-framework,TheBarmaEffect,False,,,,2026-05-25 08:08:46+00:00,
-33463,Add mermaid-cli,ajaypnair09,False,nodejs;review-requested,,,2026-05-25 11:52:43+00:00,
+33463,Add mermaid-cli,ajaypnair09,True,nodejs;review-requested,eunos-1128,2026-09-20 02:46:36+00:00,2026-05-25 11:52:43+00:00,2026-09-20 02:46:36+00:00
 33464,Add deeptab,jan-janssen,True,staged-recipes;review-requested;python,ocefpaf,2026-05-25 16:44:28+00:00,2026-05-25 14:11:05+00:00,2026-05-25 16:44:28+00:00
 33465,Add xorq-datafusion,rxm7706,True,review-requested;rust,pavelzw,2026-05-29 14:22:14+00:00,2026-05-25 14:39:41+00:00,2026-05-29 14:22:14+00:00
 33466,Add satkit,ssmichael1,True,review-requested;python-c;rust,eunos-1128,2026-09-13 04:33:11+00:00,2026-05-25 15:17:11+00:00,2026-09-13 04:33:11+00:00
@@ -32796,7 +32796,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33952,Add langchain-google-calendar-tools,rxm7706,True,staged-recipes;review-requested;python,eunos-1128,2026-08-27 12:00:51+00:00,2026-06-27 11:54:04+00:00,2026-08-27 12:00:51+00:00
 33953,Add metal-sdk,rxm7706,True,review-requested;python,eunos-1128,2026-08-27 16:13:46+00:00,2026-06-27 11:54:07+00:00,2026-08-27 16:13:46+00:00
 33954,Add langchain-nvidia-ai-endpoints,rxm7706,True,staged-recipes;review-requested;python,eunos-1128,2026-08-27 09:35:11+00:00,2026-06-27 11:54:10+00:00,2026-08-27 09:35:12+00:00
-33955,Add langchain-pinecone,rxm7706,False,review-requested;python,,,2026-06-27 11:54:13+00:00,
+33955,Add langchain-pinecone,rxm7706,True,review-requested;python,eunos-1128,2026-09-19 14:34:20+00:00,2026-06-27 11:54:13+00:00,2026-09-19 14:34:20+00:00
 33956,Add langchain-weaviate,rxm7706,False,review-requested;python,,,2026-06-27 11:54:16+00:00,2026-07-03 11:52:00+00:00
 33957,Add langchain-unstructured,rxm7706,True,review-requested;python,eunos-1128,2026-09-04 08:57:52+00:00,2026-06-27 11:54:19+00:00,2026-09-04 08:57:52+00:00
 33958,Add openlayer,rxm7706,True,review-requested;python,eunos-1128,2026-09-01 01:52:02+00:00,2026-06-27 11:54:22+00:00,2026-09-01 01:52:02+00:00
@@ -33059,7 +33059,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34217,Add recipe for scrubadub,soapy1,True,review-requested;python,ocefpaf,2026-07-17 11:30:34+00:00,2026-07-16 21:12:52+00:00,2026-07-17 11:30:34+00:00
 34218,Add weston compositor (fully featured) Xwayland and their dependency stack,hmaarrfk,True,review-requested,hmaarrfk,2026-08-09 00:31:23+00:00,2026-07-17 02:05:39+00:00,2026-08-09 00:31:23+00:00
 34219,Add recipe for speculators,xhochy,True,,pavelzw,2026-07-17 09:52:33+00:00,2026-07-17 07:24:55+00:00,2026-07-17 09:52:33+00:00
-34220,Add bmad-module-skill-forge,rxm7706,False,nodejs;review-requested,,,2026-07-17 09:25:26+00:00,
+34220,Add bmad-module-skill-forge,rxm7706,True,nodejs;review-requested,eunos-1128,2026-09-20 02:45:33+00:00,2026-07-17 09:25:26+00:00,2026-09-20 02:45:33+00:00
 34221,Add cargo-semver-checks,baszalmstra,True,review-requested;rust,baszalmstra,2026-07-17 14:38:25+00:00,2026-07-17 13:28:16+00:00,2026-07-17 14:38:25+00:00
 34222,Add voiage v1.0.0,edithatogo,False,,,,2026-07-17 13:50:17+00:00,2026-08-30 21:37:45+00:00
 34223,Add recipe for gb-robot-models,traversaro,True,staged-recipes;review-requested;c-cpp,baszalmstra,2026-07-17 15:39:04+00:00,2026-07-17 14:44:27+00:00,2026-07-17 15:39:04+00:00
@@ -33157,7 +33157,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34315,Add edge-tts package,rxm7706,True,review-requested;python,ocefpaf,2026-07-27 14:06:18+00:00,2026-07-26 21:29:40+00:00,2026-07-27 14:06:18+00:00
 34316,Add openreview-py,rxm7706,True,review-requested;python,matthewfeickert,2026-07-27 15:38:04+00:00,2026-07-26 21:33:30+00:00,2026-07-27 15:38:04+00:00
 34317,Create onnx-asr package,rxm7706,True,review-requested;python,matthewfeickert,2026-07-27 06:30:43+00:00,2026-07-26 21:40:16+00:00,2026-07-27 06:30:44+00:00
-34318,Add Hyperframes,rxm7706,False,nodejs;review-requested,,,2026-07-26 21:44:08+00:00,
+34318,Add Hyperframes,rxm7706,True,nodejs;review-requested,eunos-1128,2026-09-19 13:16:02+00:00,2026-07-26 21:44:08+00:00,2026-09-19 13:16:02+00:00
 34319,Create recipe.yaml for parakeet-mlx package,rxm7706,True,review-requested;python,ocefpaf,2026-08-01 13:48:49+00:00,2026-07-26 21:46:08+00:00,2026-08-01 13:48:49+00:00
 34320,Create recipe.yaml for headroom-ai,rxm7706,True,review-requested;python-c;rust,eunos-1128,2026-08-27 09:11:11+00:00,2026-07-26 21:59:08+00:00,2026-08-27 09:11:11+00:00
 34321,Adding pyrobotiqgripper library,nmarticorena,True,review-requested;python,matthewfeickert,2026-07-27 06:36:31+00:00,2026-07-27 01:40:14+00:00,2026-07-27 06:36:31+00:00
@@ -33650,7 +33650,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34814,Add new-fave package and its dependencies: aligned-textgrid fasttrackpy fave-measurement-point fave-recode  praat-parselmouth,IvoLeist,True,,bgruening,2026-09-12 11:29:12+00:00,2026-09-11 14:39:14+00:00,2026-09-12 11:29:12+00:00
 34815,Add Jumble,lguez,True,staged-recipes;review-requested;c-cpp,eunos-1128,2026-09-14 10:07:08+00:00,2026-09-11 15:33:47+00:00,2026-09-14 10:07:08+00:00
 34816,Linter: check no extra files outside recipes/*/ unless labeled as mai…,Yash990-bit,True,maintenance,carterbox,2026-09-11 17:52:33+00:00,2026-09-11 16:18:09+00:00,2026-09-11 17:52:33+00:00
-34817,Add spaday design systems,timkpaine,False,review-requested;python,,,2026-09-11 16:21:37+00:00,
+34817,Add spaday design systems,timkpaine,True,review-requested;python,eunos-1128,2026-09-19 13:11:41+00:00,2026-09-11 16:21:37+00:00,2026-09-19 13:11:41+00:00
 34818,Sync swap file setup with conda-smithy,carterbox,True,maintenance,carterbox,2026-09-11 17:36:52+00:00,2026-09-11 17:14:36+00:00,2026-09-11 17:36:52+00:00
 34819,Add esgcet recipe,sashakames,False,,,,2026-09-11 18:35:19+00:00,2026-09-11 22:24:01+00:00
 34820,Added recipes for pywavefront embreex hothouse & canopy_factory,langmm,False,review-requested;python;python-c,,,2026-09-11 23:46:36+00:00,
@@ -33715,10 +33715,15 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34879,Adding the Bitwarden CLI,phreed,False,nodejs;review-requested,,,2026-09-18 00:29:51+00:00,
 34880,Add grads,RogierFloors,False,review-requested;c-cpp,,,2026-09-18 07:00:38+00:00,
 34881,Add ten TaN-MM-Org research packages (labplan vacspin sqzcomb cavsqueeze ramansep sparq-triage absnoise hamop kpenvelope fabtwin),Tanvir-Mahmud-Mahim,False,,,,2026-09-18 09:19:01+00:00,
-34882,Add bgen-limix recipe,jpfeuffer,False,,,,2026-09-18 12:39:47+00:00,
+34882,Add bgen-limix recipe,jpfeuffer,False,review-requested;python-c,,,2026-09-18 12:39:47+00:00,
 34883,Added flet-platform-assets as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-09-18 13:32:04+00:00,2026-09-18 13:14:18+00:00,2026-09-18 13:32:04+00:00
 34884,add PyCrystalField recipe,Skovrup1,False,review-requested;python,,,2026-09-18 14:23:54+00:00,
 34885,Add StepUp Namespace packages and dependencies,tovrstra,False,,,,2026-09-18 17:56:20+00:00,
-34886,Add interfacemethod,jan-janssen,False,staged-recipes;review-requested;python,,,2026-09-18 19:04:06+00:00,
+34886,Add interfacemethod,jan-janssen,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 11:03:31+00:00,2026-09-18 19:04:06+00:00,2026-09-19 11:03:31+00:00
 34887,Add graphed graphed-executors graphed-histogram,lgray,False,review-requested;python;rust,,,2026-09-18 22:13:15+00:00,
-34888,add recipe for pixi-sbom,millsks,False,review-requested;rust,,,2026-09-18 23:33:45+00:00,
+34888,add recipe for pixi-sbom,millsks,True,review-requested;rust,pavelzw,2026-09-19 16:39:03+00:00,2026-09-18 23:33:45+00:00,2026-09-19 16:39:03+00:00
+34889,Add mailsort,jan-janssen,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 13:03:36+00:00,2026-09-19 11:44:32+00:00,2026-09-19 13:03:36+00:00
+34890,Adding zsh-syntax-highlighting zsh-autosuggestions zsh-you-should-use and zsh-bat,ManuelLerchner,False,staged-recipes;review-requested,,,2026-09-19 15:52:33+00:00,
+34891,Add openndm,rizkiokt,False,,,,2026-09-19 19:15:52+00:00,
+34892,Add strata-bench feedstock,movahedi-ca,False,,,,2026-09-19 21:43:41+00:00,
+34893,Add lintlang 0.6.0,roli-lpci,False,,,,2026-09-19 23:59:10+00:00,

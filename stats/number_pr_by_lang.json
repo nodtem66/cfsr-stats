@@ -20,7 +20,7 @@
     "total": 8
   },
   "nodejs": {
-    "closed": 70,
+    "closed": 73,
     "total": 135
   },
   "perl": {
@@ -28,19 +28,19 @@
     "total": 48
   },
   "python": {
-    "closed": 6079,
-    "total": 6674
+    "closed": 6083,
+    "total": 6675
   },
   "python-c": {
     "closed": 507,
-    "total": 636
+    "total": 637
   },
   "ruby": {
     "closed": 22,
     "total": 25
   },
   "rust": {
-    "closed": 398,
+    "closed": 399,
     "total": 459
   }
 }
