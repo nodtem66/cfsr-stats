@@ -33,13 +33,13 @@
     "go": 5,
     "java": 0,
     "julia": 1,
-    "nodejs": 9,
+    "nodejs": 10,
     "perl": 0,
-    "python": 103,
+    "python": 104,
     "python-c": 14,
     "ruby": 0,
     "rust": 16,
-    "total": 151
+    "total": 153
   },
   "isuruf": {
     "R": 1,
@@ -77,11 +77,11 @@
     "julia": 0,
     "nodejs": 2,
     "perl": 0,
-    "python": 466,
+    "python": 460,
     "python-c": 13,
     "ruby": 1,
     "rust": 9,
-    "total": 515
+    "total": 509
   },
   "pavelzw": {
     "R": 0,
@@ -94,12 +94,12 @@
     "python": 27,
     "python-c": 2,
     "ruby": 0,
-    "rust": 66,
-    "total": 160
+    "rust": 67,
+    "total": 161
   },
   "traversaro": {
     "R": 2,
-    "c-cpp": 50,
+    "c-cpp": 47,
     "go": 1,
     "java": 1,
     "julia": 0,
@@ -109,7 +109,7 @@
     "python-c": 15,
     "ruby": 0,
     "rust": 3,
-    "total": 94
+    "total": 91
   },
   "wolfv": {
     "R": 0,
@@ -127,7 +127,7 @@
   },
   "xhochy": {
     "R": 0,
-    "c-cpp": 2,
+    "c-cpp": 1,
     "go": 2,
     "java": 0,
     "julia": 0,
@@ -137,6 +137,6 @@
     "python-c": 0,
     "ruby": 0,
     "rust": 11,
-    "total": 26
+    "total": 25
   }
 }
