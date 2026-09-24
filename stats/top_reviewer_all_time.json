@@ -127,7 +127,7 @@
   },
   "xhochy": {
     "R": 88,
-    "c-cpp": 172,
+    "c-cpp": 174,
     "go": 79,
     "java": 17,
     "julia": 0,
@@ -137,6 +137,6 @@
     "python-c": 143,
     "ruby": 1,
     "rust": 122,
-    "total": 2135
+    "total": 2138
   }
 }
