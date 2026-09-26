@@ -31971,7 +31971,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33122,Add google-cloud-jupyter-config,sumanth-manchala,False,,,,2026-04-26 18:57:17+00:00,
 33123,Add BMAD Builder,rxm7706,False,review-requested;python,,,2026-04-27 08:47:06+00:00,
 33124,Add BMAD Creative Intelligence Suite,rxm7706,False,review-requested;python,,,2026-04-27 08:49:22+00:00,
-33125,Add BMAD Test Architecture Enterprise,rxm7706,False,,,,2026-04-27 08:51:31+00:00,
+33125,Add BMAD Test Architecture Enterprise,rxm7706,False,,,,2026-04-27 08:51:31+00:00,2026-09-26 08:06:28+00:00
 33126,Add BMAD WDS Expansion,rxm7706,False,review-requested;python,,,2026-04-27 08:54:37+00:00,
 33127,Add BMAD Module Template,rxm7706,False,,,,2026-04-27 08:57:51+00:00,
 33128,Add BMAD Story Automator,rxm7706,False,review-requested;python,,,2026-04-27 08:59:59+00:00,
@@ -32206,7 +32206,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33359,Add cline-cli v3.0.5,eunos-1128,False,nodejs;review-requested,,,2026-05-17 15:58:53+00:00,2026-05-18 13:57:45+00:00
 33360,Add glycin recipe,haecker-felix,True,staged-recipes;review-requested,baszalmstra,2026-06-18 15:28:36+00:00,2026-05-17 16:21:51+00:00,2026-06-18 15:28:36+00:00
 33361,add ljosbru,pavelzw,True,review-requested;rust,xhochy,2026-05-18 06:16:42+00:00,2026-05-17 18:25:18+00:00,2026-05-18 06:16:42+00:00
-33362,Add gSolve v5.6.1 package,craigmillernz,False,staged-recipes;review-requested;python,,,2026-05-18 03:43:42+00:00,
+33362,Add gSolve v5.7.0 package,craigmillernz,False,staged-recipes;review-requested;python,,,2026-05-18 03:43:42+00:00,2026-09-26 06:11:18+00:00
 33363,magic: add version 8.3.644,Xkhanh720,False,,,,2026-05-18 07:21:58+00:00,
 33364,Add recipe for deepagents-acp,xhochy,True,,pavelzw,2026-05-18 09:31:05+00:00,2026-05-18 09:02:26+00:00,2026-05-18 09:31:06+00:00
 33365,Add recipe for tavily-python,xhochy,True,,pavelzw,2026-05-18 10:01:49+00:00,2026-05-18 09:34:02+00:00,2026-05-18 10:01:49+00:00
@@ -32948,7 +32948,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34105,TOE for trade-off quantification between two traits,LiuShang-777,False,,,,2026-07-07 18:14:10+00:00,
 34106,Add ad recipe,killua156,True,review-requested;python,ocefpaf,2026-07-08 10:17:47+00:00,2026-07-07 19:16:37+00:00,2026-07-08 10:17:47+00:00
 34107,Add sohviewer,omid-earthscope,True,review-requested;python,ocefpaf,2026-07-08 09:59:39+00:00,2026-07-07 21:17:40+00:00,2026-07-08 09:59:39+00:00
-34108,Added the bitwarden secrets manager `bws cli`,phreed,False,review-requested;rust,,,2026-07-07 21:27:41+00:00,
+34108,Added the bitwarden secrets manager `bws cli`,phreed,True,review-requested;rust,pavelzw,2026-09-25 18:51:32+00:00,2026-07-07 21:27:41+00:00,2026-09-25 18:51:32+00:00
 34109,Add dlnr-lite,swahtz,False,,,,2026-07-07 23:30:25+00:00,2026-07-08 00:28:16+00:00
 34110,Add dlnr-lite,swahtz,True,review-requested;python,ocefpaf,2026-07-11 11:32:15+00:00,2026-07-08 00:29:34+00:00,2026-07-11 11:32:15+00:00
 34111,feat: add `aube`,salim-b,True,review-requested;rust,pavelzw,2026-07-08 09:11:52+00:00,2026-07-08 01:07:20+00:00,2026-07-08 09:11:52+00:00
@@ -33153,7 +33153,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34311,add warmup-scheduler,jan-janssen,False,staged-recipes;review-requested;python,,,2026-07-26 19:55:05+00:00,2026-07-26 20:36:41+00:00
 34312,Add chaldene-super-resolution and warmup-scheduler,jan-janssen,True,staged-recipes;review-requested;python,pavelzw,2026-07-27 08:22:16+00:00,2026-07-26 20:14:57+00:00,2026-07-27 08:22:16+00:00
 34313,Add batchcorder,rxm7706,True,review-requested;python;rust,eunos-1128,2026-09-01 01:46:30+00:00,2026-07-26 20:18:20+00:00,2026-09-01 01:46:30+00:00
-34314,Codegraph - Pre-indexed code knowledge graph for coding agents,rxm7706,False,nodejs;review-requested,,,2026-07-26 21:08:52+00:00,
+34314,Codegraph - Pre-indexed code knowledge graph for coding agents,rxm7706,True,nodejs;review-requested,jaimergp,2026-09-25 20:15:08+00:00,2026-07-26 21:08:52+00:00,2026-09-25 20:15:08+00:00
 34315,Add edge-tts package,rxm7706,True,review-requested;python,ocefpaf,2026-07-27 14:06:18+00:00,2026-07-26 21:29:40+00:00,2026-07-27 14:06:18+00:00
 34316,Add openreview-py,rxm7706,True,review-requested;python,matthewfeickert,2026-07-27 15:38:04+00:00,2026-07-26 21:33:30+00:00,2026-07-27 15:38:04+00:00
 34317,Create onnx-asr package,rxm7706,True,review-requested;python,matthewfeickert,2026-07-27 06:30:43+00:00,2026-07-26 21:40:16+00:00,2026-07-27 06:30:44+00:00
@@ -33608,7 +33608,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34770,Adding Package: httpx2-kerberos ,achapkowski,True,staged-recipes;review-requested;python,eunos-1128,2026-09-14 15:54:25+00:00,2026-09-08 18:26:06+00:00,2026-09-14 15:54:25+00:00
 34771,Add Godot,baszalmstra,False,,,,2026-09-08 20:39:56+00:00,
 34772,add `diffle`,moritzwilksch,True,,pavelzw,2026-09-08 21:14:58+00:00,2026-09-08 20:54:00+00:00,2026-09-08 21:14:58+00:00
-34773,Create recipe.yaml for openfeature-flagd-api,rxm7706,False,review-requested;python,,,2026-09-08 22:30:37+00:00,
+34773,Create recipe.yaml for openfeature-flagd-api,rxm7706,True,review-requested;python,jaimergp,2026-09-25 20:57:09+00:00,2026-09-08 22:30:37+00:00,2026-09-25 20:57:09+00:00
 34774,Add bmad-eval-quality,rxm7706,False,nodejs;review-requested,,,2026-09-09 07:12:41+00:00,
 34775,Add complgen,pavelzw,True,review-requested;rust,xhochy,2026-09-09 08:37:43+00:00,2026-09-09 08:17:55+00:00,2026-09-09 08:37:44+00:00
 34776,Add osl-dynamics,cgohil8,False,review-requested;python,,,2026-09-09 09:32:32+00:00,
@@ -33755,24 +33755,33 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34919,Add napari-resources recipe,brisvag,True,staged-recipes;review-requested,ocefpaf,2026-09-24 17:35:49+00:00,2026-09-22 10:17:51+00:00,2026-09-24 17:35:49+00:00
 34920,Adding secretspec,pavelzw,True,review-requested;rust,synapticarbors,2026-09-22 18:22:41+00:00,2026-09-22 14:01:38+00:00,2026-09-22 18:22:41+00:00
 34921,Add oslotest recipe,mgorny,True,,jaimergp,2026-09-23 10:41:00+00:00,2026-09-22 15:06:41+00:00,2026-09-23 10:41:01+00:00
-34922,Add recipe for ``liquibase-postgresql``,pb01ka,False,review-requested;java,,,2026-09-22 17:46:30+00:00,
+34922,Add recipe for ``liquibase-postgresql``,pb01ka,True,review-requested;java,jaimergp,2026-09-25 21:46:12+00:00,2026-09-22 17:46:30+00:00,2026-09-25 21:46:13+00:00
 34923,Add hidapitester,ytausch,True,review-requested;c-cpp,xhochy,2026-09-23 12:45:09+00:00,2026-09-22 18:55:42+00:00,2026-09-23 12:45:09+00:00
 34925,Add rule-audit recipe,roli-lpci,False,review-requested;python,,,2026-09-23 09:20:02+00:00,
 34926,Add autohotkey,ytausch,True,review-requested;c-cpp,xhochy,2026-09-23 12:45:42+00:00,2026-09-23 09:51:24+00:00,2026-09-23 12:45:42+00:00
 34927,Add pyvista-wasm,tkoyama010,False,review-requested;python,,,2026-09-23 11:25:03+00:00,
-34928,Add recipe for sqlite-vec,jsmolic,False,,,,2026-09-23 14:57:21+00:00,
+34928,Add recipe for sqlite-vec,jsmolic,True,,jaimergp,2026-09-25 19:26:10+00:00,2026-09-23 14:57:21+00:00,2026-09-25 19:26:10+00:00
 34929,Add r-fuzzyranktests 0.5,whatever60,False,R;review-requested,,,2026-09-23 17:43:22+00:00,
 34930,Add cem-matching,killua156,False,review-requested;python,,,2026-09-23 18:11:03+00:00,
 34931,Add mathparse,killua156,True,review-requested;python,ocefpaf,2026-09-25 10:50:56+00:00,2026-09-23 19:13:06+00:00,2026-09-25 10:50:56+00:00
 34932,Add chatterbot,killua156,False,,,,2026-09-23 19:25:00+00:00,
 34933,Add dataproc-spark-connect,killua156,True,review-requested;python,ocefpaf,2026-09-24 11:25:08+00:00,2026-09-23 20:02:03+00:00,2026-09-24 11:25:08+00:00
 34934,Add recipe for ``pyliquibase``,pb01ka,True,review-requested;python,ocefpaf,2026-09-25 10:38:35+00:00,2026-09-23 20:44:45+00:00,2026-09-25 10:38:35+00:00
-34935,Add recipe for silo,soapy1,False,review-requested;go,,,2026-09-23 21:14:34+00:00,
+34935,Add recipe for silo,soapy1,True,review-requested;go,pavelzw,2026-09-25 18:19:07+00:00,2026-09-23 21:14:34+00:00,2026-09-25 18:19:07+00:00
 34936,Adding skia,pavelzw,True,,xhochy,2026-09-24 08:23:11+00:00,2026-09-23 21:31:24+00:00,2026-09-24 08:23:11+00:00
 34937,Add recipe and build script for libayatana-appindicator-glib,maurosilber,False,,,,2026-09-23 22:21:50+00:00,
 34938,Adding fg-data-profiling and tabalyst ,HeavyTony2,False,review-requested;python,,,2026-09-23 23:44:20+00:00,
-34939,Add `conda-pycosat-solver` recipe,kenodegard,False,,,,2026-09-24 14:32:44+00:00,
+34939,Add `conda-pycosat-solver` recipe,kenodegard,True,,jaimergp,2026-09-26 09:34:17+00:00,2026-09-24 14:32:44+00:00,2026-09-26 09:34:17+00:00
 34940,Add get-gecko-driver,killua156,True,review-requested;python,ocefpaf,2026-09-25 10:41:09+00:00,2026-09-24 18:43:43+00:00,2026-09-25 10:41:09+00:00
-34941,Add recipe for ``meltano``,pb01ka,False,,,,2026-09-24 21:30:45+00:00,
-34942,Add Spectractor,roceb,False,,,,2026-09-24 22:29:41+00:00,
+34941,Add recipe for ``meltano``,pb01ka,False,review-requested;python,,,2026-09-24 21:30:45+00:00,
+34942,Add Spectractor,roceb,True,review-requested;python,ocefpaf,2026-09-25 17:15:01+00:00,2026-09-24 22:29:41+00:00,2026-09-25 17:15:01+00:00
 34943,Add dask-setup,greensh16,True,review-requested;python,ocefpaf,2026-09-25 10:01:27+00:00,2026-09-25 05:10:55+00:00,2026-09-25 10:01:27+00:00
+34944,Add hydroseason,tayerthiaggo,False,,,,2026-09-25 12:17:31+00:00,
+34945,Add edgehop,ytausch,True,,pavelzw,2026-09-25 14:07:38+00:00,2026-09-25 13:26:48+00:00,2026-09-25 14:07:38+00:00
+34946,Add recipe for pyjson5,jack-pappas,False,review-requested;python-c,,,2026-09-25 15:14:18+00:00,
+34947,New package: pet-rd-tools,casperdcl,False,,,,2026-09-25 18:00:13+00:00,2026-09-25 20:11:59+00:00
+34948,Add qiskit-mitigation,wshanks,False,review-requested;python,,,2026-09-25 18:56:43+00:00,
+34949,Add pet-rd-tools recipe,casperdcl,False,,,,2026-09-25 20:21:51+00:00,
+34950,Add recipe for ``genbadge``,pb01ka,False,review-requested;python,,,2026-09-25 21:30:12+00:00,
+34951,Add tilelang 0.1.14,iamthebot,False,,,,2026-09-26 05:13:20+00:00,
+34952,add package gSolve v5.7.0,craigmillernz,False,,,,2026-09-26 06:31:08+00:00,
