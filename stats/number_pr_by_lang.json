@@ -1,7 +1,7 @@
 {
   "R": {
     "closed": 695,
-    "total": 771
+    "total": 772
   },
   "c-cpp": {
     "closed": 747,
@@ -29,11 +29,11 @@
   },
   "python": {
     "closed": 6102,
-    "total": 6697
+    "total": 6702
   },
   "python-c": {
     "closed": 507,
-    "total": 639
+    "total": 640
   },
   "ruby": {
     "closed": 22,
@@ -41,6 +41,6 @@
   },
   "rust": {
     "closed": 404,
-    "total": 463
+    "total": 464
   }
 }

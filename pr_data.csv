@@ -33677,7 +33677,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34841,Add recipe for require3,simon-ess,False,review-requested;c-cpp,,,2026-09-14 14:01:57+00:00,
 34842,Add agent-memory-guard,vgudur-dev,True,review-requested;python,eunos-1128,2026-09-17 06:00:26+00:00,2026-09-14 20:47:33+00:00,2026-09-17 06:00:26+00:00
 34843,Add seekrflow recipe,lvotapka,True,staged-recipes;review-requested;python,eunos-1128,2026-09-23 05:36:43+00:00,2026-09-14 21:07:39+00:00,2026-09-23 05:36:43+00:00
-34844,Add qiskit-addon-sqd recipe,garrison,False,,,,2026-09-14 21:54:01+00:00,
+34844,Add qiskit-addon-sqd recipe,garrison,False,review-requested;python,,,2026-09-14 21:54:01+00:00,
 34845,Add onioncat onionshare onionpipe and onionize,pavelzw,True,,xhochy,2026-09-15 14:20:40+00:00,2026-09-14 23:00:57+00:00,2026-09-15 14:20:40+00:00
 34846,Add rustqc 0.4.0,2shakilrafi,False,review-requested;rust,,,2026-09-15 01:54:41+00:00,
 34847,leptris: add recipe (1.9.177.0),ronaldtse,False,,,,2026-09-15 08:22:18+00:00,
@@ -33718,13 +33718,13 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34882,Add bgen-limix recipe,jpfeuffer,False,review-requested;python-c,,,2026-09-18 12:39:47+00:00,
 34883,Added flet-platform-assets as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-09-18 13:32:04+00:00,2026-09-18 13:14:18+00:00,2026-09-18 13:32:04+00:00
 34884,add PyCrystalField recipe,Skovrup1,False,review-requested;python,,,2026-09-18 14:23:54+00:00,
-34885,Add StepUp Namespace packages and dependencies,tovrstra,False,,,,2026-09-18 17:56:20+00:00,
+34885,Add StepUp Namespace packages and dependencies,tovrstra,False,review-requested;python,,,2026-09-18 17:56:20+00:00,
 34886,Add interfacemethod,jan-janssen,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 11:03:31+00:00,2026-09-18 19:04:06+00:00,2026-09-19 11:03:31+00:00
 34887,Add graphed graphed-executors graphed-histogram,lgray,False,review-requested;python;rust,,,2026-09-18 22:13:15+00:00,
 34888,add recipe for pixi-sbom,millsks,True,review-requested;rust,pavelzw,2026-09-19 16:39:03+00:00,2026-09-18 23:33:45+00:00,2026-09-19 16:39:03+00:00
 34889,Add mailsort,jan-janssen,True,staged-recipes;review-requested;python,eunos-1128,2026-09-19 13:03:36+00:00,2026-09-19 11:44:32+00:00,2026-09-19 13:03:36+00:00
 34890,Adding zsh-syntax-highlighting zsh-autosuggestions zsh-you-should-use and zsh-bat,ManuelLerchner,False,staged-recipes;review-requested,,,2026-09-19 15:52:33+00:00,
-34891,Add openndm,rizkiokt,False,review-requested;python,,,2026-09-19 19:15:52+00:00,
+34891,Add openndm,rizkiokt,False,review-requested;python;python-c,,,2026-09-19 19:15:52+00:00,
 34892,Add strata-bench feedstock,movahedi-ca,False,,,,2026-09-19 21:43:41+00:00,
 34893,Add lintlang 0.6.0,roli-lpci,False,,,,2026-09-19 23:59:10+00:00,
 34894,Add recipe: yfinance-ta-patterns,eminsk,False,review-requested;python,,,2026-09-20 11:45:37+00:00,
@@ -33784,4 +33784,13 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34949,Add pet-rd-tools recipe,casperdcl,False,,,,2026-09-25 20:21:51+00:00,
 34950,Add recipe for ``genbadge``,pb01ka,False,review-requested;python,,,2026-09-25 21:30:12+00:00,
 34951,Add tilelang 0.1.14,iamthebot,False,,,,2026-09-26 05:13:20+00:00,
-34952,add package gSolve v5.7.0,craigmillernz,False,,,,2026-09-26 06:31:08+00:00,
+34952,add package gSolve v5.7.0,craigmillernz,False,,,,2026-09-26 06:31:08+00:00,2026-09-26 21:43:06+00:00
+34953,Add openfeature-flagd-core,rxm7706,False,review-requested;python,,,2026-09-26 13:16:06+00:00,
+34954,Add django-service-urls recipe,al1sant0s,False,review-requested;python,,,2026-09-26 13:17:21+00:00,
+34955,Add openfeature-provider-flagd,rxm7706,False,,,,2026-09-26 13:22:56+00:00,
+34956,Add recipe for pgjdbc,rxm7706,False,,,,2026-09-26 16:22:13+00:00,
+34957,Add whiteboard,jeongseok-meta,False,,,,2026-09-26 17:26:00+00:00,2026-09-26 20:03:17+00:00
+34958,Add CRAN package FIAstemmap,ctoney,False,R;review-requested,,,2026-09-26 18:16:06+00:00,
+34959,add package pygtide v0.9.1,craigmillernz,False,,,,2026-09-26 21:44:28+00:00,
+34960,Add isar-tools,ManuelLerchner,False,review-requested;python,,,2026-09-27 01:47:33+00:00,
+34961,Add turso,XhstormR,False,review-requested;rust,,,2026-09-27 10:06:37+00:00,
