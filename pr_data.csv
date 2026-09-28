@@ -31733,7 +31733,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 32866,Add sctrial: participant-level differential analysis for longitudinal scRNA-seq,MohamedOmar2020,False,review-requested;python,,,2026-04-05 20:12:34+00:00,
 32867,add wysebee,Jeffxz,False,,,,2026-04-05 20:16:17+00:00,2026-04-05 20:33:05+00:00
 32868,add wysebee,Jeffxz,False,review-requested;python,,,2026-04-05 22:13:59+00:00,2026-04-07 16:42:45+00:00
-32870,Add pypi package gpu-glm to feedstock,gmcmacran,False,review-requested;python,,,2026-04-06 01:28:51+00:00,
+32870,Add pypi package gpu-glm to feedstock,gmcmacran,False,Awaiting author contribution;python,,,2026-04-06 01:28:51+00:00,
 32871,Add r-neonos,matthewfeickert,True,R;review-requested,danielnachun,2026-04-08 07:08:28+00:00,2026-04-06 04:03:58+00:00,2026-04-08 07:08:28+00:00
 32872,add pyexiftool recipe,carlodri,True,staged-recipes;review-requested,ocefpaf,2026-05-28 11:17:32+00:00,2026-04-06 09:37:38+00:00,2026-05-28 11:17:32+00:00
 32873,Add QEMU for ZIG,MementoRC,False,review-requested;c-cpp,,,2026-04-06 12:28:12+00:00,2026-04-22 19:09:39+00:00
@@ -33522,7 +33522,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34684,Add r-locom2 recipe (CRAN package LOCOM2 v1.0),MartinaCardinali,False,,,,2026-08-31 10:59:33+00:00,2026-08-31 14:56:30+00:00
 34685,Add Puffin an FEL simulator,ken-lauer,True,Awaiting author contribution;staged-recipes,eunos-1128,2026-09-03 02:34:02+00:00,2026-08-31 19:32:58+00:00,2026-09-03 02:34:02+00:00
 34686,Add recipe for quarantine-py,halcyon-past,True,review-requested;python,ocefpaf,2026-09-01 17:01:51+00:00,2026-08-31 20:11:32+00:00,2026-09-01 17:01:51+00:00
-34687,Add pantheon-gpu,saqibkh,False,,,,2026-08-31 20:15:03+00:00,
+34687,Add pantheon-gpu,saqibkh,True,review-requested;python,ocefpaf,2026-09-28 09:50:48+00:00,2026-08-31 20:15:03+00:00,2026-09-28 09:50:48+00:00
 34688,Adding skyplot package,1cosmologist,True,,eunos-1128,2026-09-01 04:12:17+00:00,2026-09-01 00:17:53+00:00,2026-09-01 04:12:17+00:00
 34689,Add pit-release-gate,MaxWellApexLab,False,,,,2026-09-01 07:51:35+00:00,
 34690,Add pixi-pfx,wolfv,True,,wolfv,2026-09-01 13:45:26+00:00,2026-09-01 07:55:09+00:00,2026-09-01 13:45:26+00:00
@@ -33728,11 +33728,11 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34892,Add strata-bench feedstock,movahedi-ca,False,,,,2026-09-19 21:43:41+00:00,
 34893,Add lintlang 0.6.0,roli-lpci,False,,,,2026-09-19 23:59:10+00:00,
 34894,Add recipe: yfinance-ta-patterns,eminsk,False,review-requested;python,,,2026-09-20 11:45:37+00:00,
-34895,Add recipe: agentjit,eminsk,False,,,,2026-09-20 12:42:47+00:00,
-34896,Add recipe: nanogemm,eminsk,False,,,,2026-09-20 12:45:55+00:00,
-34897,Add recipe: nanorecall,eminsk,False,,,,2026-09-20 12:48:04+00:00,
-34898,Add recipe: nanovector,eminsk,False,,,,2026-09-20 12:49:59+00:00,
-34899,Add recipe: xlsx-viewer-pro,eminsk,False,,,,2026-09-20 12:52:06+00:00,
+34895,Add recipe: agentjit,eminsk,False,review-requested;python,,,2026-09-20 12:42:47+00:00,
+34896,Add recipe: nanogemm,eminsk,False,review-requested;python,,,2026-09-20 12:45:55+00:00,
+34897,Add recipe: nanorecall,eminsk,False,review-requested;python,,,2026-09-20 12:48:04+00:00,
+34898,Add recipe: nanovector,eminsk,False,review-requested;python,,,2026-09-20 12:49:59+00:00,
+34899,Add recipe: xlsx-viewer-pro,eminsk,False,review-requested;python,,,2026-09-20 12:52:06+00:00,
 34900,Adding rf-plateau-hpo,lange-am,True,review-requested;python,ocefpaf,2026-09-21 11:04:00+00:00,2026-09-20 18:42:03+00:00,2026-09-21 11:04:00+00:00
 34901,sqlite-vec package,rxm7706,False,,,,2026-09-20 22:19:59+00:00,2026-09-24 08:47:39+00:00
 34902,Add peritheos 0.10.0,CPrescher,False,review-requested;rust,,,2026-09-21 07:45:17+00:00,
@@ -33781,7 +33781,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34946,Add recipe for pyjson5,jack-pappas,False,review-requested;python-c,,,2026-09-25 15:14:18+00:00,
 34947,New package: pet-rd-tools,casperdcl,False,,,,2026-09-25 18:00:13+00:00,2026-09-25 20:11:59+00:00
 34948,Add qiskit-mitigation,wshanks,False,review-requested;python,,,2026-09-25 18:56:43+00:00,
-34949,Add pet-rd-tools recipe,casperdcl,False,,,,2026-09-25 20:21:51+00:00,
+34949,Add pet-rd-tools,casperdcl,False,review-requested;c-cpp,,,2026-09-25 20:21:51+00:00,
 34950,Add recipe for ``genbadge``,pb01ka,False,review-requested;python,,,2026-09-25 21:30:12+00:00,
 34951,Add tilelang 0.1.14,iamthebot,False,,,,2026-09-26 05:13:20+00:00,
 34952,add package gSolve v5.7.0,craigmillernz,False,,,,2026-09-26 06:31:08+00:00,2026-09-26 21:43:06+00:00
@@ -33791,6 +33791,21 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34956,Add recipe for pgjdbc,rxm7706,False,,,,2026-09-26 16:22:13+00:00,
 34957,Add whiteboard,jeongseok-meta,False,,,,2026-09-26 17:26:00+00:00,2026-09-26 20:03:17+00:00
 34958,Add CRAN package FIAstemmap,ctoney,False,R;review-requested,,,2026-09-26 18:16:06+00:00,
-34959,add package pygtide v0.9.1,craigmillernz,False,,,,2026-09-26 21:44:28+00:00,
+34959,Add package pygtide v0.9.2,craigmillernz,False,review-requested;python,,,2026-09-26 21:44:28+00:00,
 34960,Add isar-tools,ManuelLerchner,False,review-requested;python,,,2026-09-27 01:47:33+00:00,
 34961,Add turso,XhstormR,False,review-requested;rust,,,2026-09-27 10:06:37+00:00,
+34962,Add octavius,jp-duminy,True,review-requested;python,ocefpaf,2026-09-28 10:05:30+00:00,2026-09-27 12:05:05+00:00,2026-09-28 10:05:30+00:00
+34963,Add ast-grep-cli,rxm7706,False,,,,2026-09-27 12:32:52+00:00,
+34964,Add mbirtorch,cabouman,False,review-requested;python,,,2026-09-27 17:50:42+00:00,
+34965,Add DBDelve,sumanth-manchala,False,review-requested;rust,,,2026-09-27 19:12:13+00:00,
+34966,Adding causal-hybrid-control,ilgrad,True,review-requested;python,ocefpaf,2026-09-28 10:08:51+00:00,2026-09-27 20:32:13+00:00,2026-09-28 10:08:51+00:00
+34967,add pgjax recipe,knaaptime,False,,,,2026-09-27 22:57:46+00:00,
+34968,Add cosmulator,DilyOng,False,,,,2026-09-28 03:52:24+00:00,
+34969,Add xstar-tools recipe,danehkar,False,,,,2026-09-28 05:49:00+00:00,2026-09-28 06:57:23+00:00
+34970,Add xstar-tools,danehkar,False,,,,2026-09-28 06:36:23+00:00,
+34971,Add ttkbootstrap,matthewfeickert,False,,,,2026-09-28 07:51:09+00:00,
+34972,add aresys io,matteoaletti,False,review-requested;python,,,2026-09-28 08:03:50+00:00,
+34973,Add numgrid,jan-janssen,True,staged-recipes;review-requested;rust,ocefpaf,2026-09-28 10:49:20+00:00,2026-09-28 09:36:48+00:00,2026-09-28 10:49:20+00:00
+34974,Add cargo-about,ytausch,True,review-requested;rust,pavelzw,2026-09-28 10:04:10+00:00,2026-09-28 09:44:54+00:00,2026-09-28 10:04:10+00:00
+34975,Add pyfock,jan-janssen,False,staged-recipes;review-requested;python,,,2026-09-28 10:26:26+00:00,
+34976,Add crmvec,anun333,False,staged-recipes;review-requested,,,2026-09-28 10:41:30+00:00,
