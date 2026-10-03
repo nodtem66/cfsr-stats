@@ -4,8 +4,8 @@
     "total": 775
   },
   "c-cpp": {
-    "closed": 752,
-    "total": 936
+    "closed": 755,
+    "total": 937
   },
   "go": {
     "closed": 182,
@@ -20,7 +20,7 @@
     "total": 8
   },
   "nodejs": {
-    "closed": 79,
+    "closed": 80,
     "total": 137
   },
   "perl": {
@@ -28,8 +28,8 @@
     "total": 48
   },
   "python": {
-    "closed": 6131,
-    "total": 6738
+    "closed": 6134,
+    "total": 6741
   },
   "python-c": {
     "closed": 508,
