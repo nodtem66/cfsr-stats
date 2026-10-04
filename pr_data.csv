@@ -30133,7 +30133,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 31234,Adding GRASS 8.4.1. for Linux,dudaka,False,review-requested;python-c,,,2025-10-15 16:56:53+00:00,2026-01-07 20:11:42+00:00
 31235,add pluck-graphql,bollwyvl,True,review-requested;python,ocefpaf,2025-10-16 10:25:52+00:00,2025-10-15 18:51:51+00:00,2025-10-16 10:25:52+00:00
 31236,Added ginput package,joshua-laughner,True,staged-recipes;review-requested;python,synapticarbors,2025-12-04 19:32:19+00:00,2025-10-16 04:15:28+00:00,2025-12-04 19:32:20+00:00
-31237,Adding pack CLI,kdavis586,False,review-requested;go,,,2025-10-16 04:35:06+00:00,
+31237,Adding pack CLI,kdavis586,False,review-requested;go,,,2025-10-16 04:35:06+00:00,2026-10-04 03:17:49+00:00
 31238,Add jbig2en,alf0ns3,False,,,,2025-10-16 06:12:33+00:00,2026-07-24 17:47:05+00:00
 31239,Adding ecco_access,andrewdelman,True,staged-recipes;review-requested;python,ocefpaf,2025-10-17 17:36:40+00:00,2025-10-16 07:12:01+00:00,2025-10-17 17:36:40+00:00
 31240,Add recipe for jdisk v0.2.3,chengjilai,False,,,,2025-10-16 08:51:42+00:00,
@@ -33782,7 +33782,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34947,New package: pet-rd-tools,casperdcl,False,,,,2026-09-25 18:00:13+00:00,2026-09-25 20:11:59+00:00
 34948,Add qiskit-mitigation,wshanks,True,review-requested;python,ocefpaf,2026-09-29 12:51:51+00:00,2026-09-25 18:56:43+00:00,2026-09-29 12:51:51+00:00
 34949,Add pet-rd-tools,casperdcl,False,review-requested;c-cpp,,,2026-09-25 20:21:51+00:00,
-34950,Add recipe for ``genbadge``,pb01ka,False,review-requested;python,,,2026-09-25 21:30:12+00:00,
+34950,Add recipe for ``genbadge``,pb01ka,False,staged-recipes;review-requested;python,,,2026-09-25 21:30:12+00:00,
 34951,Add tilelang 0.1.14,iamthebot,True,,wolfv,2026-09-30 17:31:15+00:00,2026-09-26 05:13:20+00:00,2026-09-30 17:31:15+00:00
 34952,add package gSolve v5.7.0,craigmillernz,False,,,,2026-09-26 06:31:08+00:00,2026-09-26 21:43:06+00:00
 34953,Add openfeature-flagd-core,rxm7706,False,review-requested;python,,,2026-09-26 13:16:06+00:00,
@@ -33812,7 +33812,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34977,Add recipe for psmux,jsmolic,False,review-requested;rust,,,2026-09-28 13:41:48+00:00,
 34978,Add sparsediffpy recipe,Transurgeon,False,,,,2026-09-28 15:30:23+00:00,
 34979,Add r-moire,kathrynmurie,False,R;review-requested;c-cpp,,,2026-09-28 18:10:45+00:00,
-34980,Add mathematicskit,cpoli,False,,,,2026-09-28 19:13:22+00:00,
+34980,Add mathematicskit,cpoli,True,staged-recipes;review-requested;python,pavelzw,2026-10-04 07:47:10+00:00,2026-09-28 19:13:22+00:00,2026-10-04 07:47:10+00:00
 34981,add nats-server,carlodri,True,staged-recipes;review-requested;go,eunos-1128,2026-09-29 03:11:44+00:00,2026-09-28 19:23:36+00:00,2026-09-29 03:11:44+00:00
 34982,Add pym4e recipe,AlvaroDFC,True,review-requested;python,matthewfeickert,2026-09-30 19:04:10+00:00,2026-09-28 22:06:47+00:00,2026-09-30 19:04:10+00:00
 34983,Add chromite recipe,NastyaNoTamashii,False,,,,2026-09-29 00:20:06+00:00,
@@ -33859,7 +33859,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35024,Add `orloge` (and its dep `cpsat-logutils`) new Python deps of `pulp`,mgorny,False,review-requested;python,,,2026-10-01 14:43:31+00:00,
 35025,Add twobitreader-rs,andrewdelong,False,,,,2026-10-01 17:58:51+00:00,
 35026,Add recipe for ``zvec``,pb01ka,False,,,,2026-10-01 18:51:25+00:00,
-35027,Add package gSolve v5.7.0,craigmillernz,False,,,,2026-10-01 18:54:33+00:00,
+35027,Add package gSolve v5.7.0,craigmillernz,False,review-requested;python,,,2026-10-01 18:54:33+00:00,
 35028,Adding szl-guardrail-receipt szl-nemo and vsp-otel,stephenlutar2-hash,False,staged-recipes;review-requested;python,,,2026-10-01 19:24:55+00:00,
 35029,Adding rdocx and rpptx,hadim,False,staged-recipes;review-requested;rust,,,2026-10-01 20:09:25+00:00,
 35030,Add recipe for ``zowe-python-sdk-bundle``,pb01ka,False,review-requested;python,,,2026-10-01 20:33:53+00:00,
@@ -33871,8 +33871,14 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35036,Add sac recipe (SAC Seismic Analysis Code community edition),claudiodsf,False,review-requested;c-cpp,,,2026-10-02 08:58:57+00:00,
 35037,Add lightpanda,pentamorfico,False,,,,2026-10-02 10:03:53+00:00,2026-10-03 10:08:06+00:00
 35038,Add scientific-computing-system-2.0,Furox-Art,False,,,,2026-10-02 16:11:51+00:00,
-35039,Add labware,kingbedjed,False,staged-recipes;review-requested,,,2026-10-02 20:27:15+00:00,
-35040,Add s2fft,mwyau,False,,,,2026-10-03 02:06:55+00:00,
+35039,Add labware,kingbedjed,True,Awaiting author contribution;staged-recipes,hmaarrfk,2026-10-03 14:55:55+00:00,2026-10-02 20:27:15+00:00,2026-10-03 14:55:55+00:00
+35040,Add s2fft,mwyau,False,review-requested;python-c,,,2026-10-03 02:06:55+00:00,
 35041,Adding ntpstats,thiagodefreitas,False,staged-recipes;review-requested;python,,,2026-10-03 06:11:07+00:00,
-35042,Add chemistrykit physicskit and tbkit,cpoli,False,,,,2026-10-03 09:59:29+00:00,
+35042,Add chemistrykit physicskit and tbkit,cpoli,True,staged-recipes;review-requested;python,pavelzw,2026-10-04 07:48:07+00:00,2026-10-03 09:59:29+00:00,2026-10-04 07:48:07+00:00
 35043,Add backtest-integrity-guard,suguobin2021,False,,,,2026-10-03 10:56:01+00:00,
+35044,Add Lightpanda 1.0.0,pentamorfico,False,staged-recipes;review-requested,,,2026-10-03 11:47:29+00:00,
+35045,adding bw-functional 0.1.0,bsteubing,False,review-requested;python,,,2026-10-03 14:49:56+00:00,
+35046,Add tinyopt v0.7.0,julien-michot,False,,,,2026-10-03 23:59:23+00:00,2026-10-04 00:11:23+00:00
+35047,Add Tinyopt v0.7.1,julien-michot,False,,,,2026-10-04 00:11:47+00:00,
+35048,Add blockchainkit,cpoli,False,,,,2026-10-04 10:13:10+00:00,
+35049,Add depsmith,ArjunRachithcf,False,staged-recipes;review-requested;rust,,,2026-10-04 11:06:30+00:00,
