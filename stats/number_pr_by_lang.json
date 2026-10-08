@@ -8,12 +8,12 @@
     "total": 942
   },
   "go": {
-    "closed": 182,
-    "total": 215
+    "closed": 183,
+    "total": 218
   },
   "java": {
     "closed": 40,
-    "total": 63
+    "total": 64
   },
   "julia": {
     "closed": 4,
@@ -28,19 +28,19 @@
     "total": 48
   },
   "python": {
-    "closed": 6156,
-    "total": 6761
+    "closed": 6166,
+    "total": 6767
   },
   "python-c": {
     "closed": 511,
-    "total": 648
+    "total": 650
   },
   "ruby": {
     "closed": 22,
     "total": 26
   },
   "rust": {
-    "closed": 411,
+    "closed": 413,
     "total": 475
   }
 }
