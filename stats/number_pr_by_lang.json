@@ -2,17 +2,17 @@
   "R": {
     "closed": 753,
     "merged": 695,
-    "total": 775
+    "total": 778
   },
   "c-cpp": {
-    "closed": 849,
-    "merged": 757,
+    "closed": 851,
+    "merged": 759,
     "total": 942
   },
   "go": {
     "closed": 199,
     "merged": 183,
-    "total": 218
+    "total": 219
   },
   "java": {
     "closed": 54,
@@ -35,9 +35,9 @@
     "total": 48
   },
   "python": {
-    "closed": 6538,
-    "merged": 6166,
-    "total": 6767
+    "closed": 6549,
+    "merged": 6176,
+    "total": 6773
   },
   "python-c": {
     "closed": 590,
@@ -52,6 +52,6 @@
   "rust": {
     "closed": 434,
     "merged": 413,
-    "total": 475
+    "total": 476
   }
 }
