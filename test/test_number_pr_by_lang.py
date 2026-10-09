@@ -13,24 +13,34 @@ def _sample_df() -> pd.DataFrame:
         {
             "number": [1, 2, 3, 4, 5, 6, 7, 8],
             "labels": [
-                "python",           # single label
-                "python;r",         # multiple labels
-                "r",                # single label
-                "julia",            # label not in langs
-                "python",           # unmerged
-                "",                 # empty labels
-                "python;c-cpp",     # two target langs
-                "nodejs",           # single label, unmerged
+                "python",  # single label
+                "python;r",  # multiple labels
+                "r",  # single label
+                "julia",  # label not in langs
+                "python",  # unmerged
+                "",  # empty labels
+                "python;c-cpp",  # two target langs
+                "nodejs",  # single label, unmerged
             ],
             "merged": [
-                True,   # 1
-                True,   # 2
-                True,   # 3
-                True,   # 4
+                True,  # 1
+                True,  # 2
+                True,  # 3
+                True,  # 4
                 False,  # 5
-                True,   # 6
-                True,   # 7
+                True,  # 6
+                True,  # 7
                 False,  # 8
+            ],
+            "closed_at": [
+                "2015-09-02 22:15:48+00:00",  # 1
+                "2015-09-02 22:15:48+00:00",  # 2
+                "2015-09-02 22:15:48+00:00",  # 3
+                "2015-09-02 22:15:48+00:00",  # 4
+                "",  # 5
+                "2015-09-02 22:15:48+00:00",  # 6
+                "2015-09-02 22:15:48+00:00",  # 7
+                "2015-09-02 22:15:48+00:00",  # 8
             ],
         }
     ).set_index("number")
@@ -47,16 +57,16 @@ class TestNumberPrByLang(unittest.TestCase):
         result = number_pr_by_lang(self.df, LANGS)
 
         # python: rows 1,2,5,7 → total=4, merged=1,2,7 → closed=3
-        self.assertEqual(result["python"], {"total": 4, "closed": 3})
+        self.assertEqual(result["python"], {"total": 4, "merged": 3, "closed": 3})
 
         # r: rows 2,3 → total=2, merged=2,3 → closed=2
-        self.assertEqual(result["r"], {"total": 2, "closed": 2})
+        self.assertEqual(result["r"], {"total": 2, "merged": 2, "closed": 2})
 
         # c-cpp: row 7 → total=1, merged=7 → closed=1
-        self.assertEqual(result["c-cpp"], {"total": 1, "closed": 1})
+        self.assertEqual(result["c-cpp"], {"total": 1, "merged": 1, "closed": 1})
 
-        # nodejs: row 8 → total=1, merged=8 → closed=0
-        self.assertEqual(result["nodejs"], {"total": 1, "closed": 0})
+        # nodejs: row 8 → total=1 → closed=1 (unmerged)
+        self.assertEqual(result["nodejs"], {"total": 1, "merged": 0, "closed": 1})
 
     def test_excludes_julia(self):
         """julia is not in LANGS, so it should not appear in the result."""
@@ -80,10 +90,14 @@ class TestNumberPrByLang(unittest.TestCase):
                 "number": [1, 2],
                 "labels": ["ruby", "perl"],
                 "merged": [True, False],
+                "closed_at": ["2015-09-02 22:15:48+00:00", ""],
             }
         ).set_index("number")
         result = number_pr_by_lang(df, ["python", "r"])
-        self.assertEqual(result, {"python": {"total": 0, "closed": 0}, "r": {"total": 0, "closed": 0}})
+        self.assertEqual(
+            result,
+            {"python": {"total": 0, "merged": 0, "closed": 0}, "r": {"total": 0, "merged": 0, "closed": 0}},
+        )
 
     def test_partial_label_match_safety(self):
         """'python' matches 'python-c' via str.contains — known limitation."""
@@ -92,12 +106,13 @@ class TestNumberPrByLang(unittest.TestCase):
                 "number": [1],
                 "labels": ["python-c"],
                 "merged": [True],
+                "closed_at": ["2015-09-02 22:15:48+00:00"],
             }
         ).set_index("number")
         result = number_pr_by_lang(df, {"python", "python-c"})
-        self.assertEqual(result["python-c"], {"total": 1, "closed": 1})
+        self.assertEqual(result["python-c"], {"total": 1, "merged": 1, "closed": 1})
         # python also matches due to substring — document the existing behaviour
-        self.assertEqual(result["python"], {"total": 0, "closed": 0})
+        self.assertEqual(result["python"], {"total": 0, "merged": 0, "closed": 0})
 
     def test_semicolon_multilabel_parsing(self):
         """Row 2 has 'python;r' — both python and r should count it."""

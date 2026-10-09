@@ -24,10 +24,12 @@ def number_pr_by_lang(df: pd.DataFrame, langs: Iterable) -> dict:
     for lang in langs:
         mask = _label_matches(df["labels"], lang)
         total = df[mask].shape[0]
-        closed = df[mask & df["merged"]].shape[0]
+        merged = df[mask & df["merged"]].shape[0]
+        closed = df[mask & df["closed_at"].notna() & (df["closed_at"] != "")].shape[0]
         count[lang] = {
             "total": total,
-            "closed": closed
+            "merged": merged,
+            "closed": closed,
         }
     return count
 
@@ -56,13 +58,14 @@ def submission_and_acceptance_rate(df: pd.DataFrame) -> dict:
     rate = {}
     for year in range(df_year.min(), df_year.max() + 1):
         _df = df[df_year == year]
-        total_prs = len(_df)
+        unmerged_closed_prs = _df[_df["merged"] != True & _df["closed_at"].notna() & (_df["closed_at"] != "")].shape[0]
+        submitted_prs = len(_df) - unmerged_closed_prs
         closed_prs = _df["merged"].sum()
         duration = _df["created_at"].max() - _df["created_at"].min()
         duration_days = max(duration.total_seconds() / SECONDS_IN_DAY, 1)
         rate[year] = {
-            "submission": total_prs,
-            "submission_rate": round(total_prs / duration_days, config.FORMAT_DECIMAL_POINT),
+            "submission": submitted_prs,
+            "submission_rate": round(submitted_prs / duration_days, config.FORMAT_DECIMAL_POINT),
             "acceptance": int(closed_prs),
             "acceptance_rate": round(closed_prs / duration_days, config.FORMAT_DECIMAL_POINT)
         }

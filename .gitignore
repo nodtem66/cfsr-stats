@@ -1,9 +1,8 @@
 # pixi environments
-.pixi/*
-!.pixi/config.toml
+.pixi
 
 # python
-__pycache__/
+__pycache__
 *.egg-info/
 
 # vscode
