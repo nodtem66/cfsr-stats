@@ -92,8 +92,10 @@ function renderLangChart(data) {
   tbody.innerHTML = '';
   for (const l of langs) {
     const d = data.lang[l];
-    const rate = d.total > 0 ? (d.closed / d.total * 100).toFixed(2) + '%' : '—';
-    tbody.innerHTML += `<tr><td>${l}</td><td>${fmt(d.total)}</td><td>${fmt(d.closed)}</td><td>${rate}</td></tr>`;
+    const opened = d.total - d.closed;
+    const unmerged = (d.closed - d.merged);
+    const merged_rate = d.total > 0 ? (d.merged / (opened + d.merged) * 100).toFixed(2) + '%' : '—';
+    tbody.innerHTML += `<tr><td>${l}</td><td>${fmt(d.total)}</td><td>${fmt(d.closed)}</td><td>${fmt(opened)}</td><td>${fmt(d.merged)}</td><td>${merged_rate}</td></tr>`;
   }
 
   show('#lang-section');

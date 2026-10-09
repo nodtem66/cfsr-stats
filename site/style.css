@@ -83,6 +83,9 @@ header {
   font-size: 1.4rem;
   font-weight: 600;
   color: #f0f6fc;
+}
+
+.header-margin {
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #21262d;

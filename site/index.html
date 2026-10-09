@@ -22,23 +22,26 @@
 
     <!-- PRs by Language -->
     <section id="lang-section" class="section hidden">
-      <h2>📦 Pull Requests by Language</h2>
+      <h2 class="header-margin">📦 Pull Requests by Language</h2>
       <div class="chart-wrapper">
         <canvas id="langChart"></canvas>
       </div>
       <div class="table-responsive">
         <table id="lang-table">
           <thead>
-            <tr><th>Language</th><th>Total</th><th>Closed</th><th>Close Rate</th></tr>
+            <tr><th>Language</th><th>Total</th><th>Closed*</th><th>Opened</th><th>Merged</th><th>Merged Rate**</th></tr>
           </thead>
           <tbody></tbody>
+          <tfoot>
+            <tr><td colspan="6"><small>*All closed PR (Merged + Unmerged)</small><br><small>**Merged/(Opened+Merged)</small></td></tr>
+          </tfoot>
         </table>
       </div>
     </section>
 
     <!-- Submission & Acceptance Rate by Year -->
     <section id="rate-section" class="section hidden">
-      <h2>📈 Submission &amp; Acceptance Rate by Year</h2>
+      <h2 class="header-margin">📈 Submission &amp; Acceptance Rate by Year</h2>
       <div class="chart-wrapper">
         <canvas id="rateChart"></canvas>
       </div>
@@ -54,7 +57,10 @@
 
     <!-- Time to Merge -->
     <section id="merge-section" class="section hidden">
-      <h2>⏱️ Time to Merge (days) by Language</h2>
+      <hgroup class="header-margin">
+        <h2>⏱️ Time to Merge (days) by Language</h2>
+        <p style="padding-left:4.8ex">Time until PRs got merged (calculated from only closed PRs). All opened PRs were excluded</p>
+      </hgroup>
       <div class="chart-wrapper">
         <canvas id="mergeChart"></canvas>
       </div>
@@ -70,7 +76,7 @@
 
     <!-- Top Reviewers -->
     <section id="reviewer-section" class="section hidden">
-      <h2>👥 Top 10 Reviewers</h2>
+      <h2 class="header-margin">👥 Top 10 Reviewers</h2>
       <div class="reviewer-grid">
         <div class="reviewer-col">
           <h3>Last 6 Months</h3>
