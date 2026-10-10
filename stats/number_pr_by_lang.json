@@ -7,11 +7,11 @@
   "c-cpp": {
     "closed": 851,
     "merged": 759,
-    "total": 942
+    "total": 943
   },
   "go": {
-    "closed": 199,
-    "merged": 183,
+    "closed": 200,
+    "merged": 184,
     "total": 219
   },
   "java": {
@@ -27,7 +27,7 @@
   "nodejs": {
     "closed": 127,
     "merged": 81,
-    "total": 138
+    "total": 140
   },
   "perl": {
     "closed": 45,
@@ -35,14 +35,14 @@
     "total": 48
   },
   "python": {
-    "closed": 6549,
-    "merged": 6176,
-    "total": 6773
+    "closed": 6554,
+    "merged": 6178,
+    "total": 6777
   },
   "python-c": {
     "closed": 590,
     "merged": 511,
-    "total": 650
+    "total": 652
   },
   "ruby": {
     "closed": 25,

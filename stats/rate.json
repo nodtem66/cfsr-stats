@@ -56,7 +56,7 @@
   "2024": {
     "acceptance": 2873,
     "acceptance_rate": 7.87,
-    "submission": 3006,
+    "submission": 3003,
     "submission_rate": 8.23
   },
   "2025": {
@@ -66,9 +66,9 @@
     "submission_rate": 6.88
   },
   "2026": {
-    "acceptance": 2173,
-    "acceptance_rate": 7.72,
-    "submission": 2877,
-    "submission_rate": 10.23
+    "acceptance": 2177,
+    "acceptance_rate": 7.71,
+    "submission": 2887,
+    "submission_rate": 10.22
   }
 }
