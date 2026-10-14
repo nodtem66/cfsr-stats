@@ -86,7 +86,7 @@
   "pavelzw": {
     "R": 0,
     "c-cpp": 4,
-    "go": 25,
+    "go": 24,
     "java": 0,
     "julia": 0,
     "nodejs": 3,
@@ -94,8 +94,8 @@
     "python": 30,
     "python-c": 1,
     "ruby": 0,
-    "rust": 51,
-    "total": 148
+    "rust": 50,
+    "total": 145
   },
   "traversaro": {
     "R": 2,
@@ -122,8 +122,8 @@
     "python": 10,
     "python-c": 1,
     "ruby": 1,
-    "rust": 12,
-    "total": 72
+    "rust": 13,
+    "total": 73
   },
   "xhochy": {
     "R": 0,
