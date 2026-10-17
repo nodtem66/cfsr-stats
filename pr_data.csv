@@ -33829,7 +33829,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34994,Add openfeature-flagd-core,killua156,False,,,,2026-09-29 21:22:33+00:00,2026-09-30 01:25:23+00:00
 34995,Add recipe for pyobjc-framework-phase,pb01ka,True,staged-recipes;review-requested;c-cpp;python,mgorny,2026-10-11 18:44:30+00:00,2026-09-29 21:51:45+00:00,2026-10-11 18:44:30+00:00
 34996,Add marimo-jupyter-extension,matthewfeickert,True,review-requested;python,ocefpaf,2026-09-30 09:57:58+00:00,2026-09-29 22:12:02+00:00,2026-09-30 09:57:58+00:00
-34997,Add pycuampcor,lijun99,False,staged-recipes;review-requested;python-c,,,2026-09-29 23:16:54+00:00,
+34997,Add pycuampcor,lijun99,True,staged-recipes;review-requested;python-c,eunos-1128,2026-10-16 14:32:11+00:00,2026-09-29 23:16:54+00:00,2026-10-16 14:32:11+00:00
 34998,add natscli recipe,carlodri,True,staged-recipes;review-requested;go,eunos-1128,2026-10-07 16:08:43+00:00,2026-09-30 06:34:00+00:00,2026-10-07 16:08:43+00:00
 34999,Add libpff as a shared library with the python bindings split out,killua156,False,,,,2026-09-30 06:35:41+00:00,
 35000,feat cyclonedds cxx,nmarticorena,True,review-requested;c-cpp,wolfv,2026-09-30 17:08:54+00:00,2026-09-30 06:55:07+00:00,2026-09-30 17:08:54+00:00
@@ -34039,14 +34039,31 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35204,Add dtmb-sdr 0.4.3 recipe,ningzichun,False,review-requested;python-c,,,2026-10-15 10:47:20+00:00,
 35205,Add bernstein,chernistry,False,review-requested;python,,,2026-10-15 16:59:43+00:00,
 35206,Added recipes for google-cloud-asset and google-cloud-access-context-manager,pb01ka,False,review-requested;python,,,2026-10-15 17:18:15+00:00,
-35207,Add libdaqp,dmeoli,False,,,,2026-10-15 17:18:57+00:00,
+35207,Add libdaqp,dmeoli,False,review-requested;c-cpp,,,2026-10-15 17:18:57+00:00,
 35208,Add snowflake and snowflake-legacy,killua156,False,review-requested;python,,,2026-10-15 18:19:44+00:00,
 35209,Add manimgx manimgx-fonts and manimgx-fonts-cjk,pavelzw,False,,,,2026-10-15 22:43:47+00:00,
-35210,Add pcodec,Hoeze,False,,,,2026-10-15 23:07:18+00:00,
+35210,Add pcodec,Hoeze,True,review-requested;python;rust,ocefpaf,2026-10-16 16:30:54+00:00,2026-10-15 23:07:18+00:00,2026-10-16 16:30:55+00:00
 35211,Add cosmocompare,DilyOng,False,,,,2026-10-16 01:11:02+00:00,
-35212,Plugin for tsgettoolbox to download data from USGS Water Data for the…,timcera,False,,,,2026-10-16 02:34:04+00:00,
-35213,Add geant4-python-application,kavyawadhwa134,False,,,,2026-10-16 05:20:19+00:00,
-35214,Add beamfeat,LD-Shell,False,Awaiting author contribution;staged-recipes;python,,,2026-10-16 06:06:41+00:00,
+35212,Plugin for tsgettoolbox to download data from USGS Water Data for the…,timcera,False,review-requested;python,,,2026-10-16 02:34:04+00:00,
+35213,Add geant4-python-application,kavyawadhwa134,False,staged-recipes;review-requested;python-c,,,2026-10-16 05:20:19+00:00,
+35214,Add beamfeat,LD-Shell,False,staged-recipes;review-requested;python,,,2026-10-16 06:06:41+00:00,
 35215,Add bazelisk 1.29.0,wolfv,True,,Hofer-Julian,2026-10-16 07:11:55+00:00,2026-10-16 06:17:28+00:00,2026-10-16 07:11:55+00:00
 35216,Add recipe for ``flask-weasyprint``,pb01ka,False,review-requested;python,,,2026-10-16 09:48:59+00:00,
 35217,Add exasol-telemetry-client,xylar,True,review-requested;python,ocefpaf,2026-10-16 10:38:10+00:00,2026-10-16 10:23:10+00:00,2026-10-16 10:38:10+00:00
+35218,Add recipe for ``pantab``,pb01ka,False,review-requested;c-cpp;python,,,2026-10-16 12:52:07+00:00,
+35219,add abb-librws,Carlo-Rosso,False,review-requested;c-cpp,,,2026-10-16 13:54:48+00:00,
+35220,Add chopcal,g5t,False,review-requested;python-c,,,2026-10-16 14:06:50+00:00,
+35221,Add recipe: screenvideo,eminsk,False,,,,2026-10-16 14:23:39+00:00,
+35222,Adding libserialport,peter-mitrano-ar,False,review-requested;c-cpp,,,2026-10-16 16:24:53+00:00,
+35223,Add ttkthemes and ttf-opensans for historical spaCR releases,EinarOlafsson,False,,,,2026-10-16 16:42:26+00:00,
+35224,Add Kerneless recipe ,Kelvinrr,False,review-requested;python,,,2026-10-16 17:10:19+00:00,
+35225,Add customtkinter 5.2.2 for historical spaCR releases,EinarOlafsson,False,,,,2026-10-16 17:12:28+00:00,
+35226,Add recipe for ``pm4y``,pb01ka,False,review-requested;python,,,2026-10-16 17:25:36+00:00,
+35227,Add fast-tsp recipe,pmrv,False,review-requested;python-c,,,2026-10-16 18:29:14+00:00,
+35228,Add r-vapour,matthewfeickert,False,,,,2026-10-16 18:37:41+00:00,
+35229,Add gridpin and gridpin-mcp,gridpin-reserve,False,review-requested;rust,,,2026-10-16 19:58:11+00:00,
+35230,Add sharpapi,sharpapi-io,False,review-requested;python,,,2026-10-16 20:11:39+00:00,
+35231,Add typeline,clintval,False,review-requested;python,,,2026-10-17 01:01:27+00:00,
+35232,Add spillsort,clintval,False,review-requested;python,,,2026-10-17 01:01:42+00:00,
+35233,Add recipe for google-cloud-datacatalog-lineage,soapy1,True,review-requested;python,ocefpaf,2026-10-17 08:43:06+00:00,2026-10-17 05:41:00+00:00,2026-10-17 08:43:06+00:00
+35234,Add libspelling,wolfv,False,,,,2026-10-17 09:02:05+00:00,

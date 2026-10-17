@@ -36,10 +36,10 @@
     "nodejs": 14,
     "perl": 0,
     "python": 124,
-    "python-c": 15,
+    "python-c": 16,
     "ruby": 0,
     "rust": 21,
-    "total": 187
+    "total": 188
   },
   "isuruf": {
     "R": 1,
@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 3,
     "perl": 0,
-    "python": 45,
+    "python": 44,
     "python-c": 1,
     "ruby": 0,
     "rust": 2,
-    "total": 56
+    "total": 55
   },
   "matthewfeickert": {
     "R": 0,
@@ -77,11 +77,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 431,
+    "python": 433,
     "python-c": 12,
     "ruby": 1,
-    "rust": 9,
-    "total": 479
+    "rust": 10,
+    "total": 481
   },
   "pavelzw": {
     "R": 0,
