@@ -33769,7 +33769,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34934,Add recipe for ``pyliquibase``,pb01ka,True,review-requested;python,ocefpaf,2026-09-25 10:38:35+00:00,2026-09-23 20:44:45+00:00,2026-09-25 10:38:35+00:00
 34935,Add recipe for silo,soapy1,True,review-requested;go,pavelzw,2026-09-25 18:19:07+00:00,2026-09-23 21:14:34+00:00,2026-09-25 18:19:07+00:00
 34936,Adding skia,pavelzw,True,,xhochy,2026-09-24 08:23:11+00:00,2026-09-23 21:31:24+00:00,2026-09-24 08:23:11+00:00
-34937,Add recipe and build script for libayatana-appindicator-glib,maurosilber,False,,,,2026-09-23 22:21:50+00:00,
+34937,Add recipe and build script for libayatana-appindicator-glib,maurosilber,False,,,,2026-09-23 22:21:50+00:00,2026-10-18 15:10:10+00:00
 34938,Adding fg-data-profiling and tabalyst ,HeavyTony2,True,review-requested;python,eunos-1128,2026-10-08 15:15:27+00:00,2026-09-23 23:44:20+00:00,2026-10-08 15:15:27+00:00
 34939,Add `conda-pycosat-solver` recipe,kenodegard,True,,jaimergp,2026-09-26 09:34:17+00:00,2026-09-24 14:32:44+00:00,2026-09-26 09:34:17+00:00
 34940,Add get-gecko-driver,killua156,True,review-requested;python,ocefpaf,2026-09-25 10:41:09+00:00,2026-09-24 18:43:43+00:00,2026-09-25 10:41:09+00:00
@@ -33915,7 +33915,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35080,Add omegaconf-1password recipe,timkpaine,True,review-requested;python,ocefpaf,2026-10-07 10:11:37+00:00,2026-10-06 23:41:31+00:00,2026-10-07 10:11:37+00:00
 35081,Add fenicsx-compat,finsberg,True,,ocefpaf,2026-10-12 10:47:40+00:00,2026-10-07 08:24:09+00:00,2026-10-12 10:47:40+00:00
 35082,Adding treams-rs,yaugenst,False,,,,2026-10-07 09:48:28+00:00,
-35083,Add tabiew recipe,christykanto,False,,,,2026-10-07 11:03:44+00:00,
+35083,Add tabiew recipe,christykanto,False,review-requested;rust,,,2026-10-07 11:03:44+00:00,
 35084,Add ismip7-interpolation,xylar,True,review-requested;python,ocefpaf,2026-10-07 20:39:35+00:00,2026-10-07 13:41:02+00:00,2026-10-07 20:39:35+00:00
 35085,Add ismip7-scalars,xylar,True,review-requested;python,ocefpaf,2026-10-07 17:11:16+00:00,2026-10-07 13:41:17+00:00,2026-10-07 17:11:16+00:00
 35086,readd shapely,ocefpaf,True,,ocefpaf,2026-10-07 22:12:20+00:00,2026-10-07 14:54:31+00:00,2026-10-07 22:12:20+00:00
@@ -33985,7 +33985,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35150,Adding pixi-policy,millsks,True,review-requested;rust,pavelzw,2026-10-14 11:25:04+00:00,2026-10-12 19:08:37+00:00,2026-10-14 11:25:04+00:00
 35151,Add stopwords,killua156,False,review-requested;python,,,2026-10-12 21:15:22+00:00,
 35152,Adding sysml2-mermaid,phreed,False,,,,2026-10-12 22:22:45+00:00,
-35153,Add ocaml-topkg and dbuenzli OCaml libraries,MementoRC,False,,,,2026-10-12 22:28:31+00:00,
+35153,Add semgrep and its OCaml dependencies (topkg dbuenzli libs lwt ppxlib),MementoRC,False,,,,2026-10-12 22:28:31+00:00,
 35154,Add gnostic and gnostic-grpc recipes,phreed,False,review-requested;go,,,2026-10-12 22:43:14+00:00,
 35155,Add dagrejs-graphlib,phreed,False,nodejs;review-requested,,,2026-10-12 23:04:00+00:00,
 35156,Add dagrejs-dagre,phreed,False,,,,2026-10-12 23:04:18+00:00,
@@ -34063,7 +34063,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35228,Add r-vapour,matthewfeickert,False,R;review-requested,,,2026-10-16 18:37:41+00:00,
 35229,Add gridpin and gridpin-mcp,gridpin-reserve,False,review-requested;rust,,,2026-10-16 19:58:11+00:00,
 35230,Add sharpapi,sharpapi-io,False,review-requested;python,,,2026-10-16 20:11:39+00:00,
-35231,Add typeline,clintval,False,review-requested;python,,,2026-10-17 01:01:27+00:00,
+35231,Add typeline,clintval,True,review-requested;python,ocefpaf,2026-10-18 19:14:02+00:00,2026-10-17 01:01:27+00:00,2026-10-18 19:14:02+00:00
 35232,Add spillsort,clintval,False,review-requested;python,,,2026-10-17 01:01:42+00:00,
 35233,Add recipe for google-cloud-datacatalog-lineage,soapy1,True,review-requested;python,ocefpaf,2026-10-17 08:43:06+00:00,2026-10-17 05:41:00+00:00,2026-10-17 08:43:06+00:00
 35234,Add libspelling,wolfv,True,,hmaarrfk,2026-10-18 03:20:27+00:00,2026-10-17 09:02:05+00:00,2026-10-18 03:20:27+00:00
@@ -34079,3 +34079,9 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35244,Add igir,pavelzw,False,,,,2026-10-18 03:43:02+00:00,
 35245,Add r-airgr,fbourgin,False,,,,2026-10-18 09:05:52+00:00,
 35246,Add rom-converto,pavelzw,False,,,,2026-10-18 10:18:33+00:00,
+35247,Add tlds,akrherz,True,review-requested;python,ocefpaf,2026-10-18 13:30:58+00:00,2026-10-18 11:25:06+00:00,2026-10-18 13:30:59+00:00
+35248,Add recipe for langchain-footballcharts,ddevetak,False,,,,2026-10-18 12:15:19+00:00,
+35249,Add fusionspace-hpr,nrdptel,False,,,,2026-10-18 13:54:32+00:00,
+35250,Adding qavf,AhmedAredah,True,staged-recipes;review-requested,ocefpaf,2026-10-19 11:04:22+00:00,2026-10-18 20:28:32+00:00,2026-10-19 11:04:22+00:00
+35251,Add classcounter,wrignj08,False,review-requested;python,,,2026-10-19 03:53:07+00:00,
+35252,Add caption-checker,markksantos,False,nodejs;review-requested,,,2026-10-19 10:48:38+00:00,

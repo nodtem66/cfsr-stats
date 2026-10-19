@@ -27,7 +27,7 @@
   "nodejs": {
     "closed": 128,
     "merged": 82,
-    "total": 144
+    "total": 145
   },
   "perl": {
     "closed": 45,
@@ -35,9 +35,9 @@
     "total": 48
   },
   "python": {
-    "closed": 6585,
-    "merged": 6208,
-    "total": 6843
+    "closed": 6587,
+    "merged": 6210,
+    "total": 6845
   },
   "python-c": {
     "closed": 592,
@@ -52,6 +52,6 @@
   "rust": {
     "closed": 445,
     "merged": 424,
-    "total": 487
+    "total": 488
   }
 }
