@@ -10,8 +10,8 @@
     "total": 957
   },
   "go": {
-    "closed": 204,
-    "merged": 188,
+    "closed": 206,
+    "merged": 190,
     "total": 221
   },
   "java": {
@@ -35,14 +35,14 @@
     "total": 48
   },
   "python": {
-    "closed": 6596,
-    "merged": 6216,
-    "total": 6865
+    "closed": 6599,
+    "merged": 6219,
+    "total": 6871
   },
   "python-c": {
-    "closed": 594,
-    "merged": 515,
-    "total": 662
+    "closed": 596,
+    "merged": 516,
+    "total": 664
   },
   "ruby": {
     "closed": 26,

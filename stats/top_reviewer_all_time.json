@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 65,
+    "python": 66,
     "python-c": 16,
     "ruby": 2,
     "rust": 7,
-    "total": 1576
+    "total": 1577
   },
   "dopplershift": {
     "R": 0,
