@@ -2,7 +2,7 @@
   "R": {
     "closed": 755,
     "merged": 696,
-    "total": 787
+    "total": 788
   },
   "c-cpp": {
     "closed": 862,
@@ -37,11 +37,11 @@
   "python": {
     "closed": 6612,
     "merged": 6231,
-    "total": 6883
+    "total": 6887
   },
   "python-c": {
-    "closed": 596,
-    "merged": 516,
+    "closed": 597,
+    "merged": 517,
     "total": 664
   },
   "ruby": {
@@ -52,6 +52,6 @@
   "rust": {
     "closed": 448,
     "merged": 427,
-    "total": 494
+    "total": 495
   }
 }
