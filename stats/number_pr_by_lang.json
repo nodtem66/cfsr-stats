@@ -10,13 +10,13 @@
     "total": 960
   },
   "go": {
-    "closed": 208,
-    "merged": 191,
-    "total": 223
+    "closed": 210,
+    "merged": 193,
+    "total": 224
   },
   "java": {
-    "closed": 54,
-    "merged": 40,
+    "closed": 55,
+    "merged": 41,
     "total": 65
   },
   "julia": {
@@ -25,9 +25,9 @@
     "total": 8
   },
   "nodejs": {
-    "closed": 128,
-    "merged": 82,
-    "total": 146
+    "closed": 129,
+    "merged": 83,
+    "total": 147
   },
   "perl": {
     "closed": 45,
@@ -35,14 +35,14 @@
     "total": 48
   },
   "python": {
-    "closed": 6628,
-    "merged": 6247,
-    "total": 6895
+    "closed": 6630,
+    "merged": 6249,
+    "total": 6898
   },
   "python-c": {
     "closed": 600,
     "merged": 520,
-    "total": 665
+    "total": 668
   },
   "ruby": {
     "closed": 26,
