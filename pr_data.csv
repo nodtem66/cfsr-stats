@@ -32322,7 +32322,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33478,Add recipe for pyreaddbc,luabida,True,review-requested;python,ocefpaf,2026-06-08 14:10:28+00:00,2026-05-26 16:27:58+00:00,2026-06-08 14:10:28+00:00
 33479,Add cell-gps,hutaobo,True,review-requested;python,ocefpaf,2026-06-01 13:59:23+00:00,2026-05-26 17:00:42+00:00,2026-06-01 13:59:23+00:00
 33480,Add playa-pdf,bosd,True,review-requested;python,ocefpaf,2026-06-04 14:35:22+00:00,2026-05-26 17:31:53+00:00,2026-06-04 14:35:22+00:00
-33481,Added recipe for ministats package from PyPI,ivanistheone,False,,,,2026-05-26 22:44:12+00:00,
+33481,Added recipe for ministats package from PyPI,ivanistheone,False,,,,2026-05-26 22:44:12+00:00,2026-10-31 04:23:05+00:00
 33482,Add recipe for google-cloud-discoveryenginer,soapy1,True,review-requested;python,ocefpaf,2026-05-27 16:50:23+00:00,2026-05-26 22:56:17+00:00,2026-05-27 16:50:23+00:00
 33483,Adding graphatoms,LiuGaoyong,True,review-requested;python,matthewfeickert,2026-06-02 17:37:56+00:00,2026-05-26 23:54:13+00:00,2026-06-02 17:37:56+00:00
 33484,Add sweet-chem-o-mine,Silh0uettie,True,review-requested;python,matthewfeickert,2026-05-27 11:48:51+00:00,2026-05-27 05:12:30+00:00,2026-05-27 11:48:51+00:00
@@ -33688,7 +33688,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34852,Add mom6_forge at version 0.3.1,angus-g,True,review-requested;python,ocefpaf,2026-09-16 11:21:03+00:00,2026-09-16 01:10:32+00:00,2026-09-16 11:21:04+00:00
 34853,Add Professor 2,matthewfeickert,False,review-requested;c-cpp;python-c,,,2026-09-16 03:09:44+00:00,2026-09-16 15:46:25+00:00
 34854,Added mat-data-handler,AHartmaier,True,review-requested;python,eunos-1128,2026-09-16 09:09:43+00:00,2026-09-16 06:23:34+00:00,2026-09-16 09:09:43+00:00
-34855,add aqua-diagnostics,oloapinivad,False,,,,2026-09-16 08:01:31+00:00,
+34855,add aqua-diagnostics,oloapinivad,False,review-requested;python,,,2026-09-16 08:01:31+00:00,
 34856,added recipe for `spmd-types`,sarthakpati,True,review-requested;python,ocefpaf,2026-09-16 20:20:33+00:00,2026-09-16 10:46:50+00:00,2026-09-16 20:20:33+00:00
 34857,Add otteRTF,tschuelia,True,review-requested;python,pavelzw,2026-09-16 12:40:09+00:00,2026-09-16 11:49:07+00:00,2026-09-16 12:40:09+00:00
 34858,Adding esg-publisher (esgcet) and its dependencies,cofinoa,True,review-requested;python,ocefpaf,2026-09-16 17:36:41+00:00,2026-09-16 12:20:35+00:00,2026-09-16 17:36:41+00:00
@@ -33885,7 +33885,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35050,Add recipe for ``zlib-state``,pb01ka,True,staged-recipes;review-requested;c-cpp;python,mgorny,2026-10-11 17:01:28+00:00,2026-10-04 15:17:21+00:00,2026-10-11 17:01:28+00:00
 35051,Add cloudflare-cli (cf),pavelzw,True,nodejs;review-requested,pavelzw,2026-10-06 11:41:08+00:00,2026-10-04 16:07:41+00:00,2026-10-06 11:41:08+00:00
 35052,Add forgejo-cli,pavelzw,True,review-requested;rust,xhochy,2026-10-05 07:10:53+00:00,2026-10-04 21:42:49+00:00,2026-10-05 07:10:53+00:00
-35053,Add sz (SZ3) and pysz,ayzk,False,review-requested;c-cpp,,,2026-10-05 05:03:35+00:00,
+35053,Add sz (SZ3) and pysz,ayzk,False,staged-recipes;review-requested;c-cpp,,,2026-10-05 05:03:35+00:00,
 35054,Adding types-grpcio,laurenzlrz,True,,pavelzw,2026-10-05 08:11:44+00:00,2026-10-05 07:13:57+00:00,2026-10-05 08:11:44+00:00
 35055,Add pyaesa 1.3.0,Ike-EDB,False,,,,2026-10-05 08:08:29+00:00,
 35056,Adding the surfs-up package.,LukeBarnard,False,,,,2026-10-05 08:46:58+00:00,
@@ -33954,7 +33954,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35119,Adding cuda-tile,LeeNethertonQC,False,,,,2026-10-09 14:26:46+00:00,2026-10-09 15:32:01+00:00
 35120,Adding positron kallichore python-environment-tools,mediocretech,False,nodejs;review-requested;rust,,,2026-10-09 14:29:56+00:00,
 35121,Add conda-ship 0.11.1,jezdez,True,review-requested;python;rust,ocefpaf,2026-10-11 11:05:53+00:00,2026-10-09 15:44:37+00:00,2026-10-11 11:05:53+00:00
-35122,Add veridist,alisadeghiaghili,False,staged-recipes;review-requested;python,,,2026-10-09 16:35:57+00:00,
+35122,Add veridist,alisadeghiaghili,True,staged-recipes;review-requested;python,eunos-1128,2026-10-31 07:36:13+00:00,2026-10-09 16:35:57+00:00,2026-10-31 07:36:13+00:00
 35123,Adding downdoc ,phreed,False,nodejs;review-requested,,,2026-10-09 18:46:30+00:00,
 35124,Add `modelscope-hub` via Grayskull,shermansiu,False,review-requested;python,,,2026-10-09 20:19:03+00:00,
 35125,Adding sbd-eigensolver,garrison,False,review-requested;python-c,,,2026-10-09 21:07:16+00:00,
@@ -34192,7 +34192,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35358,Adding visualens recipe,tomresseguier,False,,,,2026-10-26 05:42:51+00:00,
 35359,Add chirograph,johnyaku,False,,,,2026-10-26 10:36:10+00:00,
 35360,Add archivefs,johnyaku,False,,,,2026-10-26 10:36:13+00:00,
-35361,Add onnxruntime-ep-openvino (out-of-tree OpenVINO EP plugin),hmaarrfk,False,,,,2026-10-26 12:56:51+00:00,
+35361,Add onnxruntime-ep-openvino (out-of-tree OpenVINO EP plugin),hmaarrfk,True,,hmaarrfk,2026-10-30 14:00:57+00:00,2026-10-26 12:56:51+00:00,2026-10-30 14:00:57+00:00
 35362,Add recipe for dataclass-extensions,xhochy,True,,pavelzw,2026-10-26 16:12:11+00:00,2026-10-26 15:51:54+00:00,2026-10-26 16:12:11+00:00
 35363,add prodyparsers recipe,diogomart,False,review-requested;python,,,2026-10-26 17:28:29+00:00,
 35364,Add terrio recipe,giswqs,True,review-requested;python,wolfv,2026-10-28 08:02:34+00:00,2026-10-26 17:39:07+00:00,2026-10-28 08:02:34+00:00
@@ -34247,11 +34247,26 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35413,Adding birdnet,Josef-Haupt,False,review-requested;python,,,2026-10-29 12:02:07+00:00,
 35414,Add oddsrelay,oddsrelay,False,staged-recipes;review-requested,,,2026-10-29 17:41:29+00:00,
 35415,Add htfa 0.1.0,jeremymanning,False,,,,2026-10-29 17:41:47+00:00,
-35416,Add epcsaft 1.1.3 for linux-64 and CPython 3.13,tannerpolley,False,,,,2026-10-29 20:10:44+00:00,
+35416,Add epcsaft 1.2.0 for linux-64 and win-64 (CPython 3.13),tannerpolley,False,staged-recipes;review-requested,,,2026-10-29 20:10:44+00:00,
 35417,Adding rxnetgen,LiuGaoyong,True,review-requested;python,ocefpaf,2026-10-30 10:53:45+00:00,2026-10-30 01:43:06+00:00,2026-10-30 10:53:45+00:00
 35418,Add py4dgeo,Tobias-Fischer,False,review-requested;python-c,,,2026-10-30 06:28:16+00:00,
 35419,Add keyring-rs,XhstormR,False,review-requested;rust,,,2026-10-30 08:57:02+00:00,
 35420,Add astroterm,ManuelLerchner,False,,,,2026-10-30 09:17:56+00:00,
 35421,Add New Recipe: rprank,ramez17khaled,False,review-requested;python,,,2026-10-30 10:28:45+00:00,
 35422,Add cloudcompare dxflib qcustomplot,Tobias-Fischer,False,,,,2026-10-30 10:58:34+00:00,
-35423,Add flits,DirkKuiper,False,,,,2026-10-30 11:38:07+00:00,
+35423,Add flits,DirkKuiper,True,staged-recipes;review-requested,ocefpaf,2026-10-30 12:28:50+00:00,2026-10-30 11:38:07+00:00,2026-10-30 12:28:50+00:00
+35424,Add mcp-proxy-for-aws,jviehhauser,False,,,,2026-10-30 13:20:14+00:00,
+35425,Add kubernetes-mcp-server,jviehhauser,False,,,,2026-10-30 13:20:32+00:00,
+35426,Add nep-compress,captainkirk99,False,,,,2026-10-30 14:29:53+00:00,
+35427,Add glaze,nodtem66,False,review-requested;c-cpp,,,2026-10-30 14:35:47+00:00,
+35428,Add mujoco-robotics-uri 0.1.0,traversaro,False,,,,2026-10-30 14:57:58+00:00,
+35429,Add package libghostty-py,davidbrochart,True,review-requested;python,eunos-1128,2026-10-31 09:36:38+00:00,2026-10-30 16:12:07+00:00,2026-10-31 09:36:38+00:00
+35430,Add recipe for ophyd-service,dmgav,True,review-requested;python,ocefpaf,2026-10-30 19:44:52+00:00,2026-10-30 16:21:17+00:00,2026-10-30 19:44:52+00:00
+35431,Add rivoli,fmargall,True,staged-recipes;review-requested;python,ocefpaf,2026-10-30 19:08:23+00:00,2026-10-30 17:36:02+00:00,2026-10-30 19:08:23+00:00
+35432,Add occa (supersedes #28059),diogomart,False,,,,2026-10-30 18:51:16+00:00,
+35433,Add persian-rag and llm-search-eval,sadrmanesh,False,,,,2026-10-30 20:12:31+00:00,
+35434,Adding faxforagents,bensynapse,False,,,,2026-10-31 00:17:33+00:00,
+35435,Add aehcli recipe,laninenterline,False,,,,2026-10-31 04:49:12+00:00,
+35436,Add voxcity and py-vox-io,kunifujiwara,False,review-requested;python,,,2026-10-31 06:07:49+00:00,
+35437,Add trurl,XhstormR,False,review-requested;c-cpp,,,2026-10-31 06:52:18+00:00,
+35438,Add dml-rs,AsadGudzevic94,False,,,,2026-10-31 11:42:41+00:00,
