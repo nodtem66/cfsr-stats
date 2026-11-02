@@ -37,7 +37,7 @@
   "python": {
     "closed": 6662,
     "merged": 6276,
-    "total": 6934
+    "total": 6939
   },
   "python-c": {
     "closed": 601,
@@ -50,8 +50,8 @@
     "total": 26
   },
   "rust": {
-    "closed": 458,
-    "merged": 433,
-    "total": 502
+    "closed": 459,
+    "merged": 434,
+    "total": 503
   }
 }
