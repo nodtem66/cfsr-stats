@@ -32474,7 +32474,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33630,add libnanoarrow,h-vetinari,False,Awaiting author contribution;c-cpp,,,2026-06-07 08:17:23+00:00,
 33631,Add colcon extension recipes (colcon-clean colcon-meson …) and scantree,wolfv,True,,wolfv,2026-06-08 08:08:03+00:00,2026-06-07 13:04:40+00:00,2026-06-08 08:08:03+00:00
 33632,feat: add `panache`,salim-b,True,review-requested;rust,pavelzw,2026-06-08 10:29:30+00:00,2026-06-07 13:23:41+00:00,2026-06-08 10:29:31+00:00
-33633,Add jupyter-sidekick,cboettig,False,review-requested;python,,,2026-06-07 19:29:23+00:00,
+33633,Add jupyter-sidekick,cboettig,True,review-requested;python,eunos-1128,2026-11-03 06:14:47+00:00,2026-06-07 19:29:23+00:00,2026-11-03 06:14:47+00:00
 33634,Add recipe for brevo-python,rxm7706,True,review-requested;python,ocefpaf,2026-06-08 13:21:57+00:00,2026-06-07 20:59:02+00:00,2026-06-08 13:21:57+00:00
 33635,Add recipe for nested-multipart-parser,rxm7706,True,review-requested;python,ocefpaf,2026-06-08 12:14:10+00:00,2026-06-07 21:01:01+00:00,2026-06-08 12:14:11+00:00
 33636,Add recipe for django-pydantic-field,rxm7706,True,review-requested;python,ocefpaf,2026-06-08 13:25:08+00:00,2026-06-07 21:01:53+00:00,2026-06-08 13:25:08+00:00
@@ -34019,7 +34019,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35184,Adding zfls,emanspeaks,False,staged-recipes;review-requested,,,2026-10-14 14:37:58+00:00,
 35185,Adding skore-skills,glemaitre,True,review-requested;python,wolfv,2026-10-15 12:28:46+00:00,2026-10-14 14:45:04+00:00,2026-10-15 12:28:46+00:00
 35186,Adding `polars-pairing`,apcamargo,True,review-requested;python;rust,pavelzw,2026-10-14 19:27:55+00:00,2026-10-14 15:54:05+00:00,2026-10-14 19:27:55+00:00
-35187,Add libwignernj recipe,mkrack,False,staged-recipes;review-requested;c-cpp,,,2026-10-14 15:57:14+00:00,
+35187,Add libwignernj recipe,mkrack,True,staged-recipes;review-requested;c-cpp,traversaro,2026-11-02 20:09:10+00:00,2026-10-14 15:57:14+00:00,2026-11-02 20:09:10+00:00
 35188,Adding roicai,infovlad,False,review-requested;python,,,2026-10-14 16:37:49+00:00,
 35189,Add qisdebug,kriss-u,False,review-requested;python,,,2026-10-14 16:39:27+00:00,
 35190,Add cmglaciology,aaschwanden,False,review-requested;python,,,2026-10-14 18:02:15+00:00,
@@ -34166,7 +34166,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35332,Add grasshopper and grasshopper-gui,ustajan,False,staged-recipes;review-requested;c-cpp,,,2026-10-23 05:58:21+00:00,
 35333,Add NVIDIA OpenShell CLI,wolfv,False,,,,2026-10-23 10:24:02+00:00,
 35334,Add elementy,jan-janssen,True,staged-recipes;review-requested;python,ocefpaf,2026-10-23 13:49:28+00:00,2026-10-23 13:05:23+00:00,2026-10-23 13:49:29+00:00
-35335,Add recipe for rtklib,Timple,False,review-requested;c-cpp,,,2026-10-23 13:06:05+00:00,
+35335,Add recipe for rtklib,Timple,True,review-requested;c-cpp,wolfv,2026-11-03 09:40:36+00:00,2026-10-23 13:06:05+00:00,2026-11-03 09:40:36+00:00
 35336,Add `jupyter-ai-pi-lite`,jtpio,True,review-requested;python,SylvainCorlay,2026-10-29 13:10:46+00:00,2026-10-23 15:11:50+00:00,2026-10-29 13:10:47+00:00
 35337,feat: add jaxkd,beckermr,True,review-requested;python,beckermr,2026-10-26 20:36:07+00:00,2026-10-23 16:49:43+00:00,2026-10-26 20:36:07+00:00
 35338,feat: add conda-cacert-scan,beckermr,False,review-requested;rust,,,2026-10-23 17:09:28+00:00,
@@ -34241,7 +34241,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35407,Recipe for tsgettoolbox_coops plugin for tsgettoolbox,timcera,True,review-requested;python,ocefpaf,2026-10-29 11:22:37+00:00,2026-10-29 02:17:08+00:00,2026-10-29 11:22:38+00:00
 35408,Add gwforge,koustavchandra,False,review-requested;python,,,2026-10-29 06:11:32+00:00,
 35409,Adding cryocon package,rhomspuron,False,review-requested;python,,,2026-10-29 07:35:29+00:00,
-35410,Add openmvs vcglib and portable-file-dialogs,Tobias-Fischer,False,,,,2026-10-29 08:04:32+00:00,
+35410,Add openmvs vcglib and portable-file-dialogs,Tobias-Fischer,True,,traversaro,2026-11-03 03:43:16+00:00,2026-10-29 08:04:32+00:00,2026-11-03 03:43:17+00:00
 35411,Adding arrayff,LiuGaoyong,True,review-requested;python,ocefpaf,2026-10-29 12:13:00+00:00,2026-10-29 08:09:31+00:00,2026-10-29 12:13:00+00:00
 35412,Add typst-gather,cderv,True,review-requested;rust,pavelzw,2026-10-29 10:43:17+00:00,2026-10-29 10:09:41+00:00,2026-10-29 10:43:17+00:00
 35413,Adding birdnet,Josef-Haupt,False,review-requested;python,,,2026-10-29 12:02:07+00:00,
@@ -34268,9 +34268,9 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35434,Adding faxforagents,bensynapse,False,,,,2026-10-31 00:17:33+00:00,
 35435,Add aehcli recipe,laninenterline,False,,,,2026-10-31 04:49:12+00:00,
 35436,Add voxcity and py-vox-io,kunifujiwara,False,review-requested;python,,,2026-10-31 06:07:49+00:00,
-35437,Add trurl,XhstormR,False,review-requested;c-cpp,,,2026-10-31 06:52:18+00:00,
+35437,Add trurl,XhstormR,True,review-requested;c-cpp,traversaro,2026-11-02 19:41:03+00:00,2026-10-31 06:52:18+00:00,2026-11-02 19:41:03+00:00
 35438,Add dml-rs,AsadGudzevic94,False,review-requested;rust,,,2026-10-31 11:42:41+00:00,
-35439,Add mlx-whisper,pavelzw,False,,,,2026-10-31 12:50:35+00:00,
+35439,Add mlx-whisper,pavelzw,True,,xhochy,2026-11-02 15:52:51+00:00,2026-10-31 12:50:35+00:00,2026-11-02 15:52:51+00:00
 35440,Add usagerail,supertj,False,staged-recipes;review-requested,,,2026-10-31 13:35:46+00:00,
 35441,Add lemon-ng,dmeoli,False,,,,2026-10-31 22:18:45+00:00,
 35442,Add inching,jhmlam,False,,,,2026-11-01 01:17:35+00:00,2026-11-01 18:47:37+00:00
@@ -34286,4 +34286,15 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35452,Add herdr-core,pavelzw,True,review-requested;rust,Hofer-Julian,2026-11-02 08:53:57+00:00,2026-11-01 23:54:07+00:00,2026-11-02 08:53:57+00:00
 35453,Add stormtrack,syedhamidali,False,staged-recipes;review-requested;python,,,2026-11-02 06:18:25+00:00,
 35454,feat: add r-brand.yml,mcanouil,False,,,,2026-11-02 09:29:34+00:00,2026-11-02 09:34:48+00:00
-35455,Add imas-paraview,munechika-koyo,False,,,,2026-11-02 12:49:15+00:00,
+35455,Add imas-paraview,munechika-koyo,False,review-requested;python,,,2026-11-02 12:49:15+00:00,
+35456,Add actinv,Connoravila1,False,review-requested;rust,,,2026-11-02 17:17:25+00:00,
+35457,Add taglab,Tobias-Fischer,False,,,,2026-11-02 18:53:35+00:00,
+35458,Add fileglancer and dependencies,imagejan,False,,,,2026-11-02 20:19:24+00:00,
+35459,Add pypestutils,mwtoews,False,,,,2026-11-02 20:54:18+00:00,
+35460,Add netradiant-custom-q3map2,Vorschreibung,False,review-requested;c-cpp,,,2026-11-02 23:26:16+00:00,
+35461,Add courier-pigeon (and dependency lexeme-type),jthielen,False,review-requested;python,,,2026-11-02 23:41:03+00:00,
+35462,Add binny recipe,lonbar,False,review-requested;python,,,2026-11-03 01:16:55+00:00,
+35463,Add gitea-cli 1.0.0,romkhonglun,False,review-requested;go,,,2026-11-03 06:03:11+00:00,
+35465,Skip renamed example-v0-deprecated recipe in CI scripts,RaphaelFakhri,False,,,,2026-11-03 07:16:09+00:00,
+35466,Add recipe: scikit-clarans,ThienNguyen3001,False,staged-recipes;review-requested;python-c,,,2026-11-03 08:23:04+00:00,
+35467,Add mifarepy,SparkDrago05,False,review-requested;python,,,2026-11-03 09:32:22+00:00,
