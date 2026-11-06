@@ -11,7 +11,7 @@
     "python-c": 11,
     "ruby": 0,
     "rust": 0,
-    "total": 706
+    "total": 707
   },
   "bgruening": {
     "R": 116,
@@ -91,11 +91,11 @@
     "julia": 2,
     "nodejs": 6,
     "perl": 3,
-    "python": 3667,
+    "python": 3671,
     "python-c": 102,
     "ruby": 17,
     "rust": 58,
-    "total": 7428
+    "total": 7432
   },
   "scopatz": {
     "R": 0,
@@ -133,10 +133,10 @@
     "julia": 0,
     "nodejs": 46,
     "perl": 0,
-    "python": 443,
+    "python": 444,
     "python-c": 143,
     "ruby": 1,
     "rust": 126,
-    "total": 2144
+    "total": 2145
   }
 }
