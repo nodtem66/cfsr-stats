@@ -5,9 +5,9 @@
     "total": 789
   },
   "c-cpp": {
-    "closed": 869,
-    "merged": 776,
-    "total": 973
+    "closed": 870,
+    "merged": 777,
+    "total": 977
   },
   "go": {
     "closed": 211,
@@ -35,14 +35,14 @@
     "total": 48
   },
   "python": {
-    "closed": 6684,
-    "merged": 6297,
-    "total": 6963
+    "closed": 6690,
+    "merged": 6303,
+    "total": 6971
   },
   "python-c": {
-    "closed": 602,
-    "merged": 521,
-    "total": 682
+    "closed": 604,
+    "merged": 522,
+    "total": 685
   },
   "ruby": {
     "closed": 26,
