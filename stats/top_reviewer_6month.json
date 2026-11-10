@@ -7,11 +7,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 19,
+    "python": 18,
     "python-c": 0,
     "ruby": 0,
     "rust": 0,
-    "total": 28
+    "total": 27
   },
   "eunos-1128": {
     "R": 0,
@@ -21,11 +21,11 @@
     "julia": 1,
     "nodejs": 15,
     "perl": 0,
-    "python": 127,
+    "python": 128,
     "python-c": 16,
     "ruby": 0,
     "rust": 22,
-    "total": 193
+    "total": 194
   },
   "hmaarrfk": {
     "R": 0,
@@ -49,11 +49,11 @@
     "julia": 0,
     "nodejs": 3,
     "perl": 0,
-    "python": 43,
+    "python": 42,
     "python-c": 1,
     "ruby": 0,
     "rust": 2,
-    "total": 54
+    "total": 53
   },
   "matthewfeickert": {
     "R": 0,
@@ -63,11 +63,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 100,
+    "python": 98,
     "python-c": 6,
     "ruby": 0,
     "rust": 0,
-    "total": 121
+    "total": 119
   },
   "ocefpaf": {
     "R": 1,
@@ -77,11 +77,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 442,
+    "python": 440,
     "python-c": 12,
     "ruby": 0,
     "rust": 10,
-    "total": 501
+    "total": 499
   },
   "pavelzw": {
     "R": 0,
@@ -99,7 +99,7 @@
   },
   "traversaro": {
     "R": 1,
-    "c-cpp": 27,
+    "c-cpp": 28,
     "go": 0,
     "java": 0,
     "julia": 0,
@@ -109,7 +109,7 @@
     "python-c": 6,
     "ruby": 0,
     "rust": 2,
-    "total": 52
+    "total": 53
   },
   "wolfv": {
     "R": 1,
