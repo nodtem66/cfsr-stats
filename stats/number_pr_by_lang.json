@@ -2,12 +2,12 @@
   "R": {
     "closed": 758,
     "merged": 698,
-    "total": 789
+    "total": 790
   },
   "c-cpp": {
-    "closed": 871,
-    "merged": 778,
-    "total": 983
+    "closed": 872,
+    "merged": 779,
+    "total": 985
   },
   "go": {
     "closed": 211,
@@ -35,14 +35,14 @@
     "total": 48
   },
   "python": {
-    "closed": 6693,
-    "merged": 6306,
-    "total": 6988
+    "closed": 6703,
+    "merged": 6315,
+    "total": 6994
   },
   "python-c": {
     "closed": 605,
     "merged": 523,
-    "total": 687
+    "total": 689
   },
   "ruby": {
     "closed": 26,
@@ -50,8 +50,8 @@
     "total": 26
   },
   "rust": {
-    "closed": 463,
-    "merged": 437,
+    "closed": 464,
+    "merged": 438,
     "total": 513
   }
 }
