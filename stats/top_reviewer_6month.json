@@ -94,22 +94,22 @@
     "python": 30,
     "python-c": 0,
     "ruby": 0,
-    "rust": 46,
-    "total": 135
+    "rust": 44,
+    "total": 133
   },
   "traversaro": {
     "R": 1,
     "c-cpp": 28,
-    "go": 0,
+    "go": 1,
     "java": 0,
     "julia": 0,
     "nodejs": 0,
     "perl": 1,
     "python": 16,
-    "python-c": 6,
+    "python-c": 7,
     "ruby": 0,
     "rust": 2,
-    "total": 53
+    "total": 55
   },
   "wolfv": {
     "R": 1,
