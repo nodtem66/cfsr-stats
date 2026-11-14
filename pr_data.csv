@@ -34374,18 +34374,18 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35542,Add cutpro,ToledoSDL,False,,,,2026-11-06 23:38:06+00:00,
 35543,Add elenctic,GregoryGelfond,True,review-requested;python,synapticarbors,2026-11-10 15:57:25+00:00,2026-11-07 01:40:10+00:00,2026-11-10 15:57:25+00:00
 35544,Add py-cpuinfo2,timkpaine,True,review-requested;python,ocefpaf,2026-11-07 11:58:22+00:00,2026-11-07 03:15:13+00:00,2026-11-07 11:58:22+00:00
-35545,Add `pynvvideocodec`,shermansiu,False,staged-recipes;review-requested;python-c,,,2026-11-07 04:18:41+00:00,
+35545,Add `pynvvideocodec`,shermansiu,True,Awaiting author contribution;staged-recipes;python-c,carterbox,2026-11-13 22:36:45+00:00,2026-11-07 04:18:41+00:00,2026-11-13 22:36:45+00:00
 35546,Add yubikey-manager pyscard python-pskc,pavelzw,True,review-requested;python,xhochy,2026-11-08 05:44:56+00:00,2026-11-07 08:49:28+00:00,2026-11-08 05:44:56+00:00
 35547,Add fsspec kafka,timkpaine,True,review-requested;python,ocefpaf,2026-11-09 10:38:31+00:00,2026-11-07 17:37:29+00:00,2026-11-09 10:38:31+00:00
 35548,Add r-brand.yml,apeltzer,False,,,,2026-11-07 19:38:56+00:00,
 35549,Add pprepair,kenohori,False,review-requested;c-cpp,,,2026-11-07 20:02:18+00:00,
-35550,Add gputaskman,ManuelLerchner,False,review-requested;python,,,2026-11-07 23:52:59+00:00,
+35550,Add gputaskman,ManuelLerchner,True,review-requested;python,matthewfeickert,2026-11-13 17:01:39+00:00,2026-11-07 23:52:59+00:00,2026-11-13 17:01:39+00:00
 35551,add recipe pureapk 0.1.1,eminsk,False,,,,2026-11-08 00:51:51+00:00,
 35552,added bbb-dl (bbb_dl) 1.0.13,ReimarBauer,False,,,,2026-11-08 08:55:54+00:00,
 35553,python-ffmpeg  (python_ffmpeg) v2.0.12 added,ReimarBauer,False,review-requested;python,,,2026-11-08 10:01:01+00:00,
 35554,Add polyphys,amirhs1,True,review-requested;python,synapticarbors,2026-11-10 15:56:25+00:00,2026-11-08 13:36:28+00:00,2026-11-10 15:56:25+00:00
 35555,Add pica-suite recipe (v1 format),prathameshnium,False,review-requested;python,,,2026-11-08 15:08:27+00:00,
-35556,Add bijective-gamut,Interfluo,False,staged-recipes;review-requested,,,2026-11-08 15:38:05+00:00,
+35556,Add bijective-gamut,Interfluo,False,staged-recipes;review-requested;python-c,,,2026-11-08 15:38:05+00:00,
 35557,Add recipes for multimapping and extensionclass,jsmolic,False,review-requested;python-c,,,2026-11-09 09:52:24+00:00,
 35558,Add geometric-nn-ops-torch and hipequivariance-ops-torch,Emrys-Merlin,False,review-requested;python,,,2026-11-09 10:12:03+00:00,
 35559,Add aiqclib,takayasaito,True,review-requested;python,synapticarbors,2026-11-10 15:55:24+00:00,2026-11-09 11:01:17+00:00,2026-11-10 15:55:24+00:00
@@ -34430,7 +34430,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35599,Add typesafe-sdk,cosmicbboy,False,,,,2026-11-11 21:37:41+00:00,
 35600,Add `gitea-cli`,nodtem66,False,review-requested;go,,,2026-11-12 00:18:47+00:00,2026-11-13 09:03:28+00:00
 35601,Add genguardx,JS-CodeGamer,False,,,,2026-11-12 06:26:30+00:00,
-35602,Add aws-emulator,pavelzw,False,review-requested;rust,,,2026-11-12 08:29:01+00:00,
+35602,Add aws-emulator,pavelzw,True,review-requested;rust,pavelzw,2026-11-13 16:48:59+00:00,2026-11-12 08:29:01+00:00,2026-11-13 16:48:59+00:00
 35603,Adding CoolPlot,jowr,False,staged-recipes;review-requested;python,,,2026-11-12 09:29:45+00:00,
 35604,Add zenoh-python feedstock with eclipse-zenoh and zenoh-python outputs,traversaro,False,staged-recipes;review-requested;python;rust,,,2026-11-12 09:55:45+00:00,
 35605,Add stellarsolver[-gui] package,cgobat,False,review-requested;c-cpp,,,2026-11-12 10:21:10+00:00,
@@ -34439,11 +34439,11 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35608,Adding `python-rtmidi`,HeavyTony2,False,review-requested;python-c,,,2026-11-12 14:13:40+00:00,
 35609,Add package libghostty-vt,davidbrochart,False,review-requested;python,,,2026-11-12 14:35:53+00:00,
 35610,Add recipe for tsaad,dagewa,False,,,,2026-11-12 15:20:16+00:00,
-35611,Add zope.i18n zope.security zope.annotation and zope.publisher,killua156,False,review-requested;python-c,,,2026-11-12 21:00:35+00:00,
+35611,Add zope.i18n zope.security zope.annotation and zope.publisher,killua156,True,review-requested;python-c,mgorny,2026-11-13 20:14:12+00:00,2026-11-12 21:00:35+00:00,2026-11-13 20:14:12+00:00
 35612,Add browser-control-sdk 0.2.1 (Windows recipe v1),TitanCSA,False,,,,2026-11-12 21:07:08+00:00,
 35613,Add interceptor-multilang 1.0.1 (Windows recipe v1),TitanCSA,False,,,,2026-11-12 21:07:13+00:00,
 35614,Add torux,philippbogdan,True,staged-recipes;review-requested;python,ocefpaf,2026-11-13 10:39:29+00:00,2026-11-12 21:09:10+00:00,2026-11-13 10:39:29+00:00
-35615,Add zope.traversing zope.contentprovider and zexceptions,killua156,False,,,,2026-11-12 23:09:00+00:00,
+35615,Add zope.traversing zope.contentprovider and zexceptions,killua156,False,review-requested;python,,,2026-11-12 23:09:00+00:00,
 35616,Add kfr: kfrlib kfrlib-static kfrlib-benchmark (KFR C++ DSP framework),meiyasan,False,review-requested;c-cpp,,,2026-11-13 00:39:02+00:00,
 35617,Add lsst-desc-dsf,lonbar,False,review-requested;python,,,2026-11-13 03:00:45+00:00,2026-11-13 03:20:40+00:00
 35618,Add r-quadmesh,mdsumner,False,,,,2026-11-13 05:22:18+00:00,
@@ -34460,3 +34460,42 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35629,Add interceptor-keyboard-mouse 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 13:01:07+00:00,
 35630,Add windows-gamepad-filter 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 13:05:00+00:00,
 35631,Add windows-input-filter 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 13:16:39+00:00,
+35632,Add dsf,lonbar,False,,,,2026-11-13 14:10:40+00:00,
+35633,Adding earthcarekit Python package,koenigleon,False,staged-recipes;review-requested;python,,,2026-11-13 14:19:59+00:00,
+35634,Add windows-keyboard-mouse-filter 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 14:47:10+00:00,
+35635,Add etcd-cpp-apiv3 feedstock,gangeli-kx,False,review-requested;c-cpp,,,2026-11-13 14:50:12+00:00,
+35636,Add fyradevice 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 14:56:15+00:00,
+35637,Add fepx,rquey,False,staged-recipes;review-requested,,,2026-11-13 14:59:07+00:00,
+35638,Add vdevice 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 15:00:09+00:00,
+35639,Add windows-virtual-devices 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 15:11:46+00:00,
+35640,Add file-trace-studio 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 15:15:39+00:00,
+35641,Guard missing variant values in Moreau recipe,nodtem66,False,,,,2026-11-13 15:51:20+00:00,2026-11-14 12:32:51+00:00
+35642,Add connection-trace-studio 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:00:12+00:00,
+35643,Add process-trace-studio 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:04:06+00:00,
+35644,Add processguard-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:15:06+00:00,
+35645,Add registryguard 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:28:30+00:00,
+35646,Add storage-io-flight-recorder 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:32:23+00:00,
+35647,Add virtual-storage-fault-lab 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:43:45+00:00,
+35648,Add titan-file-filter 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:47:40+00:00,
+35649,Add titan-network-filter 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 16:58:47+00:00,
+35650,Add network-emulation-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:03:05+00:00,
+35651,Add packet-capture-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:14:30+00:00,
+35652,Add usb-trace-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:18:23+00:00,
+35653,Add virtual-network-adapter-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:29:40+00:00,
+35654,Add virtual-camera-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:33:47+00:00,
+35655,Add changed-block-tracking-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:45:10+00:00,
+35656,Add cloud-files-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 17:49:03+00:00,
+35657,Add hid-access-control 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:00:10+00:00,
+35658,Add usb-over-ip-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:04:03+00:00,
+35659,Add user-backed-virtual-disk-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:25:29+00:00,
+35660,Add remote-workstation-sdk 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:29:22+00:00,
+35661,Add hatch-native,timkpaine,True,review-requested;python,ocefpaf,2026-11-13 18:40:37+00:00,2026-11-13 18:29:49+00:00,2026-11-13 18:40:37+00:00
+35662,Add titan-audio-link 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:44:31+00:00,
+35663,Add interception-v2 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:48:24+00:00,
+35664,Add cloudcli (Claude Code UI),mediocretech,False,,,,2026-11-13 18:53:18+00:00,
+35665,Add node-interceptor 1.0.0 (Windows recipe v1),TitanCSA,False,,,,2026-11-13 18:59:31+00:00,
+35666,Fix creating moreau feedstock,isuruf,True,,isuruf,2026-11-13 20:22:08+00:00,2026-11-13 19:42:07+00:00,2026-11-13 20:22:08+00:00
+35668,Fix create moreau recipe take 2,isuruf,True,,isuruf,2026-11-13 21:46:04+00:00,2026-11-13 21:45:47+00:00,2026-11-13 21:46:04+00:00
+35669,Add modelname,BoNour,False,staged-recipes;review-requested,,,2026-11-14 05:36:23+00:00,
+35670,Add ser2netweb,haliskilic,False,staged-recipes;review-requested,,,2026-11-14 07:42:56+00:00,
+35671,Add `ggml` stack (`libggml` `libggml-*` backends and `ggml` metapackage),jjerphan,False,,,,2026-11-14 08:25:38+00:00,
