@@ -32725,7 +32725,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 33881,Add mseedpeek,destinykuehn-earthscope,True,review-requested;python,ocefpaf,2026-06-29 15:02:44+00:00,2026-06-24 21:27:36+00:00,2026-06-29 15:02:44+00:00
 33882,Add refscrub,destinykuehn-earthscope,True,review-requested;python,ocefpaf,2026-06-29 18:22:24+00:00,2026-06-24 22:03:52+00:00,2026-06-29 18:22:24+00:00
 33883,Add recipe for ``dbgpt``,pb01ka,True,review-requested;python,isuruf,2026-07-16 17:13:54+00:00,2026-06-24 22:05:55+00:00,2026-07-16 17:13:54+00:00
-33884,Adding pygfnff,LiuGaoyong,False,Awaiting author contribution;python,,,2026-06-25 01:20:51+00:00,
+33884,Adding pygfnff,LiuGaoyong,True,review-requested;python,matthewfeickert,2026-11-19 00:47:47+00:00,2026-06-25 01:20:51+00:00,2026-11-19 00:47:47+00:00
 33885,Add ibm-cos-sdk,rxm7706,False,,,,2026-06-25 02:27:49+00:00,2026-06-27 13:18:02+00:00
 33886,Add IBM Cloud Object Storage SDK suite,rxm7706,True,review-requested;python,ocefpaf,2026-06-25 11:40:22+00:00,2026-06-25 02:39:59+00:00,2026-06-25 11:40:22+00:00
 33887,Add smolagents package,rxm7706,True,review-requested;python,eunos-1128,2026-09-04 08:49:45+00:00,2026-06-25 03:56:17+00:00,2026-09-04 08:49:45+00:00
@@ -33764,7 +33764,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 34929,Add r-fuzzyranktests 0.5,whatever60,False,R;review-requested,,,2026-09-23 17:43:22+00:00,
 34930,Add cem-matching,killua156,False,review-requested;python,,,2026-09-23 18:11:03+00:00,
 34931,Add mathparse,killua156,True,review-requested;python,ocefpaf,2026-09-25 10:50:56+00:00,2026-09-23 19:13:06+00:00,2026-09-25 10:50:56+00:00
-34932,Add chatterbot,killua156,False,staged-recipes;review-requested;python,,,2026-09-23 19:25:00+00:00,
+34932,Add chatterbot,killua156,True,staged-recipes;review-requested;python,mgorny,2026-11-19 11:26:32+00:00,2026-09-23 19:25:00+00:00,2026-11-19 11:26:32+00:00
 34933,Add dataproc-spark-connect,killua156,True,review-requested;python,ocefpaf,2026-09-24 11:25:08+00:00,2026-09-23 20:02:03+00:00,2026-09-24 11:25:08+00:00
 34934,Add recipe for ``pyliquibase``,pb01ka,True,review-requested;python,ocefpaf,2026-09-25 10:38:35+00:00,2026-09-23 20:44:45+00:00,2026-09-25 10:38:35+00:00
 34935,Add recipe for silo,soapy1,True,review-requested;go,pavelzw,2026-09-25 18:19:07+00:00,2026-09-23 21:14:34+00:00,2026-09-25 18:19:07+00:00
@@ -33980,17 +33980,17 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35145,Add portfolio-risk-lab,garroshub,False,,,,2026-10-12 02:46:03+00:00,
 35146,Add option-risk-explain,garroshub,False,,,,2026-10-12 02:46:10+00:00,
 35147,Add r-shinychat recipe,dipterix,False,R;review-requested,,,2026-10-12 03:18:11+00:00,
-35148,add recipe for pythoncdt,mdealencar,False,staged-recipes;review-requested;python-c,,,2026-10-12 12:16:01+00:00,
+35148,add recipe for pythoncdt,mdealencar,True,staged-recipes;review-requested;python-c,ocefpaf,2026-11-19 11:20:10+00:00,2026-10-12 12:16:01+00:00,2026-11-19 11:20:10+00:00
 35149,Add ttl3d,soheilabadifard,True,staged-recipes;review-requested;python,matthewfeickert,2026-10-12 17:39:51+00:00,2026-10-12 15:40:03+00:00,2026-10-12 17:39:51+00:00
 35150,Adding pixi-policy,millsks,True,review-requested;rust,pavelzw,2026-10-14 11:25:04+00:00,2026-10-12 19:08:37+00:00,2026-10-14 11:25:04+00:00
-35151,Add stopwords,killua156,False,staged-recipes;review-requested;python,,,2026-10-12 21:15:22+00:00,
+35151,Add stopwords,killua156,True,staged-recipes;review-requested;python,mgorny,2026-11-19 11:22:50+00:00,2026-10-12 21:15:22+00:00,2026-11-19 11:22:50+00:00
 35152,Adding sysml2-mermaid,phreed,False,,,,2026-10-12 22:22:45+00:00,
 35153,Add semgrep and its OCaml dependencies (topkg dbuenzli libs lwt ppxlib),MementoRC,False,,,,2026-10-12 22:28:31+00:00,
 35154,Add gnostic and gnostic-grpc recipes,phreed,False,review-requested;go,,,2026-10-12 22:43:14+00:00,
 35155,Add dagrejs-graphlib,phreed,False,nodejs;review-requested,,,2026-10-12 23:04:00+00:00,
 35156,Add dagrejs-dagre,phreed,False,,,,2026-10-12 23:04:18+00:00,
 35157,Add gp-connect,XhstormR,True,review-requested;rust,wolfv,2026-10-21 09:43:05+00:00,2026-10-13 01:58:01+00:00,2026-10-21 09:43:05+00:00
-35158,Add ocaml-ppxlib ocaml-sedlex and ocaml-lwt,ManuelLerchner,False,review-requested;c-cpp,,,2026-10-13 08:25:42+00:00,
+35158,Add ocaml-ppxlib ocaml-sedlex and ocaml-lwt,ManuelLerchner,True,review-requested;c-cpp,wolfv,2026-11-19 13:25:24+00:00,2026-10-13 08:25:42+00:00,2026-11-19 13:25:24+00:00
 35159,Adding gunsnprices,gunsnprices-admin,False,review-requested;python,,,2026-10-13 09:14:56+00:00,
 35160,add recipe for kymatio 0.3.0,carlodri,True,staged-recipes;review-requested;python,ocefpaf,2026-10-13 12:44:02+00:00,2026-10-13 09:38:14+00:00,2026-10-13 12:44:02+00:00
 35161,Add solidocean,anufrievroman,True,staged-recipes;review-requested;python,ocefpaf,2026-10-14 21:26:35+00:00,2026-10-13 10:42:46+00:00,2026-10-14 21:26:35+00:00
@@ -34002,14 +34002,14 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35167,add mam4-jax,mahf708,True,review-requested;python,ocefpaf,2026-10-13 17:49:58+00:00,2026-10-13 15:35:17+00:00,2026-10-13 17:49:59+00:00
 35168,Adding uuid7-standard in conda-forge,iparask,True,review-requested;python,ocefpaf,2026-10-14 20:10:02+00:00,2026-10-13 15:48:02+00:00,2026-10-14 20:10:02+00:00
 35169,Add rustgis recipe,giswqs,False,review-requested;python,,,2026-10-13 16:27:46+00:00,
-35170,Add columnar,killua156,False,review-requested;python,,,2026-10-13 17:10:35+00:00,
+35170,Add columnar,killua156,True,review-requested;python,mgorny,2026-11-19 11:25:19+00:00,2026-10-13 17:10:35+00:00,2026-11-19 11:25:19+00:00
 35171,Adding wild linker,benjaminglass1,True,review-requested;rust,Hofer-Julian,2026-10-14 07:40:58+00:00,2026-10-13 17:16:13+00:00,2026-10-14 07:40:58+00:00
 35172,Add FreeSimpleGUI v1 recipe,reedpen,False,review-requested;python,,,2026-10-13 17:30:16+00:00,
 35173,Add keywordmoves 0.6.4,kieransimkin,False,,,,2026-10-13 17:39:42+00:00,
 35174,Add recipe for k6,AaronLionsheep,False,,,,2026-10-13 17:40:07+00:00,2026-10-13 23:06:00+00:00
 35175,Add rrdtool-bindings,akrherz,True,review-requested;python,wolfv,2026-10-15 12:29:40+00:00,2026-10-13 18:03:34+00:00,2026-10-15 12:29:40+00:00
 35176,Add recipe for kedro-skills,jsmolic,True,,wolfv,2026-10-15 12:30:04+00:00,2026-10-13 19:18:53+00:00,2026-10-15 12:30:04+00:00
-35177,Add dumb-init,killua156,False,review-requested;c-cpp,,,2026-10-13 20:37:24+00:00,
+35177,Add dumb-init,killua156,True,review-requested;c-cpp,mgorny,2026-11-18 16:03:58+00:00,2026-10-13 20:37:24+00:00,2026-11-18 16:03:58+00:00
 35178,Add adanos Python SDK 2.8.0,alexander-schneider,True,review-requested;python,ocefpaf,2026-10-14 20:54:32+00:00,2026-10-13 20:49:57+00:00,2026-10-14 20:54:32+00:00
 35179,Adding xbuild,freakboy3742,True,review-requested;python,synapticarbors,2026-10-23 17:44:48+00:00,2026-10-13 22:41:44+00:00,2026-10-23 17:44:48+00:00
 35180,Add recipe for google-cloud-os-config,soapy1,True,review-requested;python,isuruf,2026-10-14 16:07:02+00:00,2026-10-14 05:46:07+00:00,2026-10-14 16:07:02+00:00
@@ -34025,8 +34025,8 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35190,Add cmglaciology,aaschwanden,False,review-requested;python,,,2026-10-14 18:02:15+00:00,
 35191,Add urna,brennercruvinel,True,staged-recipes;review-requested;rust,eunos-1128,2026-10-17 16:09:42+00:00,2026-10-14 18:07:18+00:00,2026-10-17 16:09:43+00:00
 35192,Adding skillspector yara-python,mediocretech,True,review-requested;python;python-c,sodre,2026-10-26 17:02:40+00:00,2026-10-14 20:55:55+00:00,2026-10-26 17:02:40+00:00
-35193,Add tableau-api-lib,killua156,False,staged-recipes;review-requested;python,,,2026-10-14 20:58:41+00:00,
-35194,Add streamlit-extras,killua156,False,staged-recipes;review-requested;python,,,2026-10-14 21:02:10+00:00,
+35193,Add tableau-api-lib,killua156,True,staged-recipes;review-requested;python,mgorny,2026-11-19 11:22:08+00:00,2026-10-14 20:58:41+00:00,2026-11-19 11:22:08+00:00
+35194,Add streamlit-extras,killua156,True,staged-recipes;review-requested;python,mgorny,2026-11-19 11:28:24+00:00,2026-10-14 21:02:10+00:00,2026-11-19 11:28:24+00:00
 35195,add font-ttf-atkinson-hyperlegible-next,bollwyvl,False,nodejs;review-requested;python,,,2026-10-14 22:24:10+00:00,
 35196,Add e3sm-siteview and trame-dockview recipes,jourdain,False,review-requested;python,,,2026-10-14 22:33:28+00:00,2026-11-16 18:11:13+00:00
 35197,Adding inkan,NAVEENMN,False,review-requested;python,,,2026-10-14 22:35:03+00:00,
@@ -34040,7 +34040,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35205,Add bernstein,chernistry,False,review-requested;python,,,2026-10-15 16:59:43+00:00,
 35206,Added recipes for google-cloud-asset and google-cloud-access-context-manager,pb01ka,True,staged-recipes;review-requested;python,mgorny,2026-10-26 19:43:31+00:00,2026-10-15 17:18:15+00:00,2026-10-26 19:43:31+00:00
 35207,Add libdaqp,dmeoli,False,review-requested;c-cpp,,,2026-10-15 17:18:57+00:00,
-35208,Add snowflake-legacy,killua156,False,review-requested;python,,,2026-10-15 18:19:44+00:00,
+35208,Add snowflake-legacy,killua156,False,review-requested;python,,,2026-10-15 18:19:44+00:00,2026-11-19 06:53:15+00:00
 35209,Add manimgx manimgx-fonts and manimgx-fonts-cjk,pavelzw,False,,,,2026-10-15 22:43:47+00:00,
 35210,Add pcodec,Hoeze,True,review-requested;python;rust,ocefpaf,2026-10-16 16:30:54+00:00,2026-10-15 23:07:18+00:00,2026-10-16 16:30:55+00:00
 35211,Add cosmocompare,DilyOng,False,,,,2026-10-16 01:11:02+00:00,
@@ -34358,7 +34358,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35526,Add HiggsTools,matthewfeickert,True,review-requested;c-cpp;python-c,chrisburr,2026-11-06 22:02:49+00:00,2026-11-06 05:12:12+00:00,2026-11-06 22:02:49+00:00
 35527,Adding pygeodata and pygeodata-browser,jasperroebroek,False,staged-recipes;review-requested,,,2026-11-06 11:27:50+00:00,
 35528,Added recipe for pydtype-cpp,blackbox-tech,False,staged-recipes;review-requested;c-cpp,,,2026-11-06 12:55:15+00:00,
-35529,Adding gammapy-plugin,PreisTo,False,staged-recipes;review-requested;python,,,2026-11-06 13:05:54+00:00,
+35529,Adding gammapy-plugin,PreisTo,True,staged-recipes;review-requested;python,ocefpaf,2026-11-18 18:04:57+00:00,2026-11-06 13:05:54+00:00,2026-11-18 18:04:57+00:00
 35530,Add JerryScript recipe,sdebionne,False,review-requested;c-cpp,,,2026-11-06 13:35:18+00:00,
 35531,Add looot,walidboulanouar,False,review-requested;python,,,2026-11-06 14:32:56+00:00,
 35532,Adding desearch-py,Chkhikvadze,False,,,,2026-11-06 15:09:36+00:00,
@@ -34533,7 +34533,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35703,Add miniserve,XhstormR,True,review-requested;rust,wolfv,2026-11-17 08:34:38+00:00,2026-11-17 04:36:04+00:00,2026-11-17 08:34:38+00:00
 35704,Add libseams 2.14.0 and linkcell 0.4.2,HaoZeke,False,,,,2026-11-17 07:18:22+00:00,2026-11-17 08:42:23+00:00
 35705,adding pykmclib,LiuGaoyong,True,review-requested;python,ocefpaf,2026-11-18 10:42:03+00:00,2026-11-17 07:24:29+00:00,2026-11-18 10:42:04+00:00
-35706,Add zope.container zope.pagetemplate zope.browserresource and z3c.pt,killua156,False,review-requested;python-c,,,2026-11-17 07:26:45+00:00,
+35706,Add zope.container zope.pagetemplate zope.browserresource z3c.pt and zope.globalrequest,killua156,False,review-requested;python-c,,,2026-11-17 07:26:45+00:00,
 35707,Add panel-agents,philippjfr,False,,,,2026-11-17 09:13:59+00:00,
 35708,Add recipe for herdr-rodeo (0.2.1),claudiushaag,False,,,,2026-11-17 10:46:26+00:00,
 35709,Add fleche-numpy fleche-pandas fleche-ase,pmrv,False,review-requested;python,,,2026-11-17 11:58:02+00:00,
@@ -34544,8 +34544,8 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35714,Added Langid as a package,thewchan,True,staged-recipes;review-requested;python,ocefpaf,2026-11-18 10:37:16+00:00,2026-11-17 17:26:53+00:00,2026-11-18 10:37:16+00:00
 35715,Add mandi-net-return,swastiktawate,False,staged-recipes;review-requested,,,2026-11-17 18:39:51+00:00,
 35716,Add adv-jax-math,matthewfeickert,True,review-requested;python,ocefpaf,2026-11-18 10:38:32+00:00,2026-11-17 19:12:59+00:00,2026-11-18 10:38:32+00:00
-35717,Added simplemma as a package,thewchan,False,,,,2026-11-17 19:17:32+00:00,
-35718,Add mantis-rtm recipe,uliw,False,,,,2026-11-17 19:21:25+00:00,
+35717,Added simplemma as a package,thewchan,False,staged-recipes;review-requested;python,,,2026-11-17 19:17:32+00:00,
+35718,Add mantis-rtm recipe,uliw,False,review-requested;python,,,2026-11-17 19:21:25+00:00,
 35719,Add cuid2 recipe,timkpaine,True,review-requested;python,isuruf,2026-11-18 00:47:12+00:00,2026-11-17 22:29:01+00:00,2026-11-18 00:47:12+00:00
 35720,Add shacl-py and its DataLad metadata dependencies,Shavindra,False,,,,2026-11-18 01:31:14+00:00,
 35721,Add echodataflow,leewujung,False,,,,2026-11-18 02:19:41+00:00,
@@ -34553,6 +34553,16 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35723,Add movoa 0.1.0,hanshs474,False,,,,2026-11-18 08:01:22+00:00,
 35724,Add mawk,nh13,False,,,,2026-11-18 08:44:45+00:00,
 35725,Add r-bat recipe,PaulineSGN,False,R;review-requested,,,2026-11-18 09:46:54+00:00,
-35726,Add flexiblas,HaoZeke,False,,,,2026-11-18 10:58:32+00:00,
-35727,Add morphogen,jdirr,False,staged-recipes;review-requested,,,2026-11-18 11:29:20+00:00,
-35728,Add alexandria and act-utilities,dspoel,False,,,,2026-11-18 11:43:24+00:00,
+35726,Add flexiblas,HaoZeke,False,staged-recipes;review-requested;c-cpp,,,2026-11-18 10:58:32+00:00,
+35727,Add morphogen,jdirr,False,staged-recipes;review-requested;python,,,2026-11-18 11:29:20+00:00,
+35728,Add alexandria and act-utilities,dspoel,False,staged-recipes;review-requested;c-cpp,,,2026-11-18 11:43:24+00:00,
+35729,Add auto-eeg-analysis 0.3.4,dengzhe-hou,False,review-requested;python,,,2026-11-18 15:17:39+00:00,
+35730,Add policyengine suite (policyengine-core -us -uk -canada -ng -il policyengine) and microdf-python spm-calculator,MementoRC,False,review-requested;python,,,2026-11-18 15:58:34+00:00,
+35731,Add clearscale,btbest,True,review-requested;python,ocefpaf,2026-11-18 17:59:07+00:00,2026-11-18 17:10:22+00:00,2026-11-18 17:59:07+00:00
+35732,Adding rare-tails,camarois,False,,,,2026-11-18 21:09:12+00:00,
+35733,Add anki,pavelzw,False,,,,2026-11-18 23:34:17+00:00,
+35734,Add nvsmi recipe,jasonjunweilyu,True,review-requested;python,ocefpaf,2026-11-19 11:17:35+00:00,2026-11-18 23:36:27+00:00,2026-11-19 11:17:35+00:00
+35735,Add bayesline,eXtremeGravityInstitute,False,review-requested;python,,,2026-11-19 11:00:46+00:00,
+35736,Add pyccapt,jan-janssen,False,staged-recipes;review-requested;python,,,2026-11-19 11:07:31+00:00,
+35737,Add font-jetbrains-mono,pavelzw,True,staged-recipes;review-requested,pavelzw,2026-11-19 14:36:50+00:00,2026-11-19 12:59:45+00:00,2026-11-19 14:36:51+00:00
+35738,Add package anytext,davidbrochart,False,review-requested;python,,,2026-11-19 13:13:46+00:00,

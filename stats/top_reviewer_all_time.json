@@ -91,11 +91,11 @@
     "julia": 2,
     "nodejs": 7,
     "perl": 3,
-    "python": 3697,
-    "python-c": 102,
+    "python": 3700,
+    "python-c": 103,
     "ruby": 17,
     "rust": 60,
-    "total": 7460
+    "total": 7464
   },
   "scopatz": {
     "R": 0,
