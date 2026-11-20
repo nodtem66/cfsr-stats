@@ -64,10 +64,10 @@
     "nodejs": 0,
     "perl": 0,
     "python": 19,
-    "python-c": 2,
+    "python-c": 4,
     "ruby": 0,
     "rust": 3,
-    "total": 29
+    "total": 31
   },
   "ocefpaf": {
     "R": 2,
@@ -95,7 +95,7 @@
     "python-c": 0,
     "ruby": 0,
     "rust": 48,
-    "total": 126
+    "total": 127
   },
   "traversaro": {
     "R": 1,
