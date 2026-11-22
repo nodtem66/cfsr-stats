@@ -34154,7 +34154,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35320,Add in-toto 3.1.0,jezdez,True,review-requested;python,ocefpaf,2026-10-22 19:07:18+00:00,2026-10-22 16:34:22+00:00,2026-10-22 19:07:18+00:00
 35321,Add in-toto-attestation 0.9.3,jezdez,True,review-requested;python,ocefpaf,2026-10-22 19:08:53+00:00,2026-10-22 16:34:27+00:00,2026-10-22 19:08:53+00:00
 35322,Add conda-sigstore 0.1.3,jezdez,True,review-requested;python,ocefpaf,2026-10-22 19:06:22+00:00,2026-10-22 16:35:56+00:00,2026-10-22 19:06:22+00:00
-35323,Add sangfor-scp,erelbi,False,staged-recipes;review-requested,,,2026-10-22 17:15:30+00:00,
+35323,Add sangfor-scp,erelbi,False,staged-recipes;review-requested;python,,,2026-10-22 17:15:30+00:00,
 35324,Add recipe for hipblas-common that creates the libhipblas-common-devel output,traversaro,True,review-requested;c-cpp,ocefpaf,2026-10-22 19:50:03+00:00,2026-10-22 18:35:08+00:00,2026-10-22 19:50:03+00:00
 35325,adding pymanopt geoopt,vivekbhr,True,review-requested;python,ocefpaf,2026-10-23 11:39:01+00:00,2026-10-22 19:24:32+00:00,2026-10-23 11:39:01+00:00
 35326,Add recipe for aqlprofile with libaqlprofile and libaqlprofile-devel outputs,traversaro,True,,zklaus,2026-11-16 09:20:02+00:00,2026-10-22 20:53:50+00:00,2026-11-16 09:20:02+00:00
@@ -34394,7 +34394,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35562,conda-forge.yml: Update `vm_image` setting,mgorny,True,maintenance,h-vetinari,2026-11-09 21:25:08+00:00,2026-11-09 13:56:59+00:00,2026-11-09 21:25:08+00:00
 35563,Add ultrafast-pycocotools,developer0hye,False,review-requested;python-c,,,2026-11-09 15:20:05+00:00,
 35565,Add hhgsfa,melvinrdn,False,,,,2026-11-09 15:56:14+00:00,2026-11-09 16:01:48+00:00
-35566,Add pyramids-mesh pyramids-citymodels and pointclouds,MAfarrag,False,review-requested;python,,,2026-11-09 19:42:17+00:00,
+35566,Add pyramids-mesh pyramids-citymodels pointclouds and pyramids-lazy,MAfarrag,False,review-requested;python,,,2026-11-09 19:42:17+00:00,
 35567,Add smsd and smsd-cuda,asad,False,staged-recipes;review-requested;python-c,,,2026-11-09 22:45:58+00:00,
 35568,Add soapysdr-module-ionos,zodoczi,False,staged-recipes;review-requested;c-cpp,,,2026-11-09 23:53:50+00:00,
 35569,Add mathic,d-torrance,False,review-requested;c-cpp,,,2026-11-10 04:00:50+00:00,
@@ -34579,14 +34579,14 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35749,Add recipe for flake8-async,jsmolic,False,review-requested;python,,,2026-11-20 10:36:09+00:00,
 35750,Add ocaml-js-of-ocaml,ManuelLerchner,False,,,,2026-11-20 10:36:36+00:00,
 35751,Add recipe for httpx-auth,jsmolic,False,review-requested;python,,,2026-11-20 10:50:55+00:00,
-35752,add multimetricdiagram,tomsail,False,,,,2026-11-20 11:41:16+00:00,
+35752,add multimetricdiagram,tomsail,False,review-requested;python,,,2026-11-20 11:41:16+00:00,
 35753,Add emaki,hanshs474,False,,,,2026-11-20 11:46:49+00:00,
 35754,Add recipe for library-skills,m-rossi,False,review-requested;python,,,2026-11-20 11:51:33+00:00,
 35755,Add recipe for aiida-dlpoly,BTSpeake,False,review-requested;python,,,2026-11-20 11:51:52+00:00,
 35756,Add recipe for ``arize-otel``,pb01ka,False,review-requested;python,,,2026-11-20 11:54:47+00:00,
 35757,Add recipe for fastapi-cloud-cli and required dependencies,jsmolic,False,,,,2026-11-20 12:13:37+00:00,
 35758,Add browser-harness and fetch-use,eunos-1128,False,review-requested;python,,,2026-11-20 16:49:01+00:00,
-35759,Add firecrawl-anydoc v0.2.4,eunos-1128,False,,,,2026-11-20 16:55:58+00:00,
+35759,Add firecrawl-anydoc v0.2.4,eunos-1128,False,review-requested;python-rust,,,2026-11-20 16:55:58+00:00,
 35760,Add recipes for ``chonkie`` ``chonkie-core`` and ``tokie``,pb01ka,False,review-requested;python;rust;python-rust,,,2026-11-20 17:00:53+00:00,
 35761,Add CodeClaw 0.4.6,ychampion,False,review-requested;python,,,2026-11-20 17:04:35+00:00,
 35762,Add open-gopro,roaldarbol,False,,,,2026-11-20 18:00:10+00:00,
@@ -34600,7 +34600,18 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35770,Add papiex 2.3.16,ilaflott,False,,,,2026-11-20 20:51:51+00:00,
 35771,Add ping3 recipe,soapy1,False,,,,2026-11-20 20:54:40+00:00,
 35772,Add zope extensionclass acquisition persistence accesscontrol multimapping and documenttemplate,killua156,False,,,,2026-11-20 22:03:21+00:00,
-35773,Added greybox as a package,thewchan,False,,,,2026-11-20 22:16:53+00:00,
+35773,Added greybox as a package,thewchan,False,staged-recipes;review-requested;python-c,,,2026-11-20 22:16:53+00:00,
 35774,Add `quickjs-ng` and `pymcurl`,dhirschfeld,False,review-requested;python-c,,,2026-11-20 22:59:47+00:00,
 35775,Add libojph,hmaarrfk,True,,hmaarrfk,2026-11-21 03:56:11+00:00,2026-11-21 02:24:10+00:00,2026-11-21 03:56:11+00:00
-35776,Add hdf5-jpeg2000,hmaarrfk,False,,,,2026-11-21 05:32:18+00:00,
+35776,Add jpeg2000-hdf5-plugin,hmaarrfk,True,,hmaarrfk,2026-11-21 17:18:56+00:00,2026-11-21 05:32:18+00:00,2026-11-21 17:18:56+00:00
+35777,Add grobx,code1-de,False,staged-recipes;review-requested,,,2026-11-21 14:41:06+00:00,
+35778,Adding scene-streamer,patricksnape,False,,,,2026-11-21 18:11:30+00:00,
+35779,Added windows-curses as a package,thewchan,False,staged-recipes;review-requested;c-cpp;python-c,,,2026-11-21 21:11:51+00:00,
+35780,Add pbsolve,Bio-Otto,False,staged-recipes;review-requested;python-rust,,,2026-11-21 21:20:10+00:00,
+35781,Add palsparsercpp and palsparserpy,DavidSagan,False,staged-recipes;review-requested;c-cpp;python,,,2026-11-22 00:58:49+00:00,
+35782,Add matrix-sdk-python recipe,timkpaine,False,,,,2026-11-22 03:21:54+00:00,
+35783,Add termscraper,saraedum,False,review-requested;python,,,2026-11-22 06:10:49+00:00,
+35784,Add the MSVC C++ STL library,danielnachun,False,,,,2026-11-22 07:58:04+00:00,
+35785,Add pinker,stephane-caron,False,,,,2026-11-22 12:22:16+00:00,
+35786,Add cadwyn-core,xylar,False,review-requested;python,,,2026-11-22 12:59:37+00:00,
+35787,Add rustnet 1.7.0,domcyrus,False,review-requested;rust,,,2026-11-22 13:33:07+00:00,
