@@ -14,7 +14,7 @@
     "total": 707
   },
   "bgruening": {
-    "R": 116,
+    "R": 117,
     "c-cpp": 4,
     "go": 1,
     "java": 1,
@@ -25,7 +25,7 @@
     "python-c": 1,
     "ruby": 0,
     "rust": 0,
-    "total": 963
+    "total": 964
   },
   "cbrueffer": {
     "R": 119,
@@ -85,17 +85,17 @@
   },
   "ocefpaf": {
     "R": 63,
-    "c-cpp": 93,
+    "c-cpp": 94,
     "go": 17,
     "java": 9,
     "julia": 2,
     "nodejs": 7,
     "perl": 3,
-    "python": 3713,
+    "python": 3720,
     "python-c": 104,
     "ruby": 17,
     "rust": 60,
-    "total": 7478
+    "total": 7486
   },
   "scopatz": {
     "R": 0,
@@ -119,11 +119,11 @@
     "julia": 0,
     "nodejs": 0,
     "perl": 0,
-    "python": 521,
+    "python": 522,
     "python-c": 10,
     "ruby": 0,
     "rust": 35,
-    "total": 1669
+    "total": 1670
   },
   "xhochy": {
     "R": 88,
