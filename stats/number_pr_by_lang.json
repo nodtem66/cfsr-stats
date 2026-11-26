@@ -7,12 +7,12 @@
   "c-cpp": {
     "closed": 884,
     "merged": 790,
-    "total": 1017
+    "total": 1019
   },
   "go": {
     "closed": 217,
     "merged": 198,
-    "total": 231
+    "total": 232
   },
   "java": {
     "closed": 55,
@@ -35,9 +35,9 @@
     "total": 48
   },
   "python": {
-    "closed": 6785,
-    "merged": 6393,
-    "total": 7096
+    "closed": 6786,
+    "merged": 6394,
+    "total": 7109
   },
   "python-c": {
     "closed": 620,
