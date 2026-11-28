@@ -29802,7 +29802,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 30896,Add universal-mcp-markitdown,rxm7706,True,review-requested;python,ocefpaf,2025-08-29 19:24:00+00:00,2025-08-29 12:02:21+00:00,2025-08-29 19:24:00+00:00
 30897,Jurigged,rxm7706,True,review-requested;python,synapticarbors,2025-08-31 00:10:00+00:00,2025-08-29 12:07:35+00:00,2025-08-31 00:10:00+00:00
 30898,Add kanapy recipe,AHartmaier,False,,,,2025-08-29 12:25:08+00:00,2025-08-30 07:37:35+00:00
-30899,"Adding recipe for ""pygenn-suite”",Agrim-P777,False,Awaiting author contribution;python-c,,,2025-08-29 13:48:30+00:00,
+30899,"Adding recipe for ""pygenn-suite”",Agrim-P777,False,review-requested;python-c,,,2025-08-29 13:48:30+00:00,
 30900,recipe for langchain-postgres,mediocretech,True,review-requested;python,synapticarbors,2025-08-29 15:53:49+00:00,2025-08-29 14:25:25+00:00,2025-08-29 15:53:49+00:00
 30901,recipe for renovate,mediocretech,False,,,,2025-08-29 14:25:47+00:00,
 30902,Add shs libcxi,j34ni,True,,hmaarrfk,2025-08-31 11:38:50+00:00,2025-08-29 14:35:21+00:00,2025-08-31 11:38:50+00:00
@@ -34247,7 +34247,7 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35413,Adding birdnet,Josef-Haupt,False,review-requested;python,,,2026-10-29 12:02:07+00:00,
 35414,Add oddsrelay,oddsrelay,False,staged-recipes;review-requested,,,2026-10-29 17:41:29+00:00,
 35415,Add htfa 0.2.0,jeremymanning,False,review-requested;python,,,2026-10-29 17:41:47+00:00,
-35416,Add epcsaft 1.3.0 for linux-64 and win-64 (CPython 3.13),tannerpolley,False,staged-recipes;review-requested;python-c,,,2026-10-29 20:10:44+00:00,
+35416,Add epcsaft 0.1.2 for linux-64 and win-64 (CPython 3.13),tannerpolley,False,staged-recipes;review-requested;python-c,,,2026-10-29 20:10:44+00:00,
 35417,Adding rxnetgen,LiuGaoyong,True,review-requested;python,ocefpaf,2026-10-30 10:53:45+00:00,2026-10-30 01:43:06+00:00,2026-10-30 10:53:45+00:00
 35418,Add py4dgeo,Tobias-Fischer,True,review-requested;python-c,traversaro,2026-11-11 23:19:18+00:00,2026-10-30 06:28:16+00:00,2026-11-11 23:19:18+00:00
 35419,Add keyring-rs,XhstormR,True,review-requested;rust,pavelzw,2026-11-17 12:49:05+00:00,2026-10-30 08:57:02+00:00,2026-11-17 12:49:05+00:00
@@ -34683,11 +34683,24 @@ number,title,author,merged,labels,merged_by,merged_at,created_at,closed_at
 35854,Add stablehlo,isuruf,False,,,,2026-11-26 21:17:35+00:00,
 35855,Lidarforfuel,Marie59,False,,,,2026-11-27 08:47:17+00:00,
 35856,Add bilt,j-emberton,False,review-requested;python-rust,,,2026-11-27 10:01:46+00:00,
-35857,Add precice-adapter-schema.,GandotraDiya,False,,,,2026-11-27 12:38:13+00:00,
+35857,Add precice-adapter-schema.,GandotraDiya,False,review-requested;python,,,2026-11-27 12:38:13+00:00,
 35858,Add r-Voxr package,Marie59,False,,,,2026-11-27 13:24:20+00:00,
 35859,Add recipe for otf2 with libotf2 and libotf2-devel outputs,traversaro,False,staged-recipes;review-requested;c-cpp,,,2026-11-27 14:17:18+00:00,
-35860,Resubmit security as python-security,jaimergp,False,,,,2026-11-27 14:35:14+00:00,
+35860,Resubmit security as python-security,jaimergp,True,,jaimergp,2026-11-27 16:52:57+00:00,2026-11-27 14:35:14+00:00,2026-11-27 16:52:57+00:00
 35861,Add rccl feedstock with librccl and librccl-devel outputs,traversaro,False,,,,2026-11-27 15:17:56+00:00,
-35862,Add rocwmma feedstock with librocwmma-devel output,traversaro,False,,,,2026-11-27 15:30:51+00:00,
+35862,Add rocwmma feedstock with librocwmma-devel output,traversaro,False,staged-recipes;review-requested;c-cpp,,,2026-11-27 15:30:51+00:00,
 35863,Adding kubectl-oidc-login,AlexanderDinnebierQC,False,,,,2026-11-27 15:39:04+00:00,
-35864,Add recipe for `composable-kernel`,flferretti,False,,,,2026-11-27 16:01:46+00:00,
+35864,Add recipe for `composable-kernel`,flferretti,False,review-requested;c-cpp,,,2026-11-27 16:01:46+00:00,
+35865,Add recipe for hipBLASLt,flferretti,False,,,,2026-11-27 16:18:06+00:00,
+35866,Add recipe for `rocblas`,flferretti,False,,,,2026-11-27 16:18:56+00:00,
+35867,Add recipe for `rocroller`,flferretti,False,review-requested;c-cpp,,,2026-11-27 16:19:55+00:00,
+35868,Add Ocaml `semgrep` 15 dependencies (topkg ...),MementoRC,False,,,,2026-11-27 16:43:48+00:00,
+35869,Add msmbuilder-neo,sbhakat,False,staged-recipes;review-requested;python,,,2026-11-27 18:19:05+00:00,
+35870,Add recipe for llm-visuals,p-vdp,False,review-requested;python;rust,,,2026-11-27 22:31:11+00:00,
+35871,Adding cluey,rbturnbull,False,staged-recipes;review-requested,,,2026-11-28 00:30:04+00:00,
+35872,Add solidcraft recipe,oursland,False,,,,2026-11-28 01:44:10+00:00,
+35873,Add CCTZ 2.5,c8ef,False,review-requested;c-cpp,,,2026-11-28 09:24:57+00:00,
+35874,Add unviz - a visualizer of McStas instruments,Lomholy,False,review-requested;python,,,2026-11-28 11:39:43+00:00,
+35875,Add recipe for `rocmlir`,flferretti,False,,,,2026-11-28 12:47:02+00:00,
+35876,Add r-crstools,dramanica,False,R;review-requested,,,2026-11-28 13:44:04+00:00,
+35877,Add OpenHands SDK 1.63.1,eunos-1128,False,,,,2026-11-28 15:01:43+00:00,
